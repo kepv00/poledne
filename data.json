@@ -1,0 +1,6027 @@
+{
+ "title": "Poledne",
+ "shots": [
+  {
+   "num": 1,
+   "obraz": 1,
+   "size": "Detail",
+   "angle": "Top-down na sešit",
+   "move": "Statický / jemný handheld",
+   "sound": "Tlumeně recitace básničky (spolužačka) v pozadí",
+   "notes": "—",
+   "action": "Eliščina ruka dokresluje: máma a dvě děti, táta stranou.",
+   "light": "",
+   "ratio": "16:9",
+   "lit": "L001",
+   "props": [
+    "Tužka",
+    "Čítanka"
+   ],
+   "flags": [
+    "Eliška (7 let)"
+   ],
+   "img": "img/001.jpg",
+   "day": "2026-11-05",
+   "dayOrder": 12,
+   "thumb": "img/001_t.jpg"
+  },
+  {
+   "num": 2,
+   "obraz": 1,
+   "size": "Polocelek (dvojzáběr)",
+   "angle": "Ze strany, eye-level",
+   "move": "Statický",
+   "sound": "Spolužačka recituje (pokračuje)",
+   "notes": "Vidíme JEN recitující holku a Učitelku — ne ostatní děti (necastovat)",
+   "action": "Spolužačka recituje u tabule, Učitelka sedí u katedry.",
+   "light": "",
+   "ratio": "16:9",
+   "lit": "L001",
+   "props": [
+    "Tužka",
+    "Čítanka"
+   ],
+   "flags": [
+    "Eliška (7 let)"
+   ],
+   "img": "img/002.jpg",
+   "day": "2026-11-05",
+   "dayOrder": 13,
+   "thumb": "img/002_t.jpg"
+  },
+  {
+   "num": 3,
+   "obraz": 1,
+   "size": "Detail",
+   "angle": "Zepředu, eye-level",
+   "move": "Pomalý nájezd",
+   "sound": "REPLIKA (Spolužačka): „…matku vzkřísil ještě stěží, avšak dítě – zalknuté.“",
+   "notes": "Závěr Polednice — foreshadowing",
+   "action": "Tvář Spolužačky odříkávající závěr básně.",
+   "light": "",
+   "ratio": "16:9",
+   "lit": "L002",
+   "props": [
+    "Tužka",
+    "Čítanka"
+   ],
+   "flags": [
+    "Eliška (7 let)"
+   ],
+   "img": "img/003.jpg",
+   "day": "2026-11-05",
+   "dayOrder": 14,
+   "thumb": "img/003_t.jpg"
+  },
+  {
+   "num": 4,
+   "obraz": 1,
+   "size": "Polodetail",
+   "angle": "Zepředu, mírný nadhled",
+   "move": "Statický",
+   "sound": "Recitace dozní v pozadí, tlumený šum třídy",
+   "notes": "Eliška nevnímá",
+   "action": "Eliška vzadu v lavici, sklopená k sešitu, kreslí.",
+   "light": "",
+   "ratio": "16:9",
+   "lit": "L003",
+   "props": [
+    "Tužka",
+    "Čítanka"
+   ],
+   "flags": [
+    "Eliška (7 let)"
+   ],
+   "img": "img/004.jpg",
+   "day": "2026-11-05",
+   "dayOrder": 15,
+   "thumb": "img/004_t.jpg"
+  },
+  {
+   "num": 5,
+   "obraz": 1,
+   "size": "Polodetail",
+   "angle": "Zepředu, mírný podhled",
+   "move": "Statický",
+   "sound": "REPLIKA (Učitelka): „Výborně. Posaď se.“ … „Tak kdo dál… Eliško.“",
+   "notes": "Podhled = Učitelka jako autorita",
+   "action": "Učitelka u katedry přikývne a vyvolá Elišku.",
+   "light": "",
+   "ratio": "16:9",
+   "lit": "L004",
+   "props": [
+    "Tužka",
+    "Čítanka"
+   ],
+   "flags": [
+    "Eliška (7 let)"
+   ],
+   "img": "img/005.jpg",
+   "day": "2026-11-05",
+   "dayOrder": 16,
+   "thumb": "img/005_t.jpg"
+  },
+  {
+   "num": 6,
+   "obraz": 1,
+   "size": "Detail",
+   "angle": "Zepředu, eye-level",
+   "move": "Jemný handheld",
+   "sound": "Ticho, tlumený šum třídy",
+   "notes": "Ticho se protahuje",
+   "action": "Eliška zvedne hlavu, pomalu zaklapne sešit s obrázkem.",
+   "light": "",
+   "ratio": "16:9",
+   "lit": "L008",
+   "props": [
+    "Sešit s kresbou (máma, dvě děti, táta stranou)",
+    "Tužka",
+    "Čítanka"
+   ],
+   "flags": [
+    "Eliška (7 let)"
+   ],
+   "img": "img/006.jpg",
+   "day": "2026-11-05",
+   "dayOrder": 17,
+   "thumb": "img/006_t.jpg"
+  },
+  {
+   "num": 7,
+   "obraz": 1,
+   "size": "Polodetail",
+   "angle": "Zepředu, mírný nadhled",
+   "move": "Pomalý nájezd",
+   "sound": "REPLIKA (Učitelka, mimo obraz): „To nevadí. Douč se to doma. Do zítřka.“ → ŠKOLNÍ ZVONEK ostře nasadí (přechod do Obr. 2)",
+   "notes": "Nadhled = Eliška malá/zranitelná (kontrast k Učitelce). Kamera drží na Elišce. KONEC OBRAZU 1 (tvrdý střih).",
+   "action": "Eliška stojí u lavice, mlčí, sklopí oči a lehce zavrtí hlavou — neumí to.",
+   "light": "",
+   "ratio": "16:9",
+   "lit": "L008",
+   "props": [
+    "Tužka",
+    "Čítanka"
+   ],
+   "flags": [
+    "Eliška (7 let)"
+   ],
+   "img": "img/007.jpg",
+   "day": "2026-11-05",
+   "dayOrder": 18,
+   "thumb": "img/007_t.jpg"
+  },
+  {
+   "num": 8,
+   "obraz": 2,
+   "size": "Detail",
+   "angle": "Zepředu / mírně z boku, eye-level",
+   "move": "Statický / jemný handheld",
+   "sound": "Cvaknutí dvířek skříňky; v dálce tlumené hlasy a smích",
+   "notes": "Začínáme přímo tady — komorně",
+   "action": "Eliščiny ruce zaklapnou dvířka skříňky.",
+   "light": "",
+   "ratio": "16:9",
+   "lit": "L013",
+   "props": [
+    "Aktovka (těžká)",
+    "Skříňka s dvířky",
+    "Bunda Elišky"
+   ],
+   "flags": [
+    "Eliška (7 let)"
+   ],
+   "img": "img/008.jpg",
+   "day": "2026-11-05",
+   "dayOrder": 19,
+   "thumb": "img/008_t.jpg"
+  },
+  {
+   "num": 9,
+   "obraz": 2,
+   "size": "Polodetail (přes rameno)",
+   "angle": "Přes Eliščino rameno na konec chodby skříněk",
+   "move": "Statický (přeostření do hloubky)",
+   "sound": "„Mami!“, dětský smích, kroky, dveře",
+   "notes": "JEDINÉ jiné dítě v obraze — spolužačka + rodič, na konci chodby (min. dětí)",
+   "action": "Na konci řady skříněk spolužačka skočí rodiči do náruče a odchází s ním.",
+   "light": "",
+   "ratio": "16:9",
+   "lit": "L013",
+   "props": [
+    "Aktovka (těžká)",
+    "Skříňka s dvířky",
+    "Bunda Elišky"
+   ],
+   "flags": [
+    "Eliška (7 let)"
+   ],
+   "img": "img/009.jpg",
+   "day": "2026-11-05",
+   "dayOrder": 20,
+   "thumb": "img/009_t.jpg"
+  },
+  {
+   "num": 10,
+   "obraz": 2,
+   "size": "Detail",
+   "angle": "Zepředu, eye-level",
+   "move": "Statický",
+   "sound": "Hlasy a smích dozní → ticho",
+   "notes": "—",
+   "action": "Eliška se za nimi chvíli dívá, pak sklopí pohled.",
+   "light": "",
+   "ratio": "16:9",
+   "lit": "L014",
+   "props": [
+    "Aktovka (těžká)",
+    "Skříňka s dvířky",
+    "Bunda Elišky"
+   ],
+   "flags": [
+    "Eliška (7 let)"
+   ],
+   "img": "img/010.jpg",
+   "day": "2026-11-05",
+   "dayOrder": 21,
+   "thumb": "img/010_t.jpg"
+  },
+  {
+   "num": 11,
+   "obraz": 2,
+   "size": "Polocelek",
+   "angle": "Zepředu, eye-level",
+   "move": "Statický",
+   "sound": "Ticho, tlumené hučení chodby",
+   "notes": "Prázdná šatna, komorně",
+   "action": "Eliška si sama u skříňky natáhne bundu a chvíli počká — nikdo.",
+   "light": "",
+   "ratio": "16:9",
+   "lit": "L014",
+   "props": [
+    "Aktovka (těžká)",
+    "Skříňka s dvířky",
+    "Bunda Elišky"
+   ],
+   "flags": [
+    "Eliška (7 let)"
+   ],
+   "img": "img/011.jpg",
+   "day": "2026-11-05",
+   "dayOrder": 22,
+   "thumb": "img/011_t.jpg"
+  },
+  {
+   "num": 12,
+   "obraz": 2,
+   "size": "Polocelek",
+   "angle": "Zezadu",
+   "move": "Follow / handheld za Eliškou",
+   "sound": "Kroky v prázdné chodbě, tlumený vítr zvenku",
+   "notes": "Neodchází ven dveřmi — jen zmizí chodbou → střih na exteriér",
+   "action": "Eliška si přehodí aktovku a odejde chodbou kolem skříněk.",
+   "light": "",
+   "ratio": "16:9",
+   "lit": "L014",
+   "props": [
+    "Aktovka (těžká)",
+    "Skříňka s dvířky",
+    "Bunda Elišky"
+   ],
+   "flags": [
+    "Eliška (7 let)"
+   ],
+   "img": "img/012.jpg",
+   "day": "2026-11-05",
+   "dayOrder": 23,
+   "thumb": "img/012_t.jpg"
+  },
+  {
+   "num": 13,
+   "obraz": 3,
+   "size": "Velký celek",
+   "angle": "Mírný nadhled",
+   "move": "Statický (stativ)",
+   "sound": "Vítr, vzdálený tlumený ruch sídliště",
+   "notes": "—",
+   "action": "Prázdné sídliště tone v mlze, Eliška drobná uprostřed.",
+   "light": "",
+   "ratio": "16:9",
+   "lit": "L015",
+   "props": [
+    "Aktovka (těžká)",
+    "Bunda Elišky"
+   ],
+   "flags": [
+    "Eliška (7 let)"
+   ],
+   "img": "img/013.jpg",
+   "day": "2026-11-05",
+   "dayOrder": 1,
+   "thumb": "img/013_t.jpg"
+  },
+  {
+   "num": 14,
+   "obraz": 3,
+   "size": "Polocelek",
+   "angle": "Zezadu, eye-level",
+   "move": "Handheld — dojem sledování (jakoby ji někdo pozoruje)",
+   "sound": "Vítr, kroky",
+   "notes": "Horor. motiv; střídat se statikou",
+   "action": "Eliška jde prázdnou ulicí; vítr jí cuchá vlasy.",
+   "light": "",
+   "ratio": "16:9",
+   "lit": "L015",
+   "props": [
+    "Aktovka (těžká)",
+    "Bunda Elišky"
+   ],
+   "flags": [
+    "Eliška (7 let)"
+   ],
+   "img": "img/014.jpg",
+   "day": "2026-11-05",
+   "dayOrder": 2,
+   "thumb": "img/014_t.jpg"
+  },
+  {
+   "num": 15,
+   "obraz": 3,
+   "size": "Polocelek",
+   "angle": "Zpoza rohu paneláku / přes překážku",
+   "move": "Handheld (skrytý pozorovatel)",
+   "sound": "Tlumený vítr",
+   "notes": "Dojem, že ji někdo sleduje",
+   "action": "Eliška projde v dálce; kamera ji „schovaně“ sleduje.",
+   "light": "",
+   "ratio": "16:9",
+   "lit": "L015",
+   "props": [
+    "Aktovka (těžká)",
+    "Bunda Elišky"
+   ],
+   "flags": [
+    "Eliška (7 let)"
+   ],
+   "img": "img/015.jpg",
+   "day": "2026-11-05",
+   "dayOrder": 3,
+   "thumb": "img/015_t.jpg"
+  },
+  {
+   "num": 16,
+   "obraz": 3,
+   "size": "Detail",
+   "angle": "Podhled u země",
+   "move": "Statický / jemný handheld",
+   "sound": "Kroky v mlze",
+   "notes": "—",
+   "action": "Kroky Elišky, těžká aktovka.",
+   "light": "",
+   "ratio": "16:9",
+   "lit": "L015",
+   "props": [
+    "Aktovka (těžká)",
+    "Bunda Elišky"
+   ],
+   "flags": [
+    "Eliška (7 let)"
+   ],
+   "img": "img/016.jpg",
+   "day": "2026-11-05",
+   "dayOrder": 4,
+   "thumb": "img/016_t.jpg"
+  },
+  {
+   "num": 17,
+   "obraz": 3,
+   "size": "Detail",
+   "angle": "Zepředu, eye-level",
+   "move": "Statický",
+   "sound": "Skřípání řetězu houpačky ve větru",
+   "notes": "—",
+   "action": "Opuštěné hřiště; prázdná houpačka se sama houpe ve větru.",
+   "light": "",
+   "ratio": "16:9",
+   "lit": "L015",
+   "props": [
+    "Aktovka (těžká)",
+    "Bunda Elišky"
+   ],
+   "flags": [
+    "Eliška (7 let)"
+   ],
+   "img": "img/017.jpg",
+   "day": "2026-11-05",
+   "dayOrder": 5,
+   "thumb": "img/017_t.jpg"
+  },
+  {
+   "num": 18,
+   "obraz": 3,
+   "size": "Polodetail",
+   "angle": "Zepředu, mírný podhled",
+   "move": "Pomalý nájezd (návrat ke statice)",
+   "sound": "Vítr slábne, do popředí dech",
+   "notes": "Chlad, osamění",
+   "action": "Eliščin obličej v mlze, drobná a sama.",
+   "light": "",
+   "ratio": "16:9",
+   "lit": "L015",
+   "props": [
+    "Aktovka (těžká)",
+    "Bunda Elišky"
+   ],
+   "flags": [
+    "Eliška (7 let)"
+   ],
+   "img": "img/018.jpg",
+   "day": "2026-11-05",
+   "dayOrder": 6,
+   "thumb": "img/018_t.jpg"
+  },
+  {
+   "num": 19,
+   "obraz": 4,
+   "size": "Celek",
+   "angle": "Podhled podél fasády",
+   "move": "Statický / pomalý tilt up",
+   "sound": "Vítr o fasádu, drnčení plechu",
+   "notes": "Vršek mizí v mlze",
+   "action": "Šedá fasáda paneláku, horní patra pohlcená mlhou.",
+   "light": "",
+   "ratio": "16:9",
+   "lit": "L016",
+   "props": [
+    "Zapomenuté prádlo na balkoně",
+    "Přetečené schránky (letáky, noviny, obálky)",
+    "Úřední obálka"
+   ],
+   "flags": [
+    "Eliška (7 let)"
+   ],
+   "img": "img/019.jpg",
+   "day": "2026-11-05",
+   "dayOrder": 7,
+   "thumb": "img/019_t.jpg"
+  },
+  {
+   "num": 20,
+   "obraz": 4,
+   "size": "Polodetail",
+   "angle": "Podhled zezdola na balkon",
+   "move": "Statický / jemný handheld",
+   "sound": "Pleskání mokré látky ve větru + shora tlumený dětský pláč",
+   "notes": "Pláč poprvé spojen s jejich bytem nahoře",
+   "action": "Zezdola na balkon: zapomenuté prádlo sebou mlátí ve větru.",
+   "light": "",
+   "ratio": "16:9",
+   "lit": "L016",
+   "props": [
+    "Zapomenuté prádlo na balkoně",
+    "Přetečené schránky (letáky, noviny, obálky)",
+    "Úřední obálka"
+   ],
+   "flags": [
+    "Eliška (7 let)"
+   ],
+   "img": "img/020.jpg",
+   "day": "2026-11-05",
+   "dayOrder": 8,
+   "thumb": "img/020_t.jpg"
+  },
+  {
+   "num": 21,
+   "obraz": 4,
+   "size": "Polocelek",
+   "angle": "Zezadu",
+   "move": "Follow",
+   "sound": "Vrznutí a bouchnutí vchodových dveří, ozvěna",
+   "notes": "Přechod ven → dovnitř (za vchodové dveře)",
+   "action": "Eliška vejde vchodovými dveřmi dovnitř.",
+   "light": "",
+   "ratio": "16:9",
+   "lit": "L017",
+   "props": [
+    "Zapomenuté prádlo na balkoně",
+    "Přetečené schránky (letáky, noviny, obálky)",
+    "Úřední obálka"
+   ],
+   "flags": [
+    "Eliška (7 let)"
+   ],
+   "img": "img/021.jpg",
+   "day": "2026-11-05",
+   "dayOrder": 9,
+   "thumb": "img/021_t.jpg"
+  },
+  {
+   "num": 22,
+   "obraz": 4,
+   "size": "Celek",
+   "angle": "Zepředu, eye-level",
+   "move": "Statický",
+   "sound": "Uvnitř je pláč pořád lehce slyšet (tlumeně)",
+   "notes": "Vestibul, komorně",
+   "action": "Přetékající blok schránek — letáky, noviny, obálky.",
+   "light": "",
+   "ratio": "16:9",
+   "lit": "L018",
+   "props": [
+    "Zapomenuté prádlo na balkoně",
+    "Přetečené schránky (letáky, noviny, obálky)",
+    "Úřední obálka"
+   ],
+   "flags": [
+    "Eliška (7 let)"
+   ],
+   "img": "img/022.jpg",
+   "day": "2026-11-05",
+   "dayOrder": 10,
+   "thumb": "img/022_t.jpg"
+  },
+  {
+   "num": 23,
+   "obraz": 4,
+   "size": "Detail",
+   "angle": "Shora na ruce",
+   "move": "Pomalý nájezd",
+   "sound": "Šustění papíru; tlumený pláč lehce i od schránek",
+   "notes": "Bez pošťáka; motiv dopisu — jen probleskne",
+   "action": "Eliška vytáhne jen to, co čouhá ven; mezi tím je úřední obálka.",
+   "light": "",
+   "ratio": "16:9",
+   "lit": "L018",
+   "props": [
+    "Zapomenuté prádlo na balkoně",
+    "Přetečené schránky (letáky, noviny, obálky)",
+    "Úřední obálka"
+   ],
+   "flags": [
+    "Eliška (7 let)"
+   ],
+   "img": "img/023.jpg",
+   "day": "2026-11-05",
+   "dayOrder": 11,
+   "thumb": "img/023_t.jpg"
+  },
+  {
+   "num": 24,
+   "obraz": 5,
+   "size": "Polocelek",
+   "angle": "Zevnitř chodby na vchodové dveře",
+   "move": "Statický",
+   "sound": "Pláč TLUMENÝ přes dveře (subjektivně, jak ho slyší Eliška); tlumeně cinkot nádobí a syčení hrnce",
+   "notes": "Skok od schránek rovnou dovnitř; subjektivní zvuk",
+   "action": "Pohled zevnitř na zavřené vchodové dveře; za matným sklem silueta Elišky.",
+   "light": "H1",
+   "ratio": "16:9",
+   "lit": "L019",
+   "props": [
+    "Klíč",
+    "Taška"
+   ],
+   "flags": [
+    "Eliška (7 let)"
+   ],
+   "img": "img/024.jpg",
+   "day": "2026-11-06",
+   "dayOrder": 1,
+   "thumb": "img/024_t.jpg"
+  },
+  {
+   "num": 25,
+   "obraz": 5,
+   "size": "Detail",
+   "angle": "Na zámek / kliku",
+   "move": "Statický / jemný nájezd",
+   "sound": "V zámku se otočí klíč, cvakne",
+   "notes": "—",
+   "action": "Klíč se otočí v zámku, klika se stlačí.",
+   "light": "H1",
+   "ratio": "16:9",
+   "lit": "L020",
+   "props": [
+    "Klíč",
+    "Taška"
+   ],
+   "flags": [
+    "Eliška (7 let)"
+   ],
+   "img": "img/025.jpg",
+   "day": "2026-11-06",
+   "dayOrder": 2,
+   "thumb": "img/025_t.jpg"
+  },
+  {
+   "num": 26,
+   "obraz": 5,
+   "size": "Polocelek",
+   "angle": "Zevnitř na otevírající se dveře",
+   "move": "Statický",
+   "sound": "V MOMENTU OTEVŘENÍ pláč přeskočí do ČISTA (plný, ostrý) — střih zvuku přesně na dveře",
+   "notes": "Klíčový bod subjektivního zvuku",
+   "action": "Dveře se otevřou, v nich Eliška.",
+   "light": "H1",
+   "ratio": "16:9",
+   "lit": "L020",
+   "props": [
+    "Klíč",
+    "Taška"
+   ],
+   "flags": [
+    "Eliška (7 let)"
+   ],
+   "img": "img/026.jpg",
+   "day": "2026-11-06",
+   "dayOrder": 3,
+   "thumb": "img/026_t.jpg"
+  },
+  {
+   "num": 27,
+   "obraz": 5,
+   "size": "Polodetail",
+   "angle": "Chodba, zepředu / z boku",
+   "move": "Statický / jemný handheld",
+   "sound": "Čistý pláč z bytu, tlumeně televize",
+   "notes": "Eliška v chodbě (předsíň)",
+   "action": "Eliška vejde do chodby, odloží tašku a úřední obálku na botník, sundá si bundu.",
+   "light": "H1",
+   "ratio": "16:9",
+   "lit": "L021",
+   "props": [
+    "Klíč",
+    "Taška"
+   ],
+   "flags": [
+    "Eliška (7 let)"
+   ],
+   "img": "img/027.jpg",
+   "day": "2026-11-06",
+   "dayOrder": 4,
+   "thumb": "img/027_t.jpg"
+  },
+  {
+   "num": 28,
+   "obraz": 5,
+   "size": "Polodetail",
+   "angle": "Zepředu, eye-level",
+   "move": "Statický",
+   "sound": "REPLIKA (Eliška): „Mami, jsem doma!“ — přes hluk ji nikdo neslyší",
+   "notes": "Motiv přehlížení",
+   "action": "Eliška zavolá do bytu; nikdo nereaguje.",
+   "light": "H1",
+   "ratio": "16:9",
+   "lit": "L023",
+   "props": [
+    "Klíč",
+    "Taška"
+   ],
+   "flags": [
+    "Eliška (7 let)"
+   ],
+   "img": "img/028.jpg",
+   "day": "2026-11-06",
+   "dayOrder": 5,
+   "thumb": "img/028_t.jpg"
+  },
+  {
+   "num": 29,
+   "obraz": 5,
+   "size": "Polocelek",
+   "angle": "Zezadu za Eliškou (chodba → kuchyň)",
+   "move": "Follow / jemný handheld",
+   "sound": "Pláč sílí, televize",
+   "notes": "Přechod z chodby do kuchyně",
+   "action": "Eliška se vydá z chodby do kuchyně za Matkou.",
+   "light": "H1",
+   "ratio": "16:9",
+   "lit": "L023",
+   "props": [
+    "Klíč",
+    "Taška"
+   ],
+   "flags": [
+    "Eliška (7 let)"
+   ],
+   "img": "img/029.jpg",
+   "day": "2026-11-06",
+   "dayOrder": 6,
+   "thumb": "img/029_t.jpg"
+  },
+  {
+   "num": 30,
+   "obraz": 6,
+   "size": "Detail (série insertů)",
+   "angle": "Zblízka na linku",
+   "move": "Statický / jemný nájezd",
+   "sound": "Tlumeně TV: „…výstraha před silným větrem a hustými mlhami…“",
+   "notes": "Subjektivní inventář bytu — zaset semínka",
+   "action": "Detaily: složenky + VÝSTRAHA O ODPOJENÍ, lahvička prášků, napůl prázdná láhev vína, pára z hrnce.",
+   "light": "A",
+   "ratio": "16:9",
+   "lit": "L025",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Láhvička prášků",
+    "Napůl prázdná láhev vína",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka"
+   ],
+   "flags": [],
+   "img": "img/030.jpg",
+   "day": "2026-11-06",
+   "dayOrder": 7,
+   "thumb": "img/030_t.jpg"
+  },
+  {
+   "num": 31,
+   "obraz": 6,
+   "size": "Celek",
+   "angle": "Zepředu, eye-level",
+   "move": "Statický",
+   "sound": "Pláč, syčení hrnce, mumlání TV",
+   "notes": "Eliška vejde do kuchyně; expozice stavu bytu — dusno, nepořádek",
+   "action": "Obývák s kuchyní: zatažené závěsy, hračky a prádlo po zemi.",
+   "light": "A",
+   "ratio": "16:9",
+   "lit": "L025",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka",
+    "Panenka v postýlce"
+   ],
+   "flags": [
+    "panenka"
+   ],
+   "img": "img/031.jpg",
+   "day": "2026-11-06",
+   "dayOrder": 8,
+   "thumb": "img/031_t.jpg"
+  },
+  {
+   "num": 32,
+   "obraz": 6,
+   "size": "Polocelek",
+   "angle": "Zezadu na Matku",
+   "move": "Statický",
+   "sound": "Míchání, syčení páry",
+   "notes": "—",
+   "action": "Matka (40) u plotny míchá v hrnci; propocené tričko, mastné vlasy.",
+   "light": "A",
+   "ratio": "16:9",
+   "lit": "L025",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka"
+   ],
+   "flags": [],
+   "img": "img/032.jpg",
+   "day": "2026-11-06",
+   "dayOrder": 9,
+   "thumb": "img/032_t.jpg"
+  },
+  {
+   "num": 33,
+   "obraz": 6,
+   "size": "Detail",
+   "angle": "Postýlka, mírný nadhled",
+   "move": "Statický / jemný handheld",
+   "sound": "Filípkův pláč",
+   "notes": "Reálné dítě — bezpečný/něžný záběr",
+   "action": "Filípek (1 rok) v postýlce, rudý v obličeji, pláče.",
+   "light": "A",
+   "ratio": "16:9",
+   "lit": "L026",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka"
+   ],
+   "flags": [
+    "dítě (Filípek)"
+   ],
+   "img": "img/033.jpg",
+   "day": "2026-11-06",
+   "dayOrder": 10,
+   "thumb": "img/033_t.jpg"
+  },
+  {
+   "num": 34,
+   "obraz": 6,
+   "size": "Polodetail",
+   "angle": "Za Matkou / přes rameno",
+   "move": "Jemný handheld",
+   "sound": "Ostrý nádech (úlek)",
+   "notes": "Matčin úlek podán subjektivně",
+   "action": "Eliška dojde zezadu a dotkne se Matky; Matka sebou cukne.",
+   "light": "A",
+   "ratio": "16:9",
+   "lit": "L028",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka"
+   ],
+   "flags": [
+    "Eliška (7 let)"
+   ],
+   "img": "img/034.jpg",
+   "day": "2026-11-06",
+   "dayOrder": 11,
+   "thumb": "img/034_t.jpg"
+  },
+  {
+   "num": 35,
+   "obraz": 6,
+   "size": "Detail (portrét)",
+   "angle": "Matka zepředu (50 mm)",
+   "move": "Statický",
+   "sound": "Ztišení, oddech",
+   "notes": "Tvář povolí — první něha",
+   "action": "Matka se otočí, napětí povolí, dřepne si k Elišce.",
+   "light": "A",
+   "ratio": "16:9",
+   "lit": "L028",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka"
+   ],
+   "flags": [
+    "Eliška (7 let)"
+   ],
+   "img": "img/035.jpg",
+   "day": "2026-11-06",
+   "dayOrder": 12,
+   "thumb": "img/035_t.jpg"
+  },
+  {
+   "num": 36,
+   "obraz": 6,
+   "size": "Polodetail (dvojice)",
+   "angle": "Z boku, eye-level",
+   "move": "Statický / jemný handheld",
+   "sound": "REPLIKY: „Zase jsem šla domů sama.“ / „Jak bylo ve škole?“ „Dobrý.“ / „A známky?“ „Taky dobrý.“",
+   "notes": "Komorní, teplý beat",
+   "action": "Matka odhrne Elišce vlasy z čela a vyptává se.",
+   "light": "A",
+   "ratio": "16:9",
+   "lit": "L029",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka"
+   ],
+   "flags": [
+    "Eliška (7 let)"
+   ],
+   "img": "img/036.jpg",
+   "day": "2026-11-06",
+   "dayOrder": 13,
+   "thumb": "img/036_t.jpg"
+  },
+  {
+   "num": 37,
+   "obraz": 6,
+   "size": "Polocelek",
+   "angle": "Zepředu",
+   "move": "Statický",
+   "sound": "REPLIKA (Matka, škádlivě): „Dobrý je za tři.“",
+   "notes": "Objetí — vzácná chvíle klidu",
+   "action": "Matka si Elišku přitáhne, Eliška objetí oplatí.",
+   "light": "A",
+   "ratio": "16:9",
+   "lit": "L035",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka"
+   ],
+   "flags": [
+    "Eliška (7 let)"
+   ],
+   "img": "img/037.jpg",
+   "day": "2026-11-06",
+   "dayOrder": 14,
+   "thumb": "img/037_t.jpg"
+  },
+  {
+   "num": 38,
+   "obraz": 6,
+   "size": "Polocelek",
+   "angle": "Zepředu / z boku",
+   "move": "Statický / jemný handheld",
+   "sound": "Filípkův pláč zesílí",
+   "notes": "MOST: pláč přeruší objetí a motivuje přechod k postýlce",
+   "action": "Filípek se rozpláče silněji; Matka jemně pustí Elišku, vstane a vydá se k postýlce.",
+   "light": "A",
+   "ratio": "16:9",
+   "lit": "L037",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka",
+    "Panenka v postýlce"
+   ],
+   "flags": [
+    "panenka",
+    "Eliška (7 let)"
+   ],
+   "img": "img/038.jpg",
+   "day": "2026-11-06",
+   "dayOrder": 15,
+   "thumb": "img/038_t.jpg"
+  },
+  {
+   "num": 39,
+   "obraz": 6,
+   "size": "Polodetail",
+   "angle": "Postýlka",
+   "move": "Statický",
+   "sound": "Matka tiše zpívá: „Halí, belí, koně v zelí…“",
+   "notes": "Ukolébavka = rámcový motiv (repríza na konci filmu)",
+   "action": "Matka se skloní k postýlce a pobrukuje; Filípek ztichne.",
+   "light": "A",
+   "ratio": "16:9",
+   "lit": "L038",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka",
+    "Panenka v postýlce"
+   ],
+   "flags": [
+    "panenka",
+    "Eliška (7 let)"
+   ],
+   "img": "img/039.jpg",
+   "day": "2026-11-06",
+   "dayOrder": 16,
+   "thumb": "img/039_t.jpg"
+  },
+  {
+   "num": 40,
+   "obraz": 6,
+   "size": "Detail",
+   "angle": "Matka zepředu",
+   "move": "Statický",
+   "sound": "Oddech; TV v pozadí",
+   "notes": "—",
+   "action": "Matka si otře čelo, urovná deku. REPLIKA (Matka): „Umyj si ruce. Za chvíli jíme.“",
+   "light": "A",
+   "ratio": "16:9",
+   "lit": "L039",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka"
+   ],
+   "flags": [],
+   "img": "img/040.jpg",
+   "day": "2026-11-06",
+   "dayOrder": 17,
+   "thumb": "img/040_t.jpg"
+  },
+  {
+   "num": 41,
+   "obraz": 6,
+   "size": "Polocelek",
+   "angle": "Kuchyň, zepředu",
+   "move": "Statický",
+   "sound": "Cinkot skla, otevření skříňky",
+   "notes": "Motiv pití — jen probleskne",
+   "action": "Matka ochutná z hrnce, uvidí víno a schová láhev do skříňky pod dřezem.",
+   "light": "A",
+   "ratio": "16:9",
+   "lit": "L042",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Napůl prázdná láhev vína",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka"
+   ],
+   "flags": [],
+   "img": "img/041.jpg",
+   "day": "2026-11-06",
+   "dayOrder": 18,
+   "thumb": "img/041_t.jpg"
+  },
+  {
+   "num": 42,
+   "obraz": 6,
+   "size": "Polocelek",
+   "angle": "Zezadu, mírný odstup",
+   "move": "Statický (delší záběr)",
+   "sound": "Syčení hrnce sílí; TV; jinak ticho",
+   "notes": "DISOCIACE — první trhlina; trpělivá kamera",
+   "action": "Matka uklidí prádlo, otře si čelo, pak ztuhne a zírá do prázdna; za zády jí přetéká hrnec.",
+   "light": "A",
+   "ratio": "16:9",
+   "lit": "L044",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Hrnec s pěnou",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka"
+   ],
+   "flags": [],
+   "img": "img/042.jpg",
+   "day": "2026-11-06",
+   "dayOrder": 19,
+   "thumb": "img/042_t.jpg"
+  },
+  {
+   "num": 43,
+   "obraz": 6,
+   "size": "Detail",
+   "angle": "Hrnec / plotna",
+   "move": "Statický",
+   "sound": "Přetékání, prskání pěny",
+   "notes": "—",
+   "action": "Pěna syčí a přetéká na plotně; Matka nevnímá.",
+   "light": "A",
+   "ratio": "16:9",
+   "lit": "L044",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Hrnec s pěnou",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka"
+   ],
+   "flags": [],
+   "img": "img/043.jpg",
+   "day": "2026-11-06",
+   "dayOrder": 20,
+   "thumb": "img/043_t.jpg"
+  },
+  {
+   "num": 44,
+   "obraz": 6,
+   "size": "Polodetail",
+   "angle": "Eliška zepředu",
+   "move": "Jemný handheld",
+   "sound": "REPLIKA (Eliška): „Mami, hrnec!“",
+   "notes": "Vrátí se z koupelny",
+   "action": "Eliška se vrátí a upozorní ji.",
+   "light": "A",
+   "ratio": "16:9",
+   "lit": "L045",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka"
+   ],
+   "flags": [
+    "Eliška (7 let)"
+   ],
+   "img": "img/044.jpg",
+   "day": "2026-11-06",
+   "dayOrder": 21,
+   "thumb": "img/044_t.jpg"
+  },
+  {
+   "num": 45,
+   "obraz": 6,
+   "size": "Detail",
+   "angle": "Matka",
+   "move": "Statický",
+   "sound": "REPLIKA (Matka): „Jo… díky.“",
+   "notes": "Probere se",
+   "action": "Matka stáhne hrnec z plotny.",
+   "light": "A",
+   "ratio": "16:9",
+   "lit": "L047",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka"
+   ],
+   "flags": [],
+   "img": "img/045.jpg",
+   "day": "2026-11-06",
+   "dayOrder": 22,
+   "thumb": "img/045_t.jpg"
+  },
+  {
+   "num": 46,
+   "obraz": 6,
+   "size": "Polocelek",
+   "angle": "Stůl, zepředu",
+   "move": "Statický",
+   "sound": "REPLIKY: „Máte úkol?“ / (Eliška) „Musím se naučit básničku.“",
+   "notes": "Zasazení básně (Polednice) do bytu",
+   "action": "Eliška si sedne ke stolu a otevře čítanku.",
+   "light": "A",
+   "ratio": "16:9",
+   "lit": "L049",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka"
+   ],
+   "flags": [
+    "Eliška (7 let)"
+   ],
+   "img": "img/046.jpg",
+   "day": "2026-11-06",
+   "dayOrder": 23,
+   "thumb": "img/046_t.jpg"
+  },
+  {
+   "num": 47,
+   "obraz": 6,
+   "size": "Detail",
+   "angle": "Matka",
+   "move": "Statický / jemný nájezd",
+   "sound": "REPLIKA (Eliška): „Přijde zas ta paní?“ — Matka neodpoví",
+   "notes": "Náznak úřední hrozby (zatím jen v Matčině hlavě)",
+   "action": "Matka střelí pohledem ke dveřím a mlčky si utře ruce.",
+   "light": "A",
+   "ratio": "16:9",
+   "lit": "L052",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka"
+   ],
+   "flags": [],
+   "img": "img/047.jpg",
+   "day": "2026-11-06",
+   "dayOrder": 24,
+   "thumb": "img/047_t.jpg"
+  },
+  {
+   "num": 48,
+   "obraz": 6,
+   "size": "Detail (insert)",
+   "angle": "Ruce / obálka",
+   "move": "Statický",
+   "sound": "Trhnutí papíru",
+   "notes": "Obsah dopisu NEVIDÍME",
+   "action": "Matka vezme odloženou úřední obálku a roztrhne ji.",
+   "light": "A",
+   "ratio": "16:9",
+   "lit": "L054",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka"
+   ],
+   "flags": [],
+   "img": "img/048.jpg",
+   "day": "2026-11-06",
+   "dayOrder": 25,
+   "thumb": "img/048_t.jpg"
+  },
+  {
+   "num": 49,
+   "obraz": 6,
+   "size": "Detail (portrét)",
+   "angle": "Matka zepředu (50 mm)",
+   "move": "Pomalý nájezd",
+   "sound": "V pozadí Eliška polohlasně: „U lavice dítě stálo, z plna hrdla křičelo…“",
+   "notes": "KLÍČ: tvář tuhne, dech se zrychlí; obsah nevidíme.",
+   "action": "Matka čte dopis; obličej jí tuhne.",
+   "light": "A",
+   "ratio": "16:9",
+   "lit": "L054",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka"
+   ],
+   "flags": [],
+   "img": "img/049.jpg",
+   "day": "2026-11-06",
+   "dayOrder": 26,
+   "thumb": "img/049_t.jpg"
+  },
+  {
+   "num": 50,
+   "obraz": 6,
+   "size": "Polocelek",
+   "angle": "Zepředu",
+   "move": "Statický → jemný handheld",
+   "sound": "REPLIKA (Matka): „Sbal si věci. Honem. Jedeme k babičce.“",
+   "notes": "Náhlý obrat — panika začíná",
+   "action": "Matka odloží dopis, vysype tašku a hází do ní Eliščino oblečení a prádlo.",
+   "light": "A",
+   "ratio": "16:9",
+   "lit": "L057",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka"
+   ],
+   "flags": [],
+   "img": "img/050.jpg",
+   "day": "2026-11-07",
+   "dayOrder": 1,
+   "thumb": "img/050_t.jpg"
+  },
+  {
+   "num": 51,
+   "obraz": 6,
+   "size": "Polodetail",
+   "angle": "Eliška u stolu, zepředu",
+   "move": "Statický",
+   "sound": "REPLIKA (Eliška, pro sebe): „Mlč! Hle husar a kočárek – hrej si – tu máš kohouta! – Než kohout, vůz i husárek bouch, bác! letí do kouta.“",
+   "notes": "Eliška v klidu × Matka v pohybu",
+   "action": "Eliška zůstane sedět a monotónně pokračuje ve verši.",
+   "light": "A",
+   "ratio": "16:9",
+   "lit": "L060",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka"
+   ],
+   "flags": [
+    "Eliška (7 let)"
+   ],
+   "img": "img/051.jpg",
+   "day": "2026-11-07",
+   "dayOrder": 2,
+   "thumb": "img/051_t.jpg"
+  },
+  {
+   "num": 52,
+   "obraz": 6,
+   "size": "Detail",
+   "angle": "Skříň / ruce",
+   "move": "Jemný handheld",
+   "sound": "Na „bouch, bác“ — rána, věci padají",
+   "notes": "Zvuk verše podprahově řídí Matčino jednání",
+   "action": "Na slově „bouch, bác“ Matka vysype ze skříně další věci na podlahu.",
+   "light": "A",
+   "ratio": "16:9",
+   "lit": "L061",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka"
+   ],
+   "flags": [],
+   "img": "img/052.jpg",
+   "day": "2026-11-07",
+   "dayOrder": 3,
+   "thumb": "img/052_t.jpg"
+  },
+  {
+   "num": 53,
+   "obraz": 6,
+   "size": "Polodetail",
+   "angle": "Eliška",
+   "move": "Statický",
+   "sound": "REPLIKY (Eliška): „Mami.“ … „Babička už nežije. Přece to víš.“",
+   "notes": "Věcně, dětsky — trhlina do bludu",
+   "action": "Eliška klidně osloví Matku.",
+   "light": "A",
+   "ratio": "16:9",
+   "lit": "L064",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka"
+   ],
+   "flags": [
+    "Eliška (7 let)"
+   ],
+   "img": "img/053.jpg",
+   "day": "2026-11-07",
+   "dayOrder": 4,
+   "thumb": "img/053_t.jpg"
+  },
+  {
+   "num": 54,
+   "obraz": 6,
+   "size": "Detail (portrét)",
+   "angle": "Matka (50 mm)",
+   "move": "Statický",
+   "sound": "Ticho; jen vítr a televize",
+   "notes": "Zlom — blud dostane trhlinu",
+   "action": "Matka strne; taška v jedné ruce, dětské tričko v druhé. Ruce klesnou, taška spadne.",
+   "light": "A",
+   "ratio": "16:9",
+   "lit": "L065",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka"
+   ],
+   "flags": [],
+   "img": "img/054.jpg",
+   "day": "2026-11-07",
+   "dayOrder": 5,
+   "thumb": "img/054_t.jpg"
+  },
+  {
+   "num": 55,
+   "obraz": 6,
+   "size": "Detail",
+   "angle": "Linka / ruce",
+   "move": "Statický / jemný nájezd",
+   "sound": "Vyklepnutí prášku, polknutí, doušek vína",
+   "notes": "Motiv prášky + víno (útěk)",
+   "action": "Matka se vrátí k lince, vyklepne prášek, spolkne ho, zapije; napije se vína. Ruce se třesou.",
+   "light": "A",
+   "ratio": "16:9",
+   "lit": "L066",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Láhvička prášků",
+    "Napůl prázdná láhev vína",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka"
+   ],
+   "flags": [],
+   "img": "img/055.jpg",
+   "day": "2026-11-07",
+   "dayOrder": 6,
+   "thumb": "img/055_t.jpg"
+  },
+  {
+   "num": 56,
+   "obraz": 6,
+   "size": "Polocelek",
+   "angle": "Zezadu / z boku",
+   "move": "Statický",
+   "sound": "Filípkův pláč zesílí; televize tiše hraje; za oknem hučí vítr",
+   "notes": "Vrstvení zvuků — tlak",
+   "action": "Matka zavře oči; kolem ní pláč, televize, vítr.",
+   "light": "A",
+   "ratio": "16:9",
+   "lit": "L067",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka",
+    "Panenka v postýlce"
+   ],
+   "flags": [
+    "panenka"
+   ],
+   "img": "img/056.jpg",
+   "day": "2026-11-07",
+   "dayOrder": 7,
+   "thumb": "img/056_t.jpg"
+  },
+  {
+   "num": 57,
+   "obraz": 6,
+   "size": "Detail (insert)",
+   "angle": "Mobil na lince",
+   "move": "Statický",
+   "sound": "Vibrace; „NEZNÁMÉ ČÍSLO“; zvonění ustane",
+   "notes": "Retroaktivně = sociálka; teď nejednoznačné",
+   "action": "Na lince zavibruje mobil; Matka po něm ani nesáhne, hovor spadne do schránky.",
+   "light": "A",
+   "ratio": "16:9",
+   "lit": "L069",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka"
+   ],
+   "flags": [],
+   "img": "img/057.jpg",
+   "day": "2026-11-07",
+   "dayOrder": 8,
+   "thumb": "img/057_t.jpg"
+  },
+  {
+   "num": 58,
+   "obraz": 6,
+   "size": "Detail (portrét)",
+   "angle": "Matka → Eliška",
+   "move": "Jemný handheld",
+   "sound": "REPLIKA (Matka, ostře): „Přestaň už s tím!“",
+   "notes": "Eskalace — první ostrá reakce (na Elišku)",
+   "action": "Matka se otočí k Elišce.",
+   "light": "A",
+   "ratio": "16:9",
+   "lit": "L070",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka"
+   ],
+   "flags": [
+    "Eliška (7 let)"
+   ],
+   "img": "img/058.jpg",
+   "day": "2026-11-07",
+   "dayOrder": 9,
+   "thumb": "img/058_t.jpg"
+  },
+  {
+   "num": 59,
+   "obraz": 6,
+   "size": "Polodetail",
+   "angle": "Eliška",
+   "move": "Statický",
+   "sound": "Eliška se zarazí, pak zase tiše pokračuje",
+   "notes": "KLÍČ: monotónně, ne hlasitěji — nejde to zastavit",
+   "action": "Eliška se na chvíli zastaví a čte dál.",
+   "light": "A",
+   "ratio": "16:9",
+   "lit": "L072",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka"
+   ],
+   "flags": [
+    "Eliška (7 let)"
+   ],
+   "img": "img/059.jpg",
+   "day": "2026-11-07",
+   "dayOrder": 10,
+   "thumb": "img/059_t.jpg"
+  },
+  {
+   "num": 60,
+   "obraz": 6,
+   "size": "Detail",
+   "angle": "Matka, zblízka",
+   "move": "Handheld (těsně)",
+   "sound": "Vítr + pláč + verš přes sebe; Matka si zacpe uši",
+   "notes": "Subjektivní tlak — vše přes sebe",
+   "action": "Matka si zacpe uši; zvuky se vrší.",
+   "light": "A",
+   "ratio": "16:9",
+   "lit": "L072",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka"
+   ],
+   "flags": [],
+   "img": "img/060.jpg",
+   "day": "2026-11-07",
+   "dayOrder": 11,
+   "thumb": "img/060_t.jpg"
+  },
+  {
+   "num": 61,
+   "obraz": 6,
+   "size": "Detail (portrét)",
+   "angle": "Matka → postýlka",
+   "move": "Jemný handheld",
+   "sound": "REPLIKA (Matka): „Tak už buď zticha!“",
+   "notes": "Vyštěknutí na Filípka",
+   "action": "Matka se prudce otočí k postýlce.",
+   "light": "A",
+   "ratio": "16:9",
+   "lit": "L073",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka"
+   ],
+   "flags": [],
+   "img": "img/061.jpg",
+   "day": "2026-11-07",
+   "dayOrder": 12,
+   "thumb": "img/061_t.jpg"
+  },
+  {
+   "num": 62,
+   "obraz": 6,
+   "size": "Polodetail",
+   "angle": "Eliška",
+   "move": "Statický",
+   "sound": "REPLIKA (Eliška): „…Pojď si proň, ty Polednice, pojď, vem si ho zlostníka!“",
+   "notes": "Invokace v básni — spouštěč",
+   "action": "Eliška dojde k verši o Polednici.",
+   "light": "A",
+   "ratio": "16:9",
+   "lit": "L076",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka"
+   ],
+   "flags": [
+    "Eliška (7 let)"
+   ],
+   "img": "img/062.jpg",
+   "day": "2026-11-07",
+   "dayOrder": 13,
+   "thumb": "img/062_t.jpg"
+  },
+  {
+   "num": 63,
+   "obraz": 6,
+   "size": "Detail (portrét)",
+   "angle": "Matka, podhled ke stropu",
+   "move": "Statický / pomalý nájezd",
+   "sound": "REPLIKA (Matka, do prázdna): „Tak si pro něj pojď!“",
+   "notes": "Křičeno DO PRÁZDNA (ne na kolíbku)",
+   "action": "Matka si stiskne spánky, zvedne hlavu ke stropu a vykřikne.",
+   "light": "A",
+   "ratio": "16:9",
+   "lit": "L077",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka"
+   ],
+   "flags": [],
+   "img": "img/063.jpg",
+   "day": "2026-11-07",
+   "dayOrder": 14,
+   "thumb": "img/063_t.jpg"
+  },
+  {
+   "num": 64,
+   "obraz": 6,
+   "size": "Celek",
+   "angle": "Místnost",
+   "move": "Statický",
+   "sound": "Ticho na zlomek vteřiny → z chodby DUTÉ CVAKNUTÍ → vše ZHASNE (televize, lednice, šum bytu); zůstane jen vítr za okny",
+   "notes": "[FORMÁT: hlavní sevření 16:9 → 4:3 provést TADY, v šeru]",
+   "action": "Všechno zhasne; Filípek leknutím ztichne, Eliška zmlkne uprostřed verše; za závěsy jen kalné denní šero.",
+   "light": "B1",
+   "ratio": "16:9",
+   "lit": "L080",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka",
+    "Panenka v postýlce"
+   ],
+   "flags": [
+    "panenka"
+   ],
+   "img": "img/064.jpg",
+   "day": "2026-11-07",
+   "dayOrder": 15,
+   "thumb": "img/064_t.jpg"
+  },
+  {
+   "num": 65,
+   "obraz": 6,
+   "size": "Polodetail",
+   "angle": "Eliška, v šeru",
+   "move": "Statický",
+   "sound": "REPLIKA (Eliška, šeptem): „Mami, co se stalo?“",
+   "notes": "KLÍČ: dívá se na Matku, ne ke dveřím",
+   "action": "Eliška v šeru šeptem osloví Matku.",
+   "light": "B1",
+   "ratio": "4:3",
+   "lit": "L082",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka"
+   ],
+   "flags": [
+    "Eliška (7 let)"
+   ],
+   "img": "img/065.jpg",
+   "day": "2026-11-07",
+   "dayOrder": 16,
+   "thumb": "img/065_t.jpg"
+  },
+  {
+   "num": 66,
+   "obraz": 6,
+   "size": "Detail",
+   "angle": "Rozvaděč u dveří / ruka",
+   "move": "Jemný handheld",
+   "sound": "Cvakání jističů (marně); ticho bytu",
+   "notes": "Jističe nahozené → dojde jí, že ji odpojili",
+   "action": "Matka cvaká nahozenými jističi nahoru a dolů. Nic. Ruka klesne.",
+   "light": "H1",
+   "ratio": "4:3",
+   "lit": "L083",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka",
+    "Jisticí skříňka"
+   ],
+   "flags": [],
+   "img": "img/066.jpg",
+   "day": "2026-11-08",
+   "dayOrder": 1,
+   "thumb": "img/066_t.jpg"
+  },
+  {
+   "num": 67,
+   "obraz": 6,
+   "size": "Polocelek",
+   "angle": "Matka u okna, zezadu",
+   "move": "Statický",
+   "sound": "Zvenku sílící vítr; ticho v bytě",
+   "notes": "Před roztržením",
+   "action": "Matka se otočí, přejde k oknu a chytne závěsy.",
+   "light": "B1",
+   "ratio": "4:3",
+   "lit": "L084",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka"
+   ],
+   "flags": [],
+   "img": "img/067.jpg",
+   "day": "2026-11-07",
+   "dayOrder": 17,
+   "thumb": "img/067_t.jpg"
+  },
+  {
+   "num": 68,
+   "obraz": 6,
+   "size": "Celek",
+   "angle": "Okno, zepředu (protisvětlo)",
+   "move": "Statický",
+   "sound": "Šustnutí závěsu → náraz ticha",
+   "notes": "Roztržení = ostrý světelný akcent",
+   "action": "Matka prudce roztrhne závěsy; okno zaplní OSLEPIVĚ BÍLÁ MLŽNÁ ZÁŘE, sídliště v mlze zmizelo.",
+   "light": "B2",
+   "ratio": "4:3",
+   "lit": "L085",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka",
+    "Druhý pár závěsů a suchý zip"
+   ],
+   "flags": [],
+   "img": "img/068.jpg",
+   "day": "2026-11-07",
+   "dayOrder": 20,
+   "thumb": "img/068_t.jpg"
+  },
+  {
+   "num": 69,
+   "obraz": 6,
+   "size": "Detail (portrét)",
+   "angle": "Matka, protisvětlo",
+   "move": "Statický",
+   "sound": "Mrazivé ticho (bez topení)",
+   "notes": "Studené světlo bodá; mžourá",
+   "action": "Studené polední světlo bodá Matku do očí; mžourá, zima ji obejme, roztřese se.",
+   "light": "B2",
+   "ratio": "4:3",
+   "lit": "L085",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka"
+   ],
+   "flags": [],
+   "img": "img/069.jpg",
+   "day": "2026-11-07",
+   "dayOrder": 21,
+   "thumb": "img/069_t.jpg"
+  },
+  {
+   "num": 70,
+   "obraz": 6,
+   "size": "Detail",
+   "angle": "Postýlka / Filípek",
+   "move": "Statický",
+   "sound": "Filípkův pláč",
+   "notes": "Reálné dítě — bezpečný záběr",
+   "action": "Filípek v postýlce rudne pláčem.",
+   "light": "B2",
+   "ratio": "4:3",
+   "lit": "L086",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka"
+   ],
+   "flags": [
+    "dítě (Filípek)"
+   ],
+   "img": "img/070.jpg",
+   "day": "2026-11-06",
+   "dayOrder": 27,
+   "thumb": "img/070_t.jpg"
+  },
+  {
+   "num": 71,
+   "obraz": 6,
+   "size": "Celek",
+   "angle": "Místnost, zepředu",
+   "move": "Statický",
+   "sound": "Zvenku se rozezní SIRÉNA — dlouhý stálý tón (bez hlášení)",
+   "notes": "Zkušební siréna (poledne)",
+   "action": "Matka se pomalu otočí do místnosti.",
+   "light": "B2",
+   "ratio": "4:3",
+   "lit": "L087",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka",
+    "Panenka v postýlce"
+   ],
+   "flags": [
+    "panenka"
+   ],
+   "img": "img/071.jpg",
+   "day": "2026-11-07",
+   "dayOrder": 22,
+   "thumb": "img/071_t.jpg"
+  },
+  {
+   "num": 72,
+   "obraz": 6,
+   "size": "Polodetail",
+   "angle": "Matka",
+   "move": "Jemný handheld",
+   "sound": "Filípkův pláč jako by přicházel z jiného kouta; siréna",
+   "notes": "Subjektivní dezorientace",
+   "action": "Matka se rozhlíží; zdroj pláče se přesouvá.",
+   "light": "B2",
+   "ratio": "4:3",
+   "lit": "L088",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka"
+   ],
+   "flags": [],
+   "img": "img/072.jpg",
+   "day": "2026-11-07",
+   "dayOrder": 23,
+   "thumb": "img/072_t.jpg"
+  },
+  {
+   "num": 73,
+   "obraz": 6,
+   "size": "Detail",
+   "angle": "Roh místnosti (kraj záběru)",
+   "move": "Statický",
+   "sound": "Siréna; závan",
+   "notes": "STÍN = nejednoznačný (psychóza × nadpřirozeno)",
+   "action": "Na kraji záběru přeběhne stín — a je pryč. Bílé světlo bodá do očí.",
+   "light": "B2",
+   "ratio": "4:3",
+   "lit": "L088",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka"
+   ],
+   "flags": [],
+   "img": "img/073.jpg",
+   "day": "2026-11-07",
+   "dayOrder": 24,
+   "thumb": "img/073_t.jpg"
+  },
+  {
+   "num": 74,
+   "obraz": 6,
+   "size": "Detail (portrét)",
+   "angle": "Matka",
+   "move": "Statický",
+   "sound": "[ZVUK: zvuky se propadnou do dálky — vítr i siréna zmizí, zůstane jen Matčin přerývaný dech a tep]",
+   "notes": "CUT-TO subjektivní ticho (dech + tep)",
+   "action": "Matka jako by ohluchla; svět se vzdálí.",
+   "light": "B2",
+   "ratio": "4:3",
+   "lit": "L089",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka"
+   ],
+   "flags": [],
+   "img": "img/074.jpg",
+   "day": "2026-11-07",
+   "dayOrder": 25,
+   "thumb": "img/074_t.jpg"
+  },
+  {
+   "num": 75,
+   "obraz": 6,
+   "size": "Polocelek",
+   "angle": "Eliška u postýlky (Matka mimo ostření)",
+   "move": "Statický",
+   "sound": "Subjektivní ticho (dech + tep); tlumený Filípkův pláč",
+   "notes": "Reálné dítě jen při něžném zvedání z postýlky",
+   "action": "V tom ztlumení Eliška odloží čítanku, dojde k postýlce a nemotorně vezme Filípka do náruče. Matka nevnímá.",
+   "light": "B2",
+   "ratio": "4:3",
+   "lit": "L090",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka"
+   ],
+   "flags": [
+    "dítě (Filípek)",
+    "Eliška (7 let)"
+   ],
+   "img": "img/075.jpg",
+   "day": "2026-11-07",
+   "dayOrder": 18,
+   "thumb": "img/075_t.jpg"
+  },
+  {
+   "num": 76,
+   "obraz": 6,
+   "size": "Detail",
+   "angle": "Postýlka (prázdná)",
+   "move": "Statický",
+   "sound": "[ZVUK: zvuk se vrátí]",
+   "notes": "Šok",
+   "action": "Matčin pohled padne k postýlce — prázdná.",
+   "light": "B2",
+   "ratio": "4:3",
+   "lit": "L091",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka"
+   ],
+   "flags": [],
+   "img": "img/076.jpg",
+   "day": "2026-11-06",
+   "dayOrder": 28,
+   "thumb": "img/076_t.jpg"
+  },
+  {
+   "num": 77,
+   "obraz": 6,
+   "size": "Detail (portrét)",
+   "angle": "Matka",
+   "move": "Handheld",
+   "sound": "Ostrý nádech",
+   "notes": "—",
+   "action": "Matka ztuhne, přiskočí k postýlce. Nic.",
+   "light": "B2",
+   "ratio": "4:3",
+   "lit": "L092",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka"
+   ],
+   "flags": [],
+   "img": "img/077.jpg",
+   "day": "2026-11-07",
+   "dayOrder": 26,
+   "thumb": "img/077_t.jpg"
+  },
+  {
+   "num": 78,
+   "obraz": 6,
+   "size": "Polocelek",
+   "angle": "Matka × Eliška",
+   "move": "Statický",
+   "sound": "Ticho; venku doznívá siréna",
+   "notes": "Odhalení: dítě drží Eliška",
+   "action": "Matka se prudce otočí — Filípka drží Eliška.",
+   "light": "B2",
+   "ratio": "4:3",
+   "lit": "L092",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka"
+   ],
+   "flags": [
+    "dítě (Filípek)"
+   ],
+   "img": "img/078.jpg",
+   "day": "2026-11-07",
+   "dayOrder": 19,
+   "thumb": "img/078_t.jpg"
+  },
+  {
+   "num": 79,
+   "obraz": 6,
+   "size": "Detail",
+   "angle": "Vchodové dveře (v chodbě) / Matka",
+   "move": "Statický",
+   "sound": "Venku doznívá siréna, ticho → ŤUK. ŤUK. ŤUK. tři pomalé údery",
+   "notes": "KONEC OBRAZU 6; Eliška se dívá na Matku, ne ke dveřím. Matka pak odnese dítě do chodby ke dveřím → Obraz 7.",
+   "action": "Tři pomalé údery na vchodové dveře (v chodbě); Matka strne.",
+   "light": "H1",
+   "ratio": "4:3",
+   "lit": "L094",
+   "props": [
+    "Složenky s výstrahou o odpojení elektřiny",
+    "Sklenice vody",
+    "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+    "Cestovní taška",
+    "Oblečení Elišky",
+    "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+    "Hračky a prádlo na zemi",
+    "Deka"
+   ],
+   "flags": [],
+   "img": "img/079.jpg",
+   "day": "2026-11-08",
+   "dayOrder": 2,
+   "thumb": "img/079_t.jpg"
+  },
+  {
+   "num": 80,
+   "obraz": 7,
+   "size": "Polodetail",
+   "angle": "Kuchyň → chodba, za Matkou",
+   "move": "Handheld",
+   "sound": "Prudké nadechnutí",
+   "notes": "Předěl kuchyň → chodba; od teď MODEL dítěte",
+   "action": "Matka vytrhne Elišce Filípka z rukou, přitiskne si ho na hruď (tváří k sobě) a odnese ho do chodby ke dveřím; Eliška zůstane s prázdnýma rukama a jde za ní.",
+   "light": "H1",
+   "ratio": "4:3",
+   "lit": "L095",
+   "props": [
+    "Panenka s hmotností miminka",
+    "Dopis"
+   ],
+   "flags": [
+    "panenka"
+   ],
+   "img": "img/080.jpg",
+   "day": "2026-11-08",
+   "dayOrder": 3,
+   "thumb": "img/080_t.jpg"
+  },
+  {
+   "num": 81,
+   "obraz": 7,
+   "size": "Polocelek",
+   "angle": "Chodba, za Matkou",
+   "move": "Jemný handheld",
+   "sound": "Kroky; za dveřmi tlumený ženský hlas (zkreslený)",
+   "notes": "—",
+   "action": "Matka dojde ke vchodovým dveřím a nakloní se ke kukátku.",
+   "light": "H1",
+   "ratio": "4:3",
+   "lit": "L098",
+   "props": [
+    "Panenka s hmotností miminka",
+    "Dopis"
+   ],
+   "flags": [
+    "panenka"
+   ],
+   "img": "img/081.jpg",
+   "day": "2026-11-08",
+   "dayOrder": 4,
+   "thumb": "img/081_t.jpg"
+  },
+  {
+   "num": 82,
+   "obraz": 7,
+   "size": "POV kukátko",
+   "angle": "Rybí oko",
+   "move": "Statický (mírné chvění)",
+   "sound": "Za dveřmi ženský hlas — Matka ho slyší ZKRESLENĚ, mohutně, jako by dům duněl",
+   "notes": "Nejednoznačné, jestli tam někdo je",
+   "action": "POV kukátkem: rozmazaná, zkreslená chodba domu; nejasné, jestli tam někdo stojí.",
+   "light": "H1",
+   "ratio": "4:3",
+   "lit": "L098",
+   "props": [
+    "Panenka s hmotností miminka",
+    "Dopis",
+    "Desky",
+    "Kukátko ve dveřích"
+   ],
+   "flags": [
+    "panenka"
+   ],
+   "img": "img/082.jpg",
+   "day": "2026-11-08",
+   "dayOrder": 11,
+   "thumb": "img/082_t.jpg"
+  },
+  {
+   "num": 83,
+   "obraz": 7,
+   "size": "Detail (portrét)",
+   "angle": "Matka",
+   "move": "Handheld",
+   "sound": "Dunivý zkreslený hlas; údery",
+   "notes": "Panika",
+   "action": "Matka odskočí od dveří.",
+   "light": "H1",
+   "ratio": "4:3",
+   "lit": "L098",
+   "props": [
+    "Panenka s hmotností miminka",
+    "Dopis"
+   ],
+   "flags": [
+    "panenka"
+   ],
+   "img": "img/083.jpg",
+   "day": "2026-11-08",
+   "dayOrder": 5,
+   "thumb": "img/083_t.jpg"
+  },
+  {
+   "num": 84,
+   "obraz": 7,
+   "size": "Polocelek",
+   "angle": "Roh chodby",
+   "move": "Statický (sevřený rám)",
+   "sound": "Při každé ráně sebou trhne; třas",
+   "notes": "Sevření 4:3 nejtěsnější",
+   "action": "Matka se stáhne do rohu, sesune se na zem zády ke zdi, Filípka tiskne; zavře oči.",
+   "light": "H1",
+   "ratio": "4:3",
+   "lit": "L099",
+   "props": [
+    "Panenka s hmotností miminka",
+    "Dopis"
+   ],
+   "flags": [
+    "panenka"
+   ],
+   "img": "img/084.jpg",
+   "day": "2026-11-08",
+   "dayOrder": 6,
+   "thumb": "img/084_t.jpg"
+  },
+  {
+   "num": 85,
+   "obraz": 7,
+   "size": "Polodetail",
+   "angle": "Eliška u Matky",
+   "move": "Statický",
+   "sound": "REPLIKA (Eliška — Matka ji slyší zkresleně, temně): „Mami, ty ho zmáčkneš!“",
+   "notes": "KLÍČ: Eliška se dívá na MATKU, ne ke dveřím",
+   "action": "Eliška si k Matce klekne a dívá se na ni.",
+   "light": "H1",
+   "ratio": "4:3",
+   "lit": "L100",
+   "props": [
+    "Panenka s hmotností miminka",
+    "Dopis"
+   ],
+   "flags": [
+    "panenka",
+    "Eliška (7 let)"
+   ],
+   "img": "img/085.jpg",
+   "day": "2026-11-08",
+   "dayOrder": 7,
+   "thumb": "img/085_t.jpg"
+  },
+  {
+   "num": 86,
+   "obraz": 7,
+   "size": "Detail (portrét)",
+   "angle": "Matka (dítě = model, tvář skrytá u hrudi)",
+   "move": "Statický",
+   "sound": "[ZVUK: svět se propadne do ticha — jen dech a tep; Filípkův tlumený pláč pod jejíma rukama slábne, až UMLKNE]",
+   "notes": "UDUŠENÍ MIMO OBRAZ — model; kamera na tváři/rukou Matky",
+   "action": "Matka zavrtí hlavou a tiskne dítě ještě víc; jeho pláč pod jejíma rukama slábne, až umlkne.",
+   "light": "H1",
+   "ratio": "4:3",
+   "lit": "L103",
+   "props": [
+    "Panenka s hmotností miminka",
+    "Dopis"
+   ],
+   "flags": [
+    "panenka"
+   ],
+   "img": "img/086.jpg",
+   "day": "2026-11-08",
+   "dayOrder": 8,
+   "thumb": "img/086_t.jpg"
+  },
+  {
+   "num": 87,
+   "obraz": 7,
+   "size": "Detail (portrét)",
+   "angle": "Matka",
+   "move": "Statický",
+   "sound": "Do ticha se ozve tichý, zlomený pláč Matky",
+   "notes": "Emocionální dno",
+   "action": "Matka tiše, zlomeně pláče.",
+   "light": "H1",
+   "ratio": "4:3",
+   "lit": "L104",
+   "props": [
+    "Panenka s hmotností miminka",
+    "Dopis"
+   ],
+   "flags": [
+    "panenka"
+   ],
+   "img": "img/087.jpg",
+   "day": "2026-11-08",
+   "dayOrder": 9,
+   "thumb": "img/087_t.jpg"
+  },
+  {
+   "num": 88,
+   "obraz": 7,
+   "size": "Detail",
+   "angle": "Vchodové dveře",
+   "move": "Statický",
+   "sound": "[ZVUK: zkreslení mizí, dunění se prolne do obyčejného lehkého zaklepání] → „Ťuk, ťuk.“",
+   "notes": "Démonické → civilní (návrat reality)",
+   "action": "Dunění za dveřmi se promění v obyčejné lehké zaklepání.",
+   "light": "H1",
+   "ratio": "4:3",
+   "lit": "L105",
+   "props": [
+    "Panenka s hmotností miminka",
+    "Dopis"
+   ],
+   "flags": [
+    "panenka"
+   ],
+   "img": "img/088.jpg",
+   "day": "2026-11-08",
+   "dayOrder": 10,
+   "thumb": "img/088_t.jpg"
+  },
+  {
+   "num": 89,
+   "obraz": 7,
+   "size": "Polocelek",
+   "angle": "Dveře / chodba",
+   "move": "Statický",
+   "sound": "REPLIKA (Sociální pracovnice, za dveřmi): „Paní Nováková? To jsem já, ze sociálky. Volala jsem vám. Otevřete, prosím.“",
+   "notes": "„Volala jsem vám“ = retro odhalení (neznámé číslo)",
+   "action": "Za dveřmi zazní civilní ženský hlas.",
+   "light": "H1",
+   "ratio": "4:3",
+   "lit": "L107",
+   "props": [
+    "Panenka s hmotností miminka",
+    "Dopis",
+    "Desky"
+   ],
+   "flags": [
+    "panenka"
+   ],
+   "img": "img/089.jpg",
+   "day": "2026-11-08",
+   "dayOrder": 12,
+   "thumb": "img/089_t.jpg"
+  },
+  {
+   "num": 90,
+   "obraz": 7,
+   "size": "Polodetail",
+   "angle": "Eliška",
+   "move": "Statický",
+   "sound": "REPLIKA (Eliška — teď ČISTĚ): „Mami… Filípek.“",
+   "notes": "Zvuk se pročistí — realita",
+   "action": "Eliščin hlas prořízne prostor, teď čistě.",
+   "light": "H1",
+   "ratio": "4:3",
+   "lit": "L108",
+   "props": [
+    "Panenka s hmotností miminka",
+    "Dopis"
+   ],
+   "flags": [
+    "panenka",
+    "Eliška (7 let)"
+   ],
+   "img": "img/090.jpg",
+   "day": "2026-11-08",
+   "dayOrder": 13,
+   "thumb": "img/090_t.jpg"
+  },
+  {
+   "num": 91,
+   "obraz": 7,
+   "size": "Detail (portrét)",
+   "angle": "Matka (tvář dítěte skrytá / model)",
+   "move": "Pomalý nájezd",
+   "sound": "Ticho; tlumené zaklepání",
+   "notes": "POZOR: dítě = model, tvář neukazovat",
+   "action": "Matka otevře oči, sklopí pohled k dítěti a odtáhne ho kousek od hrudi.",
+   "light": "H1",
+   "ratio": "4:3",
+   "lit": "L110",
+   "props": [
+    "Panenka s hmotností miminka",
+    "Dopis"
+   ],
+   "flags": [
+    "panenka"
+   ],
+   "img": "img/091.jpg",
+   "day": "2026-11-08",
+   "dayOrder": 14,
+   "thumb": "img/091_t.jpg"
+  },
+  {
+   "num": 92,
+   "obraz": 7,
+   "size": "Detail (portrét)",
+   "angle": "Matka",
+   "move": "Statický",
+   "sound": "Ticho; zatajení dechu",
+   "notes": "Poznání — beze slov",
+   "action": "Tvář jí zkamení; ústa se pootevřou, ale nevyjde z nich hláska.",
+   "light": "H1",
+   "ratio": "4:3",
+   "lit": "L111",
+   "props": [
+    "Panenka s hmotností miminka",
+    "Dopis"
+   ],
+   "flags": [
+    "panenka"
+   ],
+   "img": "img/092.jpg",
+   "day": "2026-11-08",
+   "dayOrder": 15,
+   "thumb": "img/092_t.jpg"
+  },
+  {
+   "num": 93,
+   "obraz": 7,
+   "size": "Polocelek",
+   "angle": "Matka na zemi v rohu",
+   "move": "Statický",
+   "sound": "Dopis vyklouzne (šustnutí); Matka (skrz pláč) tiše zpívá: „Halí, belí, koně v zelí…“",
+   "notes": "Ukolébavka nad mrtvým dítětem = repríza rámce",
+   "action": "Matka se sesune, přerývaně dýchá, tiše pláče; dopis jí vyklouzne na zem; přitáhne si dítě a kolébá ho.",
+   "light": "H1",
+   "ratio": "4:3",
+   "lit": "L112",
+   "props": [
+    "Panenka s hmotností miminka",
+    "Dopis"
+   ],
+   "flags": [
+    "panenka"
+   ],
+   "img": "img/093.jpg",
+   "day": "2026-11-08",
+   "dayOrder": 16,
+   "thumb": "img/093_t.jpg"
+  },
+  {
+   "num": 94,
+   "obraz": 7,
+   "size": "Detail",
+   "angle": "Vchodové dveře",
+   "move": "Statický",
+   "sound": "REPLIKA (Sociální pracovnice, za dveřmi): „Paní Nováková…?“",
+   "notes": "—",
+   "action": "Za dveřmi znovu zaklepání.",
+   "light": "H1",
+   "ratio": "4:3",
+   "lit": "L114",
+   "props": [
+    "Panenka s hmotností miminka",
+    "Dopis",
+    "Desky"
+   ],
+   "flags": [
+    "panenka"
+   ],
+   "img": "img/094.jpg",
+   "day": "2026-11-08",
+   "dayOrder": 17,
+   "thumb": "img/094_t.jpg"
+  },
+  {
+   "num": 95,
+   "obraz": 7,
+   "size": "Polodetail",
+   "angle": "Eliška",
+   "move": "Statický",
+   "sound": "Ticho; Matčin tichý zpěv",
+   "notes": "Eliška převezme akci",
+   "action": "Eliška se dlouze dívá na Matku, pak vstane, dojde ke dveřím a vezme za kliku.",
+   "light": "H1",
+   "ratio": "4:3",
+   "lit": "L116",
+   "props": [
+    "Panenka s hmotností miminka",
+    "Dopis"
+   ],
+   "flags": [
+    "panenka",
+    "Eliška (7 let)"
+   ],
+   "img": "img/095.jpg",
+   "day": "2026-11-08",
+   "dayOrder": 18,
+   "thumb": "img/095_t.jpg"
+  },
+  {
+   "num": 96,
+   "obraz": 7,
+   "size": "Polocelek",
+   "angle": "Chodba domu, zvenku na dveře",
+   "move": "Statický",
+   "sound": "Vrznutí kliky; dveře se otevřou",
+   "notes": "Přechod na „objektivní“ pohled; rám se začne otevírat k 16:9",
+   "action": "Dveře se otevřou, ve dveřích malá Eliška; mlčky ustoupí stranou.",
+   "light": "H1",
+   "ratio": "3:2",
+   "lit": "L117",
+   "props": [
+    "Panenka s hmotností miminka",
+    "Dopis",
+    "Desky"
+   ],
+   "flags": [
+    "panenka",
+    "Eliška (7 let)"
+   ],
+   "img": "img/096.jpg",
+   "day": "2026-11-08",
+   "dayOrder": 19,
+   "thumb": "img/096_t.jpg"
+  },
+  {
+   "num": 97,
+   "obraz": 7,
+   "size": "Polodetail",
+   "angle": "Sociální pracovnice",
+   "move": "Statický",
+   "sound": "[ZVUK: jen syrová, civilní akustika bytu]",
+   "notes": "Obyčejná unavená žena s deskami",
+   "action": "Ve dveřích sociální pracovnice; podívá se dovnitř.",
+   "light": "H1",
+   "ratio": "16:10",
+   "lit": "L117",
+   "props": [
+    "Panenka s hmotností miminka",
+    "Dopis",
+    "Desky"
+   ],
+   "flags": [
+    "panenka"
+   ],
+   "img": "img/097.jpg",
+   "day": "2026-11-08",
+   "dayOrder": 20,
+   "thumb": "img/097_t.jpg"
+  },
+  {
+   "num": 98,
+   "obraz": 7,
+   "size": "Detail (portrét)",
+   "angle": "Sociální pracovnice",
+   "move": "Statický",
+   "sound": "Ticho",
+   "notes": "Náraz reality — beze slov",
+   "action": "Pracovnice uvidí, co je uvnitř; ztuhne, otevře pusu, ale slova nepřijdou.",
+   "light": "H1",
+   "ratio": "17:10",
+   "lit": "L119",
+   "props": [
+    "Panenka s hmotností miminka",
+    "Dopis",
+    "Desky"
+   ],
+   "flags": [
+    "panenka"
+   ],
+   "img": "img/098.jpg",
+   "day": "2026-11-08",
+   "dayOrder": 21,
+   "thumb": "img/098_t.jpg"
+  },
+  {
+   "num": 99,
+   "obraz": 7,
+   "size": "Celek",
+   "angle": "Chodba, Matka na podlaze (dítě = model, tvář u hrudi)",
+   "move": "Statický (rám otevřený k 16:9)",
+   "sound": "Matčin tichý zpěv „Halí, belí…“; mléčné světlo",
+   "notes": "Klíčový široký záběr: Matka + dopis + Eliška v jednom rámu",
+   "action": "Na podlaze sedí Matka, kolébá nehybné dítě a tiše prozpěvuje; kolem ní studené mléčné polední světlo.",
+   "light": "H1",
+   "ratio": "16:9",
+   "lit": "L120",
+   "props": [
+    "Panenka s hmotností miminka",
+    "Dopis"
+   ],
+   "flags": [
+    "panenka"
+   ],
+   "img": "img/099.jpg",
+   "day": "2026-11-08",
+   "dayOrder": 22,
+   "thumb": "img/099_t.jpg"
+  },
+  {
+   "num": 100,
+   "obraz": 7,
+   "size": "Detail (insert)",
+   "angle": "Dopis na zemi",
+   "move": "Pomalý nájezd / sklouznutí",
+   "sound": "Ticho",
+   "notes": "REVEAL: obsah dopisu poprvé",
+   "action": "Kamera sklouzne k dopisu; probleskne: „…šetření v rodině… návštěva v domácnosti dle § 52 zákona č. 359/1999 Sb.…“ — obyčejné oznámení o kontrole.",
+   "light": "H1",
+   "ratio": "16:9",
+   "lit": "L121",
+   "props": [
+    "Panenka s hmotností miminka",
+    "Dopis"
+   ],
+   "flags": [
+    "panenka"
+   ],
+   "img": "img/100.jpg",
+   "day": "2026-11-08",
+   "dayOrder": 23,
+   "thumb": "img/100_t.jpg"
+  },
+  {
+   "num": 101,
+   "obraz": 7,
+   "size": "Polodetail",
+   "angle": "Eliška (odděleně od modelu dítěte)",
+   "move": "Přeostření z dopisu na Elišku",
+   "sound": "Ticho",
+   "notes": "",
+   "action": "Ostrost se přenese z dopisu na Elišku; klečí vedle Matky a dívá se na ni. Ne ke dveřím. Na Matku.",
+   "light": "H1",
+   "ratio": "16:9",
+   "lit": "L122",
+   "props": [
+    "Panenka s hmotností miminka",
+    "Dopis"
+   ],
+   "flags": [
+    "panenka",
+    "Eliška (7 let)"
+   ],
+   "img": "img/101.jpg",
+   "day": "2026-11-08",
+   "dayOrder": 24,
+   "thumb": "img/101_t.jpg"
+  },
+  {
+   "num": 102,
+   "obraz": 7,
+   "size": "Celek (držený)",
+   "angle": "Chodba",
+   "move": "Statický",
+   "sound": "Ticho → doznění",
+   "notes": "KONEC FILMU",
+   "action": "Obraz pomalu odezní. FADE OUT. KONEC.",
+   "light": "H1",
+   "ratio": "16:9",
+   "lit": "L124",
+   "props": [
+    "Panenka s hmotností miminka",
+    "Dopis"
+   ],
+   "flags": [
+    "panenka"
+   ],
+   "img": "img/102.jpg",
+   "day": "2026-11-08",
+   "dayOrder": 25,
+   "thumb": "img/102_t.jpg"
+  },
+  {
+   "num": 103,
+   "obraz": 7,
+   "size": "Černý záběr",
+   "angle": "—",
+   "move": "—",
+   "sound": "Úplné ticho v pozadí; Eliščin hlas (voice-over)",
+   "notes": "Nahrává se v klidné místnosti, bez obrazu",
+   "action": "Konec filmu: černá, hlas Elišky: „…matku vzkřísil ještě stěží, avšak dítě – zalknuté.“",
+   "light": "",
+   "ratio": "16:9",
+   "lit": "L124",
+   "props": [],
+   "flags": [],
+   "img": null,
+   "day": "2026-11-08",
+   "dayOrder": 26,
+   "thumb": null
+  }
+ ],
+ "scenes": [
+  {
+   "n": 1,
+   "title": "INT Základní škola / Třída — DEN",
+   "loc": "Třída",
+   "shots": [
+    1,
+    7
+   ],
+   "format": "16:9",
+   "lenses": "Celek 24 mm, Polodetail 35 mm, Detail 50 mm",
+   "light": "Stávající stropní zářivky — studené, mírně nazelenalé. Jemný fill odrazkou na Elišku; nízký key, plochý kontrast. Okna zamlžená mlhou → tlumené ploché denní světlo.",
+   "tech": {
+    "heading": "INT Základní škola / Třída — DEN  (16:9)",
+    "lenses": "Celek – 24 mm, Polodetail – 35 mm, Detail – 50 mm",
+    "light": [
+     "Stávající stropní zářivky — studené, mírně nazelenalé světlo",
+     "Jemný fill odrazkou na Elišku; nízký key, plochý kontrast",
+     "Okna zvenku zamlžená podzimní mlhou → tlumené, ploché denní světlo"
+    ],
+    "notes": [],
+    "parts": [
+     {
+      "title": null,
+      "from": 1
+     }
+    ]
+   }
+  },
+  {
+   "n": 2,
+   "title": "INT Škola / Šatna — DEN",
+   "loc": "Šatna",
+   "shots": [
+    8,
+    12
+   ],
+   "format": "16:9",
+   "lenses": "Polodetail 35 mm, Detail 50 mm",
+   "light": "Stejné chladné zářivkové světlo, těsné rámování; jen Eliška a její skříňka; nízký kontrast, desaturováno; dveře ven svítí do mléčné mlhy.",
+   "tech": {
+    "heading": "INT Škola / Šatna — DEN  (16:9)",
+    "lenses": "Polodetail – 35 mm, Detail – 50 mm",
+    "light": [
+     "Stejné chladné zářivkové světlo; komorně, těsné rámování",
+     "Držíme se JEN u Elišky a její skříňky — minimum dětí v obraze",
+     "Nízký kontrast, desaturováno; dveře ven svítí do mléčné mlhy"
+    ],
+    "notes": [],
+    "parts": [
+     {
+      "title": null,
+      "from": 8
+     }
+    ]
+   }
+  },
+  {
+   "n": 3,
+   "title": "EXT Sídliště — DEN",
+   "loc": "Sídliště",
+   "shots": [
+    13,
+    18
+   ],
+   "format": "16:9",
+   "lenses": "Velký celek 24 mm, Celek 35 mm, Detail 50 mm",
+   "light": "Difuzní světlo mlhy — měkké, ploché, mléčné. Negativ fill / vlajky pro tvar; jemná odrazka na obličej Elišky. Nízký kontrast, chladné tóny. Pohyb: střídat statiku s handheldem (dojem sledování).",
+   "tech": {
+    "heading": "EXT Sídliště — DEN  (16:9)",
+    "lenses": "Velký celek – 24 mm, Celek – 35 mm, Detail – 50 mm",
+    "light": [
+     "Přírodní difuzní světlo mlhy — měkké, ploché, mléčné",
+     "Negativ fill / vlajky pro tvar; jemná odrazka na obličej Elišky",
+     "Nízký kontrast, chladné tóny, desaturováno"
+    ],
+    "notes": [
+     "Pohyb: střídat statiku s handheldem, který budí dojem, že Elišku někdo sleduje"
+    ],
+    "parts": [
+     {
+      "title": null,
+      "from": 13
+     }
+    ]
+   }
+  },
+  {
+   "n": 4,
+   "title": "EXT/INT Panelový dům — balkon, vchod, schránky — DEN",
+   "loc": "Panelák",
+   "shots": [
+    19,
+    23
+   ],
+   "format": "16:9",
+   "lenses": "Celek 24 mm, Polodetail 35 mm, Detail 50 mm",
+   "light": "Exteriér: mlžné přírodní světlo, plochá fasáda. Vestibul: chladné zářivkové světlo, těsný prostor.",
+   "tech": {
+    "heading": "EXT/INT Panelový dům — balkon, vchod, schránky — DEN  (16:9)",
+    "lenses": "Celek – 24 mm, Polodetail – 35 mm, Detail – 50 mm",
+    "light": [
+     "Exteriér: mlžné přírodní světlo, fasáda plochá",
+     "Vestibul se schránkami: chladné zářivkové světlo, těsný prostor"
+    ],
+    "notes": [],
+    "parts": [
+     {
+      "title": null,
+      "from": 19
+     }
+    ]
+   }
+  },
+  {
+   "n": 5,
+   "title": "INT Byt / Chodba — příchod — DEN",
+   "loc": "Byt – chodba",
+   "shots": [
+    24,
+    29
+   ],
+   "format": "16:9",
+   "lenses": "Polocelek 35 mm, Detail 50 mm",
+   "light": "Přítmí chodby, chladné světlo přes matné sklo dveří. Zvuk subjektivní — jak ho slyší Eliška za dveřmi. Světelný stav H1.",
+   "tech": {
+    "heading": "INT Byt / Chodba — příchod — DEN  (16:9)",
+    "lenses": "Polocelek – 35 mm, Detail – 50 mm",
+    "light": [
+     "Chodba bytu: přítmí, chladné světlo přes matné sklo dveří",
+     "Kamera je uvnitř, ale ZVUK mixujeme subjektivně — jak ho slyší Eliška ZA dveřmi"
+    ],
+    "notes": [
+     "Od schránek se skočí rovnou dovnitř na dveře zevnitř; subjektivní zvuk: pláč je tlumený přes dveře a v momentu otevření přeskočí do čista."
+    ],
+    "parts": [
+     {
+      "title": null,
+      "from": 24
+     }
+    ]
+   }
+  },
+  {
+   "n": 6,
+   "title": "INT Byt / Kuchyň — hlavní část — DEN",
+   "loc": "Byt – kuchyň / obývák",
+   "shots": [
+    30,
+    79
+   ],
+   "format": "16:9 → 4:3",
+   "lenses": "Celek 24 mm, Polocelek 35 mm, Detail / portrét 50 mm",
+   "light": "Zatažené závěsy, zamlžená okna; žárovkové světlo, svit TV; přetopeno, dusno (stav A). Po výpadku kalné šero (B1) → po roztržení závěsů OSLEPIVĚ BÍLÁ mlžná záře, studená a plochá (B2). Praktikábly lampa a TV, negativ fill. Formát se nepozorovaně sevře do 4:3 po výpadku proudu.",
+   "tech": {
+    "heading": "INT Byt / Kuchyň — hlavní část — DEN  (16:9 → 4:3)",
+    "lenses": "Celek – 24 mm, Polocelek – 35 mm, Detail / portrét Matky – 50 mm",
+    "light": [
+     "Zatažené závěsy, zamlžená okna; umělé žárovkové světlo, svit TV; přetopeno, dusno",
+     "Po výpadku kalné šero → po roztržení závěsů OSLEPIVĚ BÍLÁ mlžná záře (studená, plochá)",
+     "Praktikábly (lampa, televize); měkký zdroj, negativ fill pro tvary"
+    ],
+    "notes": [
+     "Celá hlavní část filmu se odehrává v jednom prostoru (kuchyň/obývák), v plynulém čase. Formát se během ní nepozorovaně sevře z 16:9 do 4:3 — hlavní krok schovaný do šera po výpadku proudu. Kamera drží u tváří; hrůza roste ze zvuku a z detailů."
+    ],
+    "parts": [
+     {
+      "title": "Příchod a večeře",
+      "from": 30
+     },
+     {
+      "title": "Eskalace",
+      "from": 50
+     },
+     {
+      "title": "Výpadek, siréna, mizení dítěte",
+      "from": 65
+     }
+    ]
+   }
+  },
+  {
+   "n": 7,
+   "title": "INT Byt / Chodba — klimax — DEN",
+   "loc": "Byt – chodba",
+   "shots": [
+    80,
+    103
+   ],
+   "format": "4:3 → 16:9",
+   "lenses": "Polodetail 35 mm, Detail/portrét 50 mm; kukátko rybí oko; Celek 24 mm (závěr)",
+   "light": "Přítmí chodby, studené mlžné světlo z kuchyně (stav H1); nejtěsnější sevření 4:3. V závěru se rám pozvolna otevře zpět na 16:9, mléčné polední civilní světlo. Hlas za dveřmi: low-pass, dunění → civilní.",
+   "tech": {
+    "heading": "INT Byt / Chodba — klimax a konec — DEN  (4:3 → 16:9)",
+    "lenses": "Polodetail – 35 mm, Detail / portrét – 50 mm; kukátko – rybí oko; Celek – 24 mm (závěr)",
+    "light": [
+     "Přítmí chodby; studené mlžné světlo z kuchyně; nejtěsnější sevření 4:3",
+     "V závěru se rám pozvolna otevře zpět k 16:9; mléčné polední světlo, civilní"
+    ],
+    "notes": [
+     "Za dveřmi démonicky zkreslený hlas (low-pass, dunění) → morfuje do civilního. Model dítěte tisknutý k hrudi, kamera na tváři/rukou Matky a ticho."
+    ],
+    "parts": [
+     {
+      "title": null,
+      "from": 80
+     },
+     {
+      "title": "Odhalení a konec",
+      "from": 96
+     }
+    ]
+   }
+  }
+ ],
+ "props": [
+  {
+   "name": "Sešit s kresbou (máma, dvě děti, táta stranou)",
+   "obraz": [
+    1
+   ],
+   "shots": "6",
+   "note": "nakreslit předem, musí souhlasit se záběrem 6",
+   "status": "Nemáme"
+  },
+  {
+   "name": "Tužka",
+   "obraz": [
+    1
+   ],
+   "shots": "1–7",
+   "note": "",
+   "status": "Nemáme"
+  },
+  {
+   "name": "Čítanka",
+   "obraz": [
+    1
+   ],
+   "shots": "1–7",
+   "note": "stejná se později objeví v kuchyni (obraz 6)",
+   "status": "Nemáme"
+  },
+  {
+   "name": "Aktovka (těžká)",
+   "obraz": [
+    2,
+    3
+   ],
+   "shots": "8–18",
+   "note": "Eliščina, musí být těžká",
+   "status": "Nemáme"
+  },
+  {
+   "name": "Skříňka s dvířky",
+   "obraz": [
+    2
+   ],
+   "shots": "8–12",
+   "note": "zvuk cvakní dvířek",
+   "status": "Nemáme"
+  },
+  {
+   "name": "Bunda Elišky",
+   "obraz": [
+    2,
+    3
+   ],
+   "shots": "8–18",
+   "note": "kostým, stejná i v obraze 5",
+   "status": "Nemáme"
+  },
+  {
+   "name": "Zapomenuté prádlo na balkoně",
+   "obraz": [
+    4
+   ],
+   "shots": "19–23",
+   "note": "musí viset vysoko, přístup na balkon pro nasvícení",
+   "status": "Nemáme"
+  },
+  {
+   "name": "Přetečené schránky (letáky, noviny, obálky)",
+   "obraz": [
+    4
+   ],
+   "shots": "19–23",
+   "note": "vestibul",
+   "status": "Nemáme"
+  },
+  {
+   "name": "Úřední obálka",
+   "obraz": [
+    4
+   ],
+   "shots": "19–23",
+   "note": "obsah nevidíme, stejná obálka se vrací v obrazech 5 a 6",
+   "status": "Nemáme"
+  },
+  {
+   "name": "Klíč",
+   "obraz": [
+    5
+   ],
+   "shots": "24–29",
+   "note": "vchodové dveře s matým sklem",
+   "status": "Nemáme"
+  },
+  {
+   "name": "Taška",
+   "obraz": [
+    5
+   ],
+   "shots": "24–29",
+   "note": "Eliščina",
+   "status": "Nemáme"
+  },
+  {
+   "name": "Složenky s výstrahou o odpojení elektřiny",
+   "obraz": [
+    6
+   ],
+   "shots": "30–79",
+   "note": "",
+   "status": "Nemáme"
+  },
+  {
+   "name": "Láhvička prášků",
+   "obraz": [
+    6
+   ],
+   "shots": "30, 55",
+   "note": "náhrada: tic-tac, bonbóny nebo vitamíny, nikdy skutečné léky",
+   "status": "Nemáme"
+  },
+  {
+   "name": "Napůl prázdná láhev vína",
+   "obraz": [
+    6
+   ],
+   "shots": "30, 41, 55",
+   "note": "náhrada: hroznový džus nebo čaj v láhvi bez etikety",
+   "status": "Nemáme"
+  },
+  {
+   "name": "Sklenice vody",
+   "obraz": [
+    6
+   ],
+   "shots": "30–79",
+   "note": "",
+   "status": "Nemáme"
+  },
+  {
+   "name": "Hrnec s pěnou",
+   "obraz": [
+    6
+   ],
+   "shots": "42, 43",
+   "note": "náhrada: voda s macím prostředkem, hrnec jen vlažný",
+   "status": "Nemáme"
+  },
+  {
+   "name": "Úřední obálka a dopis (§ 52 zákona č. 359/1999 Sb.)",
+   "obraz": [
+    6
+   ],
+   "shots": "30–79",
+   "note": "stejná obálka jako v obrazech 4 a 5",
+   "status": "Nemáme"
+  },
+  {
+   "name": "Cestovní taška",
+   "obraz": [
+    6
+   ],
+   "shots": "30–79",
+   "note": "",
+   "status": "Nemáme"
+  },
+  {
+   "name": "Oblečení Elišky",
+   "obraz": [
+    6
+   ],
+   "shots": "30–79",
+   "note": "na zemi nebo v tašce",
+   "status": "Nemáme"
+  },
+  {
+   "name": "Mobil se zprávou „NEZNÁMÉ ČÍSLO“",
+   "obraz": [
+    6
+   ],
+   "shots": "30–79",
+   "note": "vibrace mobilu",
+   "status": "Nemáme"
+  },
+  {
+   "name": "Hračky a prádlo na zemi",
+   "obraz": [
+    6
+   ],
+   "shots": "30–79",
+   "note": "",
+   "status": "Nemáme"
+  },
+  {
+   "name": "Deka",
+   "obraz": [
+    6
+   ],
+   "shots": "30–79",
+   "note": "",
+   "status": "Nemáme"
+  },
+  {
+   "name": "Panenka v postýlce",
+   "obraz": [
+    6
+   ],
+   "shots": "31, 38, 39, 56, 64, 71",
+   "note": "v širokých záběrech postýlky, skutečné miminko je jen ve 33, 70, 75, 78",
+   "status": "Nemáme"
+  },
+  {
+   "name": "Jisticí skříňka",
+   "obraz": [
+    6
+   ],
+   "shots": "66",
+   "note": "cvakání jištěčů řešíme zvukem",
+   "status": "Nemáme"
+  },
+  {
+   "name": "Druhý pár závěsů a suchý zip",
+   "obraz": [
+    6
+   ],
+   "shots": "68",
+   "note": "aby se roztržení dálo opakovat",
+   "status": "Nemáme"
+  },
+  {
+   "name": "Panenka s hmotností miminka",
+   "obraz": [
+    7
+   ],
+   "shots": "80–102",
+   "note": "tvář skrytá, v záběru jen tvář a ruce Matky, udšení je mimo obraz",
+   "status": "Nemáme"
+  },
+  {
+   "name": "Dopis",
+   "obraz": [
+    7
+   ],
+   "shots": "80–102",
+   "note": "stejný jako v obrazu 6",
+   "status": "Nemáme"
+  },
+  {
+   "name": "Desky",
+   "obraz": [
+    7
+   ],
+   "shots": "82, 89, 94, 96–98",
+   "note": "Sociální pracovnice",
+   "status": "Nemáme"
+  },
+  {
+   "name": "Kukátko ve dveřích",
+   "obraz": [
+    7
+   ],
+   "shots": "POV",
+   "note": "POV z kukátka (rybí oko)",
+   "status": "Nemáme"
+  }
+ ],
+ "days": [
+  {
+   "date": "2026-11-05",
+   "title": "Čtvrtek – exteriéry a škola",
+   "blocks": [
+    {
+     "time": "7:30–10:30",
+     "title": "Sídliště, hřiště, ulice",
+     "shots": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+     ],
+     "note": "Zatažená obloha/ranní mlha, příp. dýmový stroj; Eliška, dublérka na 13, 15, 16"
+    },
+    {
+     "time": "10:30–12:30",
+     "title": "Fasáda, vchod, vestibul",
+     "shots": [
+      19,
+      20,
+      21,
+      22,
+      23
+     ],
+     "note": "19–21 denní, 22–23 zářivka; Eliška 21–23"
+    },
+    {
+     "time": "12:30–13:30",
+     "title": "Oběd / přesun",
+     "shots": [],
+     "note": ""
+    },
+    {
+     "time": "14:00–16:30",
+     "title": "Třída",
+     "shots": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ],
+     "note": "Zářivky; Eliška, Spolužačka, Učitelka"
+    },
+    {
+     "time": "16:30–18:30",
+     "title": "Šatna",
+     "shots": [
+      8,
+      9,
+      10,
+      11,
+      12
+     ],
+     "note": "Eliška, Spolužačka + rodič (9)"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-06",
+   "title": "Pátek – byt: chodba, kuchyň A",
+   "blocks": [
+    {
+     "time": "7:00–8:30",
+     "title": "Předsvícení",
+     "shots": [],
+     "note": ""
+    },
+    {
+     "time": "8:30–11:00",
+     "title": "Chodba – příchod (H1)",
+     "shots": [
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+     ],
+     "note": ""
+    },
+    {
+     "time": "11:00–12:00",
+     "title": "Přestavba na kuchyň, stav A",
+     "shots": [],
+     "note": ""
+    },
+    {
+     "time": "12:00–15:00",
+     "title": "Kuchyň sever (A)",
+     "shots": [
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43
+     ],
+     "note": "Matka, Eliška, Filípek (33)"
+    },
+    {
+     "time": "15:00–15:45",
+     "title": "Oběd",
+     "shots": [],
+     "note": ""
+    },
+    {
+     "time": "15:45–18:00",
+     "title": "Kuchyň jih + portréty (A)",
+     "shots": [
+      44,
+      45,
+      46,
+      47,
+      48,
+      49
+     ],
+     "note": ""
+    },
+    {
+     "time": "18:00–18:45",
+     "title": "Postýlka – vložky (závěsy otevřené)",
+     "shots": [
+      70,
+      76
+     ],
+     "note": "Filípek (70)"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-07",
+   "title": "Sobota – kuchyň eskalace, výpadek, B1/B2",
+   "blocks": [
+    {
+     "time": "8:00–12:00",
+     "title": "Kuchyň eskalace (A)",
+     "shots": [
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63
+     ],
+     "note": "Eliška 51, 53, 59, 62 na začátku; druhý operátor 52, 55, 57"
+    },
+    {
+     "time": "12:00–13:00",
+     "title": "Oběd + přestavba (lampa a TV pryč, lodžie ~30 %)",
+     "shots": [],
+     "note": ""
+    },
+    {
+     "time": "13:00–14:00",
+     "title": "Výpadek B1",
+     "shots": [
+      64,
+      65,
+      67
+     ],
+     "note": ""
+    },
+    {
+     "time": "14:00–14:30",
+     "title": "Přestavba (závěsy dolů)",
+     "shots": [],
+     "note": ""
+    },
+    {
+     "time": "14:30–19:00",
+     "title": "B2 – záře za oknem",
+     "shots": [
+      75,
+      78,
+      68,
+      69,
+      71,
+      72,
+      73,
+      74,
+      77
+     ],
+     "note": "Nejdřív 75, 78, pak ostatní"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-08",
+   "title": "Neděle – chodba, klimax",
+   "blocks": [
+    {
+     "time": "8:30–9:00",
+     "title": "Vložky jistič/dveře (H1)",
+     "shots": [
+      66,
+      79
+     ],
+     "note": ""
+    },
+    {
+     "time": "9:00–12:00",
+     "title": "Panika a pád do rohu (4:3)",
+     "shots": [
+      80,
+      81,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88
+     ],
+     "note": ""
+    },
+    {
+     "time": "12:00–13:00",
+     "title": "Oběd, make-up Sociální pracovnice",
+     "shots": [],
+     "note": ""
+    },
+    {
+     "time": "13:00–15:30",
+     "title": "Za dveřmi a odhalení (od 96 se rám otevírá)",
+     "shots": [
+      82,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98
+     ],
+     "note": ""
+    },
+    {
+     "time": "15:30–17:00",
+     "title": "Finále",
+     "shots": [
+      99,
+      100,
+      101,
+      102
+     ],
+     "note": ""
+    },
+    {
+     "time": "17:00–17:45",
+     "title": "Hlas pro černý záběr + room tony",
+     "shots": [
+      103
+     ],
+     "note": ""
+    },
+    {
+     "time": "17:45–18:00",
+     "title": "Rezerva",
+     "shots": [],
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "lit": {
+  "scenes": [
+   {
+    "n": 1,
+    "heading": "INT. ZÁKLADNÍ ŠKOLA - TŘÍDA - DEN"
+   },
+   {
+    "n": 2,
+    "heading": "INT. ŠKOLA - ŠATNA - DEN"
+   },
+   {
+    "n": 3,
+    "heading": "EXT. SÍDLIŠTĚ - DEN"
+   },
+   {
+    "n": 4,
+    "heading": "EXT. PANELOVÝ DŮM - DEN"
+   },
+   {
+    "n": 5,
+    "heading": "INT. PANELOVÝ DŮM - VESTIBUL - POKRAČUJE"
+   },
+   {
+    "n": 6,
+    "heading": "INT. BYT - CHODBA - POKRAČUJE"
+   },
+   {
+    "n": 7,
+    "heading": "INT. BYT - KUCHYŇ - POKRAČUJE"
+   },
+   {
+    "n": 8,
+    "heading": "INT. BYT - KUCHYŇ - O CHVÍLI POZDĚJI"
+   },
+   {
+    "n": 9,
+    "heading": "INT. BYT - CHODBA - POKRAČUJE"
+   },
+   {
+    "n": 10,
+    "heading": "INT. CHODBA PŘED BYTEM - POKRAČUJE"
+   }
+  ],
+  "blocks": [
+   {
+    "scene": 1,
+    "kind": "action",
+    "char": null,
+    "text": "Vpředu stojí SPOLUŽAČKA a plynule, zpaměti odříkává závěr básničky.",
+    "id": "L001"
+   },
+   {
+    "scene": 1,
+    "kind": "dialogue",
+    "char": "SPOLUŽAČKA",
+    "text": "...matku vzkřísil ještě stěží, avšak dítě – zalknuté.",
+    "id": "L002"
+   },
+   {
+    "scene": 1,
+    "kind": "action",
+    "char": null,
+    "text": "Vzadu v lavici sedí ELIŠKA (7) a nevnímá. Kreslí si do sešitu – máma a dvě děti, táta nakreslený kousek stranou.",
+    "id": "L003"
+   },
+   {
+    "scene": 1,
+    "kind": "action",
+    "char": null,
+    "text": "UČITELKA (50) spokojeně přikývne.",
+    "id": "L004"
+   },
+   {
+    "scene": 1,
+    "kind": "dialogue",
+    "char": "UČITELKA",
+    "text": "Výborně. Posaď se.",
+    "id": "L005"
+   },
+   {
+    "scene": 1,
+    "kind": "action",
+    "char": null,
+    "text": "Přejede očima po třídě.",
+    "id": "L006"
+   },
+   {
+    "scene": 1,
+    "kind": "dialogue",
+    "char": "UČITELKA",
+    "text": "Tak kdo dál... Eliško.",
+    "id": "L007"
+   },
+   {
+    "scene": 1,
+    "kind": "action",
+    "char": null,
+    "text": "Eliška zaklapne sešit i s obrázkem a pomalu vstane. Sklopí oči, mlčí a lehce zavrtí hlavou – neumí to. Ticho se protahuje.",
+    "id": "L008"
+   },
+   {
+    "scene": 1,
+    "kind": "action",
+    "char": null,
+    "text": "ŠKOLNÍ ZVONEK.",
+    "id": "L009"
+   },
+   {
+    "scene": 1,
+    "kind": "action",
+    "char": null,
+    "text": "Učitelka na ni chvíli hledí. Pak mírně:",
+    "id": "L010"
+   },
+   {
+    "scene": 1,
+    "kind": "dialogue",
+    "char": "UČITELKA",
+    "text": "To nevadí. Douč se to doma. Do zítřka.",
+    "id": "L011"
+   },
+   {
+    "scene": 1,
+    "kind": "action",
+    "char": null,
+    "text": "Kamera drží na Elišce; ostrý zvonek přejde do prázdné šatny.",
+    "id": "L012"
+   },
+   {
+    "scene": 2,
+    "kind": "action",
+    "char": null,
+    "text": "Eliška zaklapne dvířka skříňky. Na konci řady skříněk zahlédne spolužačku, jak skočí rodiči do náruče a odchází s ním.",
+    "id": "L013"
+   },
+   {
+    "scene": 2,
+    "kind": "action",
+    "char": null,
+    "text": "Chvíli se za nimi dívá, pak sklopí oči. Natáhne si bundu a počká. Nikdo. Přehodí si aktovku a odejde chodbou kolem skříněk.",
+    "id": "L014"
+   },
+   {
+    "scene": 3,
+    "kind": "action",
+    "char": null,
+    "text": "Poledne, ale obloha visí nízko, jednolitě šedá. Mlha se drží mezi paneláky, fouká sychravý vítr a cuchá jí vlasy. Opuštěné hřiště, prázdná houpačka se ve větru sama pohupuje. Eliška jde sama mlhou, drobná pod tíhou aktovky.",
+    "id": "L015"
+   },
+   {
+    "scene": 4,
+    "kind": "action",
+    "char": null,
+    "text": "Šedá fasáda nahoře mizí v mlze. Vysoko na balkoně sebou ve větru mlátí zapomenuté prádlo. Odněkud shora sem doléhá tlumený dětský pláč.",
+    "id": "L016"
+   },
+   {
+    "scene": 4,
+    "kind": "action",
+    "char": null,
+    "text": "Eliška vejde vchodovými dveřmi dovnitř.",
+    "id": "L017"
+   },
+   {
+    "scene": 5,
+    "kind": "action",
+    "char": null,
+    "text": "Přítmí. Přetéká tu blok schránek – letáky, noviny, obálky. I tady je pláč lehce slyšet. Eliška vytáhne ze schránky jen to, co čouhá ven; mezi letáky je úřední obálka.",
+    "id": "L018"
+   },
+   {
+    "scene": 6,
+    "kind": "action",
+    "char": null,
+    "text": "Pohled zevnitř chodby na zavřené vchodové dveře. Za matným sklem se rýsuje Eliščina silueta. Dětský pláč i cinkot nádobí a syčení hrnce jsou přes dveře tlumené.",
+    "id": "L019"
+   },
+   {
+    "scene": 6,
+    "kind": "action",
+    "char": null,
+    "text": "V zámku se otočí klíč. Dveře se otevřou – a pláč se rázem prořízne do plné, ostré podoby.",
+    "id": "L020"
+   },
+   {
+    "scene": 6,
+    "kind": "action",
+    "char": null,
+    "text": "Eliška vejde do chodby, odloží tašku a úřední obálku na botník, sundá si bundu.",
+    "id": "L021"
+   },
+   {
+    "scene": 6,
+    "kind": "dialogue",
+    "char": "ELIŠKA",
+    "text": "Mami, jsem doma!",
+    "id": "L022"
+   },
+   {
+    "scene": 6,
+    "kind": "action",
+    "char": null,
+    "text": "Přes hluk ji nikdo neslyší. Vydá se z chodby do kuchyně.",
+    "id": "L023"
+   },
+   {
+    "scene": 7,
+    "kind": "action",
+    "char": null,
+    "text": "Zatažené závěsy, umělé světlo, zamlžená okna. Přetopeno, radiátory hřejí naplno. Z obýváku tiše hraje televize. Na podlaze hračky a poházené prádlo.",
+    "id": "L024"
+   },
+   {
+    "scene": 7,
+    "kind": "action",
+    "char": null,
+    "text": "MATKA (40) stojí u plotny, míchá v hrnci, stoupá pára. Vlasy stažené a mastné, propocené tričko. Na lince sklenička vody, lahvička prášků a napůl prázdná láhev vína. Vedle štos složenek – navrchu výstraha o odpojení elektřiny.",
+    "id": "L025"
+   },
+   {
+    "scene": 7,
+    "kind": "action",
+    "char": null,
+    "text": "V postýlce pod oknem leží FILÍPEK (1 rok), rudý v obličeji, pláče.",
+    "id": "L026"
+   },
+   {
+    "scene": 7,
+    "kind": "dialogue",
+    "char": "MODERÁTOR (MIMO OBRAZ)",
+    "text": "...meteorologové varují před silným větrem a hustými mlhami, výstraha platí pro celé Česko...",
+    "id": "L027"
+   },
+   {
+    "scene": 7,
+    "kind": "action",
+    "char": null,
+    "text": "Eliška dojde k Matce zezadu a dotkne se jí. Matka sebou cukne, otočí se – a napjatá tvář na chvíli povolí. Dřepne si k ní.",
+    "id": "L028"
+   },
+   {
+    "scene": 7,
+    "kind": "dialogue",
+    "char": "ELIŠKA",
+    "text": "Zase jsem šla domů sama.",
+    "id": "L029"
+   },
+   {
+    "scene": 7,
+    "kind": "action",
+    "char": null,
+    "text": "Matka na chvíli ztuhne. Neodpoví, jen jí odhrne vlasy z čela.",
+    "id": "L030"
+   },
+   {
+    "scene": 7,
+    "kind": "dialogue",
+    "char": "MATKA",
+    "text": "Jak bylo ve škole?",
+    "id": "L031"
+   },
+   {
+    "scene": 7,
+    "kind": "dialogue",
+    "char": "ELIŠKA",
+    "text": "Dobrý.",
+    "id": "L032"
+   },
+   {
+    "scene": 7,
+    "kind": "dialogue",
+    "char": "MATKA",
+    "text": "A známky?",
+    "id": "L033"
+   },
+   {
+    "scene": 7,
+    "kind": "dialogue",
+    "char": "ELIŠKA",
+    "text": "Taky dobrý.",
+    "id": "L034"
+   },
+   {
+    "scene": 7,
+    "kind": "action",
+    "char": null,
+    "text": "Přitáhne si ji. Eliška objetí oplatí.",
+    "id": "L035"
+   },
+   {
+    "scene": 7,
+    "kind": "dialogue",
+    "char": "MATKA",
+    "text": "(škádlivě) Dobrý je za tři.",
+    "id": "L036"
+   },
+   {
+    "scene": 7,
+    "kind": "action",
+    "char": null,
+    "text": "Filípkův pláč zesílí. Matka Elišku jemně pustí, vstane, skloní se k postýlce a unaveně pobrukuje.",
+    "id": "L037"
+   },
+   {
+    "scene": 7,
+    "kind": "dialogue",
+    "char": "MATKA",
+    "text": "(tiše zpívá) Halí, belí, koně v zelí a hříbátka, v petrželi.",
+    "id": "L038"
+   },
+   {
+    "scene": 7,
+    "kind": "action",
+    "char": null,
+    "text": "Filípek na chvíli ztichne. Matka mu urovná deku, otře si čelo a vrátí se k plotně.",
+    "id": "L039"
+   },
+   {
+    "scene": 7,
+    "kind": "dialogue",
+    "char": "MATKA",
+    "text": "Umyj si ruce. Za chvíli jíme.",
+    "id": "L040"
+   },
+   {
+    "scene": 7,
+    "kind": "action",
+    "char": null,
+    "text": "Eliška odejde do koupelny.",
+    "id": "L041"
+   },
+   {
+    "scene": 8,
+    "kind": "action",
+    "char": null,
+    "text": "Matka ochutná z hrnce. Pohled jí padne na víno. Vezme láhev, schová ji do skříňky pod dřezem, zavře.",
+    "id": "L042"
+   },
+   {
+    "scene": 8,
+    "kind": "action",
+    "char": null,
+    "text": "Rozhlédne se po nepořádku. Sebere náruč prádla, odnese ji pryč, vrátí se. Otře si čelo.",
+    "id": "L043"
+   },
+   {
+    "scene": 8,
+    "kind": "action",
+    "char": null,
+    "text": "Zastaví se. Zírá do prázdna. Za jejími zády začne hrnec přetékat, pěna syčí na plotně. Nevnímá to.",
+    "id": "L044"
+   },
+   {
+    "scene": 8,
+    "kind": "action",
+    "char": null,
+    "text": "Eliška se vrátí z koupelny.",
+    "id": "L045"
+   },
+   {
+    "scene": 8,
+    "kind": "dialogue",
+    "char": "ELIŠKA",
+    "text": "Mami, hrnec!",
+    "id": "L046"
+   },
+   {
+    "scene": 8,
+    "kind": "action",
+    "char": null,
+    "text": "Matka se probere, stáhne hrnec.",
+    "id": "L047"
+   },
+   {
+    "scene": 8,
+    "kind": "dialogue",
+    "char": "MATKA",
+    "text": "Jo... díky.",
+    "id": "L048"
+   },
+   {
+    "scene": 8,
+    "kind": "action",
+    "char": null,
+    "text": "Eliška si sedne ke stolu, otevře čítanku.",
+    "id": "L049"
+   },
+   {
+    "scene": 8,
+    "kind": "dialogue",
+    "char": "MATKA",
+    "text": "Máte úkol?",
+    "id": "L050"
+   },
+   {
+    "scene": 8,
+    "kind": "dialogue",
+    "char": "ELIŠKA",
+    "text": "Musím se naučit básničku.",
+    "id": "L051"
+   },
+   {
+    "scene": 8,
+    "kind": "action",
+    "char": null,
+    "text": "Matka střelí pohledem ke dveřím. Utře si ruce do trička.",
+    "id": "L052"
+   },
+   {
+    "scene": 8,
+    "kind": "dialogue",
+    "char": "ELIŠKA",
+    "text": "Přijde zas ta paní?",
+    "id": "L053"
+   },
+   {
+    "scene": 8,
+    "kind": "action",
+    "char": null,
+    "text": "Matka neodpoví. Vezme odloženou úřední obálku, roztrhne ji, čte. Obsah nevidíme – jen jak jí tuhne obličej a mělčí dech.",
+    "id": "L054"
+   },
+   {
+    "scene": 8,
+    "kind": "action",
+    "char": null,
+    "text": "Eliška se skloní k čítance a polohlasně si předříkává.",
+    "id": "L055"
+   },
+   {
+    "scene": 8,
+    "kind": "dialogue",
+    "char": "ELIŠKA",
+    "text": "(pro sebe) U lavice dítě stálo, z plna hrdla křičelo...",
+    "id": "L056"
+   },
+   {
+    "scene": 8,
+    "kind": "action",
+    "char": null,
+    "text": "Matka odloží dopis. Pak se zvedne, popadne tašku, vysype ji a začne do ní házet věci – Eliščino oblečení, pár kusů prádla.",
+    "id": "L057"
+   },
+   {
+    "scene": 8,
+    "kind": "dialogue",
+    "char": "MATKA",
+    "text": "Sbal si věci. Honem. Jedeme k babičce.",
+    "id": "L058"
+   },
+   {
+    "scene": 8,
+    "kind": "action",
+    "char": null,
+    "text": "Eliška zůstane sedět.",
+    "id": "L059"
+   },
+   {
+    "scene": 8,
+    "kind": "dialogue",
+    "char": "ELIŠKA",
+    "text": "(pokračuje ve verši) „Mlč! Hle husar a kočárek – hrej si – tu máš kohouta!\" – Než kohout, vůz i husárek bouch, bác! letí do kouta.",
+    "id": "L060"
+   },
+   {
+    "scene": 8,
+    "kind": "action",
+    "char": null,
+    "text": "Na slově „bouch, bác\" Matka vysype ze skříně další věci na zem.",
+    "id": "L061"
+   },
+   {
+    "scene": 8,
+    "kind": "dialogue",
+    "char": "ELIŠKA",
+    "text": "Mami.",
+    "id": "L062"
+   },
+   {
+    "scene": 8,
+    "kind": "action",
+    "char": null,
+    "text": "Matka balí dál.",
+    "id": "L063"
+   },
+   {
+    "scene": 8,
+    "kind": "dialogue",
+    "char": "ELIŠKA",
+    "text": "Babička už nežije. Přece to víš.",
+    "id": "L064"
+   },
+   {
+    "scene": 8,
+    "kind": "action",
+    "char": null,
+    "text": "Matka strne. Taška v jedné ruce, dětské tričko v druhé. Ruce jí pomalu klesnou. Taška spadne na zem.",
+    "id": "L065"
+   },
+   {
+    "scene": 8,
+    "kind": "action",
+    "char": null,
+    "text": "Vrátí se k lince. Vyklepne prášek, spolkne ho, zapije. Ruce se jí třesou. Vytáhne víno ze skříňky, napije se.",
+    "id": "L066"
+   },
+   {
+    "scene": 8,
+    "kind": "action",
+    "char": null,
+    "text": "Filípkův pláč zesílí. Televize tiše hraje. Za oknem hučí vítr. Matka zavře oči.",
+    "id": "L067"
+   },
+   {
+    "scene": 8,
+    "kind": "action",
+    "char": null,
+    "text": "Eliška čte dál, pořád stejně tiše, monotónně.",
+    "id": "L068"
+   },
+   {
+    "scene": 8,
+    "kind": "action",
+    "char": null,
+    "text": "Na lince zavibruje mobil. NEZNÁMÉ ČÍSLO. Matka po něm ani nesáhne. Zvonění ustane, hovor spadne do schránky.",
+    "id": "L069"
+   },
+   {
+    "scene": 8,
+    "kind": "action",
+    "char": null,
+    "text": "Matka se otočí k Elišce.",
+    "id": "L070"
+   },
+   {
+    "scene": 8,
+    "kind": "dialogue",
+    "char": "MATKA",
+    "text": "Přestaň už s tím!",
+    "id": "L071"
+   },
+   {
+    "scene": 8,
+    "kind": "action",
+    "char": null,
+    "text": "Eliška se zarazí, pak zase tiše pokračuje. Nejde to zastavit. Matka si zacpe uši. Vítr, pláč, verš – jedno přes druhé.",
+    "id": "L072"
+   },
+   {
+    "scene": 8,
+    "kind": "action",
+    "char": null,
+    "text": "Prudce se otočí k postýlce.",
+    "id": "L073"
+   },
+   {
+    "scene": 8,
+    "kind": "dialogue",
+    "char": "MATKA",
+    "text": "Tak už buď zticha!",
+    "id": "L074"
+   },
+   {
+    "scene": 8,
+    "kind": "action",
+    "char": null,
+    "text": "Eliška dojde k verši:",
+    "id": "L075"
+   },
+   {
+    "scene": 8,
+    "kind": "dialogue",
+    "char": "ELIŠKA",
+    "text": "...Pojď si proň, ty Polednice, pojď, vem si ho zlostníka!",
+    "id": "L076"
+   },
+   {
+    "scene": 8,
+    "kind": "action",
+    "char": null,
+    "text": "Matka si stiskne spánky. Zvedne hlavu ke stropu a vykřikne do prázdna.",
+    "id": "L077"
+   },
+   {
+    "scene": 8,
+    "kind": "dialogue",
+    "char": "MATKA",
+    "text": "Tak si pro něj pojď!",
+    "id": "L078"
+   },
+   {
+    "scene": 8,
+    "kind": "action",
+    "char": null,
+    "text": "Ticho na zlomek vteřiny.",
+    "id": "L079"
+   },
+   {
+    "scene": 8,
+    "kind": "action",
+    "char": null,
+    "text": "Z chodby se ozve duté cvaknutí. Všechno ZHASNE. Zmlkne televize, lednice, ztichne šum bytu. Zůstane jen vítr za okny. Filípek leknutím ztichne. Eliška zmlkne uprostřed verše.",
+    "id": "L080"
+   },
+   {
+    "scene": 8,
+    "kind": "action",
+    "char": null,
+    "text": "Za závěsy zůstává jen kalné denní šero.",
+    "id": "L081"
+   },
+   {
+    "scene": 8,
+    "kind": "dialogue",
+    "char": "ELIŠKA",
+    "text": "(šeptem) Mami, co se stalo?",
+    "id": "L082"
+   },
+   {
+    "scene": 8,
+    "kind": "action",
+    "char": null,
+    "text": "Matka dojde k bytovému rozvaděči u vchodu. Jističe jsou nahozené. Přesto je cvaká nahoru a dolů. Nic. Ruka jí klesne.",
+    "id": "L083"
+   },
+   {
+    "scene": 8,
+    "kind": "action",
+    "char": null,
+    "text": "Otočí se, přejde k oknu a prudce roztrhne závěsy.",
+    "id": "L084"
+   },
+   {
+    "scene": 8,
+    "kind": "action",
+    "char": null,
+    "text": "Okno zaplní OSLEPIVĚ BÍLÁ MLŽNÁ ZÁŘE. Za sklem jen mléčná mlha, sídliště v ní zmizelo. Studené polední světlo bodá do očí. Matka mžourá.",
+    "id": "L085"
+   },
+   {
+    "scene": 8,
+    "kind": "action",
+    "char": null,
+    "text": "Bez topení do bytu pomalu leze chlad. Matku obejme zima, roztřese se. Filípek v postýlce rudne pláčem.",
+    "id": "L086"
+   },
+   {
+    "scene": 8,
+    "kind": "action",
+    "char": null,
+    "text": "Zvenku se rozezní SIRÉNA – dlouhý stálý tón.",
+    "id": "L087"
+   },
+   {
+    "scene": 8,
+    "kind": "action",
+    "char": null,
+    "text": "Matka se pomalu otočí do místnosti. Filípkův pláč jako by chvíli přicházel z jiného kouta. Na kraji záběru přeběhne stín – a je pryč. Bílé světlo bodá do očí.",
+    "id": "L088"
+   },
+   {
+    "scene": 8,
+    "kind": "action",
+    "char": null,
+    "text": "[ZVUK: zvuky se propadnou do dálky – vítr i siréna zmizí, zůstane jen Matčin přerývaný dech a tep.]",
+    "id": "L089"
+   },
+   {
+    "scene": 8,
+    "kind": "action",
+    "char": null,
+    "text": "V tom ztlumení Eliška odloží čítanku, dojde k postýlce a vezme Filípka do náruče. Nemotorně ho houpe. Matka z toho nevnímá nic.",
+    "id": "L090"
+   },
+   {
+    "scene": 8,
+    "kind": "action",
+    "char": null,
+    "text": "Zvuk se vrátí. Matčin pohled padne k postýlce. Prázdná.",
+    "id": "L091"
+   },
+   {
+    "scene": 8,
+    "kind": "action",
+    "char": null,
+    "text": "Matka ztuhne. Přiskočí k ní. Nic. Prudce se otočí – Filípka drží Eliška.",
+    "id": "L092"
+   },
+   {
+    "scene": 8,
+    "kind": "action",
+    "char": null,
+    "text": "Venku doznívá siréna. Ticho.",
+    "id": "L093"
+   },
+   {
+    "scene": 8,
+    "kind": "action",
+    "char": null,
+    "text": "ŤUK. ŤUK. ŤUK. Tři pomalé údery na vchodové dveře.",
+    "id": "L094"
+   },
+   {
+    "scene": 9,
+    "kind": "action",
+    "char": null,
+    "text": "Matka vytrhne Elišce Filípka z rukou a přitiskne si ho na hruď, tváří k sobě. S dítětem v náručí přejde do chodby ke vchodovým dveřím. Eliška zůstane s prázdnýma rukama a jde za ní.",
+    "id": "L095"
+   },
+   {
+    "scene": 9,
+    "kind": "action",
+    "char": null,
+    "text": "Matka se nakloní ke kukátku.",
+    "id": "L096"
+   },
+   {
+    "scene": 9,
+    "kind": "action",
+    "char": null,
+    "text": "POV KUKÁTKO: rybí oko, rozmazaná, zkreslená chodba domu. Nejasné, jestli tam někdo je.",
+    "id": "L097"
+   },
+   {
+    "scene": 9,
+    "kind": "action",
+    "char": null,
+    "text": "Za dveřmi tlumený ženský hlas – Matka ho slyší zkresleně, mohutně, jako by dům duněl.",
+    "id": "L098"
+   },
+   {
+    "scene": 9,
+    "kind": "action",
+    "char": null,
+    "text": "Odskočí. Stáhne se do rohu chodby, sesune se na zem zády ke zdi. Filípka tiskne. Při každé ráně sebou trhne; cukání přejde v neustálý třas. Zavře oči.",
+    "id": "L099"
+   },
+   {
+    "scene": 9,
+    "kind": "action",
+    "char": null,
+    "text": "Eliška si k ní klekne. Nedívá se ke dveřím – dívá se na Matku.",
+    "id": "L100"
+   },
+   {
+    "scene": 9,
+    "kind": "dialogue",
+    "char": "ELIŠKA",
+    "text": "(její slova Matka slyší zkresleně, temně) Mami, ty ho zmáčkneš!",
+    "id": "L101"
+   },
+   {
+    "scene": 9,
+    "kind": "action",
+    "char": null,
+    "text": "Matka zavrtí hlavou. Tiskne dítě ještě víc.",
+    "id": "L102"
+   },
+   {
+    "scene": 9,
+    "kind": "action",
+    "char": null,
+    "text": "[ZVUK: svět se propadne do ticha – jen dech a tep. Filípkův tlumený pláč pod jejíma rukama slábne, až umlkne.]",
+    "id": "L103"
+   },
+   {
+    "scene": 9,
+    "kind": "action",
+    "char": null,
+    "text": "Do ticha se ozve tichý, zlomený pláč Matky.",
+    "id": "L104"
+   },
+   {
+    "scene": 9,
+    "kind": "action",
+    "char": null,
+    "text": "[ZVUK: zkreslení mizí, dunění se prolne do obyčejného lehkého zaklepání.]",
+    "id": "L105"
+   },
+   {
+    "scene": 9,
+    "kind": "action",
+    "char": null,
+    "text": "Ťuk, ťuk.",
+    "id": "L106"
+   },
+   {
+    "scene": 9,
+    "kind": "action",
+    "char": null,
+    "text": "SOCIÁLNÍ PRACOVNICE (MIMO OBRAZ) Paní Nováková? To jsem já, ze sociálky. Volala jsem vám. Otevřete, prosím.",
+    "id": "L107"
+   },
+   {
+    "scene": 9,
+    "kind": "action",
+    "char": null,
+    "text": "Prostor protne Eliščin hlas – teď čistě.",
+    "id": "L108"
+   },
+   {
+    "scene": 9,
+    "kind": "dialogue",
+    "char": "ELIŠKA",
+    "text": "Mami... Filípek.",
+    "id": "L109"
+   },
+   {
+    "scene": 9,
+    "kind": "action",
+    "char": null,
+    "text": "Matka otevře oči. Sklopí pohled k dítěti, odtáhne ho kousek od hrudi.",
+    "id": "L110"
+   },
+   {
+    "scene": 9,
+    "kind": "action",
+    "char": null,
+    "text": "Tvář jí zkamení. Ústa se pootevřou, ale nevyjde z nich hláska.",
+    "id": "L111"
+   },
+   {
+    "scene": 9,
+    "kind": "action",
+    "char": null,
+    "text": "Sesune se, dech přerývaný, tiše pláče. Dopis jí vyklouzne z ruky na zem. Pomalu si dítě zase přitáhne a začne ho kolébat.",
+    "id": "L112"
+   },
+   {
+    "scene": 9,
+    "kind": "dialogue",
+    "char": "MATKA",
+    "text": "(skrz pláč, tiše zpívá) Halí, belí, koně v zelí...",
+    "id": "L113"
+   },
+   {
+    "scene": 9,
+    "kind": "action",
+    "char": null,
+    "text": "Za dveřmi znovu zaklepání.",
+    "id": "L114"
+   },
+   {
+    "scene": 9,
+    "kind": "action",
+    "char": null,
+    "text": "SOCIÁLNÍ PRACOVNICE (MIMO OBRAZ) Paní Nováková...?",
+    "id": "L115"
+   },
+   {
+    "scene": 9,
+    "kind": "action",
+    "char": null,
+    "text": "Eliška se dlouze dívá na Matku. Pak vstane, dojde ke dveřím a vezme za kliku.",
+    "id": "L116"
+   },
+   {
+    "scene": 10,
+    "kind": "action",
+    "char": null,
+    "text": "Ve dveřích SOCIÁLNÍ PRACOVNICE – obyčejná unavená žena s deskami. Dveře se otevřou, v nich malá Eliška. Mlčky ustoupí stranou.",
+    "id": "L117"
+   },
+   {
+    "scene": 10,
+    "kind": "action",
+    "char": null,
+    "text": "[ZVUK: zůstane jen syrová, civilní akustika bytu.]",
+    "id": "L118"
+   },
+   {
+    "scene": 10,
+    "kind": "action",
+    "char": null,
+    "text": "Pracovnice uvidí, co je uvnitř. Ztuhne. Otevře pusu, ale slova nepřijdou.",
+    "id": "L119"
+   },
+   {
+    "scene": 10,
+    "kind": "action",
+    "char": null,
+    "text": "Na podlaze v chodbě sedí Matka, kolébá nehybné dítě a tiše mu prozpěvuje. Kolem ní studené, mléčné polední světlo mlhy.",
+    "id": "L120"
+   },
+   {
+    "scene": 10,
+    "kind": "action",
+    "char": null,
+    "text": "Kamera sklouzne dolů k dopisu na zemi. Mezi úředními řádky probleskne: ...šetření v rodině... návštěva v domácnosti dle § 52 zákona č. 359/1999 Sb.... Obyčejné oznámení o kontrole.",
+    "id": "L121"
+   },
+   {
+    "scene": 10,
+    "kind": "action",
+    "char": null,
+    "text": "Ostrost se přenese z dopisu na ELIŠKU. Klečí vedle Matky a dívá se na ni. Ne ke dveřím. Na Matku.",
+    "id": "L122"
+   },
+   {
+    "scene": 10,
+    "kind": "action",
+    "char": null,
+    "text": "FADE OUT.",
+    "id": "L123"
+   },
+   {
+    "scene": 10,
+    "kind": "action",
+    "char": null,
+    "text": "KONEC",
+    "id": "L124"
+   }
+  ]
+ },
+ "techDoc": {
+  "file": "poledne_tech_sc.docx",
+  "cover": {
+   "school": [
+    "Vysoká škola ekonomická v Praze",
+    "Fakulta informatiky a statistiky",
+    "Obor Multimédia v ekonomické praxi"
+   ],
+   "kicker": "Technický scénář ke studentskému filmu",
+   "title": "POLEDNE",
+   "genre": "Psychologický horor / tragédie",
+   "motif": "na motivy básně Polednice od K. J. Erbena",
+   "credits": [
+    "scénář: Lukáš Jonáš",
+    "VŠE MvEP 2026"
+   ]
+  },
+  "sections": [
+   {
+    "heading": "ANOTACE",
+    "items": [
+     {
+      "p": "Matka samoživitelka se hroutí pod tíhou vyčerpání, samoty a strachu z úřední kontroly. Do jejího přetíženého vnímání se z říkanky sedmileté dcery (Erbenovy Polednice) vplíží představa bytosti, která si přišla pro plačící dítě. Za sychravého listopadového poledne, kdy zkušební siréna kvílí nad městem v mlze, se v panelákovém bytě setře hranice mezi psychózou a nadpřirozenem. Matka v panice udusí vlastní dítě v přesvědčení, že ho brání a když se ve dveřích objeví obyčejná sociální pracovnice s rutinním oznámením o kontrole, ukáže se, že hrozba existovala jen v její hlavě. Film drží dvojznačnost (psychóza × nadpřirozeno) až do posledního okamžiku; hrůza stojí na zvuku, ne na efektech."
+     }
+    ]
+   },
+   {
+    "heading": "Postavy",
+    "items": [
+     {
+      "li": "Matka (40): Vyčerpaná samoživitelka na hraně zhroucení. Její subjektivní vnímání je hlavním „objektivem“ filmu. Svět se křiví a svírá kolem ní."
+     },
+     {
+      "li": "Eliška (7): Tichá, přehlížená Matčina dcera, která chodí sama ze školy a supluje péči. Klíč pro diváka — dívá se vždy na Matku, ne ke dveřím."
+     },
+     {
+      "li": "Filípek (1 rok): Kojenec. Reálné dítě jen v bezpečných, něžných záběrech; udušení a smrt vždy mimo obraz (od předání dál model)."
+     },
+     {
+      "li": "Sociální pracovnice: obyčejná unavená žena s deskami; objeví se až v závěru u dveří a rozbije dvojznačnost (hrozba byla jen v Matčině hlavě)."
+     },
+     {
+      "li": "Vedlejší: Spolužačka a Učitelka (50) v úvodní scéně ve škole."
+     }
+    ]
+   },
+   {
+    "heading": "Lokace",
+    "items": [
+     {
+      "li": "Základní škola – třída (Interiér): studené zářivkové světlo, prostředí odcizení; uvádí báseň a Eliščino stažení."
+     },
+     {
+      "li": "Škola – šatna (Interiér): komorní prostor osamění; Eliška po škole čeká sama, pak odejde chodbou."
+     },
+     {
+      "li": "Sídliště (Exteriér): sychravé podzimní poledne, mlha a vítr; prázdnota, chlad, motiv skrytého pozorovatele."
+     },
+     {
+      "li": "Panelový dům – balkon, vchod, schránky (Ext./Int.): fasáda v mlze, prádlo ve větru, shora z bytu pláč; ve vestibulu přetékající schránky a úřední obálka."
+     },
+     {
+      "li": "Byt – chodba (Interiér): přední vchodové dveře, botník; příchod Elišky a v závěru místo klimaxu (Matka schoulená v rohu u dveří)."
+     },
+     {
+      "li": "Byt – kuchyň / obývák (Interiér): hlavní dějiště většiny filmu — plotna, jídelní stůl, postýlka pod oknem, okno / lodžie."
+     },
+     {
+      "li": "Byt – koupelna / WC (Interiér): vedlejší; do koupelny si Eliška odejde umýt ruce."
+     }
+    ]
+   },
+   {
+    "heading": "Půdorys bytu (natáčecí prostor)",
+    "items": [
+     {
+      "p": "Byt, ve kterém se pravděpodobně bude točit. Přední vchodové dveře vedou do chodby; hlavní dějiště je kuchyň/obývák; klimax se odehrává zpět v chodbě u dveří.",
+      "i": true
+     },
+     {
+      "img": "img/pudorys.png"
+     }
+    ]
+   },
+   {
+    "heading": "Poznámka k obrazu, zvuku a číslování",
+    "items": [
+     {
+      "p": "Formát: film začíná v 16:9. Nepozorované sevření do 4:3 se váže na Matčinu psychózu — hlavní krok se schová do šera po výpadku proudu (uvnitř Obrazu 6, kuchyň), nejtěsnější je v chodbě u dveří (Obraz 7) a v samém závěru se rám pozvolna otevře zpět k 16:9."
+     },
+     {
+      "p": "Look: desaturovaný, syrový; podzim = mlha, vítr, chlad. Hudba žádná/minimální, hrůza stojí na zvuku — proto má scénář vlastní sloupec Zvuk (dialogy, ruchy, zvukové akcenty). Ostatní poznámky (kompozice, herecké/produkční) jsou ve sloupci Poznámky."
+     }
+    ]
+   }
+  ]
+ },
+ "config": {
+  "driveUrl": "https://drive.google.com/drive/folders/19JFhCXOsz1PmnbHu6i0h88zBr6y1n5A-?usp=sharing"
+ },
+ "lighting": {
+  "intro": "Princip svícení (vedoucí): jedno hlavní světlo dělá atmosféru, druhé ho přes polystyren změkčí na herce a třetí lehce kontruje zezadu. Flag dáváme tam, kde chceme tmavší stranu. Teplota měkčení je vždy stejná jako u hlavního světla.",
+  "sketchNote": "Schémata bytu jsou nakreslená podle popisu vedoucího a půdorysu z technického scénáře – jeho náčrt (záběr u linky a u stolu) zatím v aplikaci není. Hodnoty teploty a výkonu jsou výchozí návrh, dolaďte je na place.",
+  "equipment": [
+   {
+    "group": "Světla",
+    "items": [
+     {
+      "name": "Aputure LS 600c Pro",
+      "qty": 1,
+      "src": "pronájem",
+      "code": "600c",
+      "note": "hlavní světlo / „slunce“; RGB i bílé 2300–10 000 K, potřebuje zásuvku"
+     },
+     {
+      "name": "Aputure Light Dome III (90 cm)",
+      "qty": 1,
+      "src": "pronájem",
+      "code": "dome",
+      "note": "softbox na 600c, když má být hlavní světlo měkké"
+     },
+     {
+      "name": "Nanlite FS300-B",
+      "qty": 1,
+      "src": "máme",
+      "code": "FS300",
+      "note": "bi-color 2700–6500 K; svítí do polystyrenu (měkčení) nebo se softboxem"
+     },
+     {
+      "name": "Softbox k Nanlite",
+      "qty": 1,
+      "src": "máme"
+     },
+     {
+      "name": "Světelné trubice",
+      "qty": null,
+      "src": "máme",
+      "code": "trubice",
+      "note": "kontra do vlasů, praktikábly (TV), světlo za matným sklem"
+     }
+    ]
+   },
+   {
+    "group": "Grip",
+    "items": [
+     {
+      "name": "Polystyren odrazka 100×100 cm",
+      "qty": 1,
+      "src": "pronájem",
+      "note": "měkčení – Nanlite do ní, odraz na herce"
+     },
+     {
+      "name": "Floppy Flag 61×91 cm",
+      "qty": 1,
+      "src": "pronájem",
+      "note": "tmavší strana, odstínění"
+     },
+     {
+      "name": "C-stand Avenger / Manfrotto A2025LCB (110–253 cm)",
+      "qty": 3,
+      "src": "pronájem",
+      "note": "600c · polystyren · flag"
+     },
+     {
+      "name": "Sandbag",
+      "qty": 1,
+      "src": "pronájem",
+      "note": "na stativ s 600c (balkon, vítr)"
+     },
+     {
+      "name": "Prodlužky",
+      "qty": null,
+      "src": "máme"
+     }
+    ]
+   },
+   {
+    "group": "Kamera",
+    "items": [
+     {
+      "name": "Sony FX3",
+      "qty": 1,
+      "src": "máme"
+     },
+     {
+      "name": "Objektivy 14 mm, 24–70 mm, 70–200 mm (pokud bude potřeba)",
+      "qty": null,
+      "src": "máme"
+     },
+     {
+      "name": "Variabilní ND filtr, Mist filtr",
+      "qty": null,
+      "src": "máme",
+      "note": "mist ke stavu B2 a exteriérům v mlze"
+     },
+     {
+      "name": "DJI RS 4 Pro, stativ SmallRig, Atomos Shinobi II",
+      "qty": null,
+      "src": "máme"
+     },
+     {
+      "name": "Baterie: 2× NP-FZ100, 2× NP-F970 + nabíječky; 2× SD 256 GB, SSD 2 TB",
+      "qty": null,
+      "src": "máme"
+     }
+    ]
+   },
+   {
+    "group": "Zvuk",
+    "items": [
+     {
+      "name": "Zvukařský set (Rycote, Sennheiser MKH60, Sound Devices 633)",
+      "qty": 1,
+      "src": "pronájem"
+     },
+     {
+      "name": "RODE Lavalier GO",
+      "qty": 2,
+      "src": "pronájem"
+     }
+    ]
+   }
+  ],
+  "questions": [
+   "Doprava polystyrenu 100×100 cm – do většiny osobáků se nevejde. Pokud ne, náhradou je velká odrazka, ale na stativ potřebuje rozpěrku (v Biofilms ji přímo nemají, dá se poskládat).",
+   "Stativy: 3 C-standy pokryjí 600c, polystyren a flag. Nanlite FS300-B potřebuje vlastní stativ – máte ho? Jinak chybí čtvrtý.",
+   "Jen 1 sandbag – na balkoně patří pod 600c vždy; zvažte druhý pro stativ s polystyrenem (velká plocha, chytá vítr i průvan)."
+  ],
+  "setups": [
+   {
+    "id": "trida",
+    "title": "Třída",
+    "match": {
+     "obraz": [
+      1
+     ]
+    },
+    "state": "",
+    "mood": "Plochá, studená, institucionální. Okna jsou vždy vpravo od žáků → stín na tvářích padá na jejich levou stranu (z kamery u tabule vpravo, z kamery od zadní stěny vlevo).",
+    "diagrams": [
+     {
+      "title": "Půdorys třídy, kamera od tabule na Elišku (záběry 4, 6, 7)",
+      "items": [
+       {
+        "t": "room",
+        "x": 60,
+        "y": 30,
+        "w": 480,
+        "h": 340,
+        "l": "třída",
+        "lx": 100,
+        "ly": 360
+       },
+       {
+        "t": "win",
+        "x1": 540,
+        "y1": 70,
+        "x2": 540,
+        "y2": 330,
+        "l": "okna (zamlžená)"
+       },
+       {
+        "t": "furn",
+        "x": 180,
+        "y": 34,
+        "w": 200,
+        "h": 14,
+        "l": "tabule"
+       },
+       {
+        "t": "furn",
+        "x": 400,
+        "y": 70,
+        "w": 80,
+        "h": 34,
+        "l": "katedra"
+       },
+       {
+        "t": "furn",
+        "x": 150,
+        "y": 180,
+        "w": 90,
+        "h": 30,
+        "l": "lavice"
+       },
+       {
+        "t": "furn",
+        "x": 360,
+        "y": 180,
+        "w": 90,
+        "h": 30,
+        "l": "lavice"
+       },
+       {
+        "t": "furn",
+        "x": 255,
+        "y": 270,
+        "w": 90,
+        "h": 30,
+        "l": "lavice"
+       },
+       {
+        "t": "actor",
+        "x": 300,
+        "y": 315,
+        "l": "E"
+       },
+       {
+        "t": "actor",
+        "x": 260,
+        "y": 75,
+        "l": "S"
+       },
+       {
+        "t": "actor",
+        "x": 440,
+        "y": 120,
+        "l": "U"
+       },
+       {
+        "t": "cam",
+        "x": 300,
+        "y": 130,
+        "a": 90
+       },
+       {
+        "t": "light",
+        "n": 1,
+        "x": 505,
+        "y": 300,
+        "a": 180,
+        "temp": "cool",
+        "len": 180,
+        "sp": 46
+       },
+       {
+        "t": "bounce",
+        "x": 215,
+        "y": 320,
+        "a": 90,
+        "len": 56
+       },
+       {
+        "t": "tube",
+        "x": 170,
+        "y": 120,
+        "w": 90
+       },
+       {
+        "t": "tube",
+        "x": 340,
+        "y": 120,
+        "w": 90
+       },
+       {
+        "t": "tube",
+        "x": 170,
+        "y": 240,
+        "w": 90
+       },
+       {
+        "t": "tube",
+        "x": 340,
+        "y": 240,
+        "w": 90
+       },
+       {
+        "t": "flag",
+        "x": 470,
+        "y": 245,
+        "a": 90,
+        "len": 44
+       }
+      ]
+     }
+    ],
+    "lights": [
+     {
+      "n": "1",
+      "role": "hlavní (okno)",
+      "fixture": "Nanlite FS300-B + softbox",
+      "where": "ze strany oken, mírně shora, 45° k herci",
+      "set": "5600 K, 40–60 %"
+     },
+     {
+      "n": "P",
+      "role": "fill",
+      "fixture": "polystyren",
+      "where": "na opačné straně než okna",
+      "set": "jen odraz – plochý kontrast"
+     },
+     {
+      "n": "Z",
+      "role": "základ",
+      "fixture": "stávající zářivky",
+      "where": "strop",
+      "set": "nechat svítit; Nanlite k nim teplotně doladit"
+     },
+     {
+      "n": "F",
+      "role": "odstínění",
+      "fixture": "floppy flag",
+      "where": "mezi softbox a tabuli",
+      "set": "aby tabule nepřepalovala"
+     }
+    ],
+    "tips": [
+     "Při otočení kamery k tabuli (záběry 2, 3, 5) se Nanlite i polystyren nestěhují – okna zůstávají vpravo od žáků, v obraze tedy vpravo.",
+     "Záběr 6 (detail kresby): Nanlite níž a víc z boku, aby světlo klouzalo po papíře."
+    ]
+   },
+   {
+    "id": "satna",
+    "title": "Šatna",
+    "match": {
+     "obraz": [
+      2
+     ]
+    },
+    "state": "",
+    "mood": "Chladné zářivky, těsné rámování. Bílý obdélník dveří do mlhy je nejjasnější místo obrazu.",
+    "diagrams": [
+     {
+      "title": "Chodba se skříňkami, kamera proti dveřím ven",
+      "items": [
+       {
+        "t": "room",
+        "x": 40,
+        "y": 130,
+        "w": 500,
+        "h": 130,
+        "l": "šatna",
+        "lx": 80,
+        "ly": 250
+       },
+       {
+        "t": "glass",
+        "x1": 540,
+        "y1": 165,
+        "x2": 540,
+        "y2": 225,
+        "l": "dveře ven (mlha)"
+       },
+       {
+        "t": "furn",
+        "x": 60,
+        "y": 134,
+        "w": 380,
+        "h": 16,
+        "l": "skříňky"
+       },
+       {
+        "t": "actor",
+        "x": 370,
+        "y": 190,
+        "l": "E"
+       },
+       {
+        "t": "cam",
+        "x": 110,
+        "y": 200,
+        "a": 0
+       },
+       {
+        "t": "light",
+        "n": 1,
+        "x": 580,
+        "y": 195,
+        "a": 180,
+        "temp": "cool",
+        "len": 200,
+        "sp": 34
+       },
+       {
+        "t": "light",
+        "n": 2,
+        "x": 250,
+        "y": 300,
+        "a": 300,
+        "temp": "cool",
+        "len": 40,
+        "sp": 40
+       },
+       {
+        "t": "bounce",
+        "x": 300,
+        "y": 235,
+        "a": 20,
+        "len": 50
+       },
+       {
+        "t": "tube",
+        "x": 180,
+        "y": 175,
+        "w": 70
+       },
+       {
+        "t": "tube",
+        "x": 360,
+        "y": 230,
+        "w": 70
+       }
+      ]
+     }
+    ],
+    "lights": [
+     {
+      "n": "1",
+      "role": "záře dveří / kontra",
+      "fixture": "Aputure LS 600c Pro + Light Dome",
+      "where": "venku za dveřmi, míří dovnitř",
+      "set": "5600–6000 K, podle expozice dveří"
+     },
+     {
+      "n": "2",
+      "role": "měkčení",
+      "fixture": "Nanlite FS300-B",
+      "where": "svítí do polystyrenu, odraz na Elišku",
+      "set": "stejná teplota jako 1, nízko (15–25 %)"
+     },
+     {
+      "n": "Z",
+      "role": "základ",
+      "fixture": "stávající zářivky",
+      "where": "strop",
+      "set": "nechat"
+     }
+    ],
+    "tips": [
+     "Pokud se 600c za dveře nedostane (bez zásuvky / veřejný prostor), stačí přirozená mlha venku a exponovat na dveře.",
+     "Záběr 9: přeostření do hloubky na konec chodby – tam ať zůstane jen zářivka."
+    ]
+   },
+   {
+    "id": "exterier",
+    "title": "Sídliště a panelák",
+    "match": {
+     "obraz": [
+      3,
+      4
+     ]
+    },
+    "state": "",
+    "mood": "Difuzní světlo mlhy – měkké, ploché, mléčné. Venku nesvítíme lampami, jen tvarujeme odrazem a flagem.",
+    "diagrams": [],
+    "lights": [
+     {
+      "n": "S",
+      "role": "hlavní",
+      "fixture": "denní světlo (mlha)",
+      "where": "—",
+      "set": "variabilní ND + mist filtr"
+     },
+     {
+      "n": "P",
+      "role": "fill na obličej",
+      "fixture": "polystyren",
+      "where": "pod obličejem Elišky, ze strany kamery",
+      "set": "jen u detailů (16, 18, 21)"
+     },
+     {
+      "n": "F",
+      "role": "negativní fill",
+      "fixture": "floppy flag",
+      "where": "na stranu, která má zůstat tmavší",
+      "set": "dá tvar plochému světlu"
+     },
+     {
+      "n": "2",
+      "role": "vestibul",
+      "fixture": "Nanlite FS300-B nebo trubice",
+      "where": "vestibul se schránkami (22, 23)",
+      "set": "chladně 5600 K, doplní zářivky"
+     }
+    ],
+    "tips": [
+     "Polystyren 100×100 ve větru = plachta: držet rukou nebo na C-standu se sandbagem.",
+     "Fasáda a balkon (19–20): jen přirozené světlo, exponovat na mlhu."
+    ]
+   },
+   {
+    "id": "chodba",
+    "title": "Byt – chodba (H1)",
+    "match": {
+     "obraz": [
+      5,
+      7
+     ],
+     "obrazLight": [
+      [
+       6,
+       "H1"
+      ]
+     ]
+    },
+    "state": "H1",
+    "mood": "Přítmí, studené mlžné světlo z kuchyně a přes matné sklo vchodových dveří. Nejtěsnější prostor filmu (4:3 v obrazu 7).",
+    "diagrams": [
+     {
+      "title": "Příchod Elišky (obraz 5)",
+      "items": [
+       {
+        "t": "room",
+        "x": 230,
+        "y": 20,
+        "w": 250,
+        "h": 120,
+        "l": "kuchyň",
+        "lx": 270,
+        "ly": 128
+       },
+       {
+        "t": "win",
+        "x1": 250,
+        "y1": 20,
+        "x2": 460,
+        "y2": 20,
+        "l": "okno / balkon"
+       },
+       {
+        "t": "room",
+        "x": 60,
+        "y": 140,
+        "w": 420,
+        "h": 160,
+        "l": "chodba",
+        "lx": 440,
+        "ly": 288
+       },
+       {
+        "t": "door",
+        "x1": 300,
+        "y1": 140,
+        "x2": 360,
+        "y2": 140
+       },
+       {
+        "t": "glass",
+        "x1": 60,
+        "y1": 180,
+        "x2": 60,
+        "y2": 260,
+        "l": "vchodové dveře (matné sklo)"
+       },
+       {
+        "t": "furn",
+        "x": 120,
+        "y": 282,
+        "w": 90,
+        "h": 16,
+        "l": "botník"
+       },
+       {
+        "t": "actor",
+        "x": 115,
+        "y": 215,
+        "l": "E"
+       },
+       {
+        "t": "cam",
+        "x": 400,
+        "y": 230,
+        "a": 180
+       },
+       {
+        "t": "light",
+        "n": 1,
+        "x": 330,
+        "y": 55,
+        "a": 100,
+        "temp": "cool",
+        "len": 150,
+        "sp": 40
+       },
+       {
+        "t": "light",
+        "n": 3,
+        "x": 25,
+        "y": 220,
+        "a": 0,
+        "temp": "cool",
+        "len": 70,
+        "sp": 50
+       },
+       {
+        "t": "light",
+        "n": 2,
+        "x": 280,
+        "y": 285,
+        "a": 200,
+        "temp": "cool",
+        "len": 40,
+        "sp": 40
+       },
+       {
+        "t": "bounce",
+        "x": 205,
+        "y": 255,
+        "a": 150,
+        "len": 50
+       },
+       {
+        "t": "flag",
+        "x": 250,
+        "y": 175,
+        "a": 0,
+        "len": 44
+       }
+      ]
+     },
+     {
+      "title": "Klimax u dveří (obraz 7) – Matka v rohu",
+      "items": [
+       {
+        "t": "room",
+        "x": 230,
+        "y": 20,
+        "w": 250,
+        "h": 120,
+        "l": "kuchyň",
+        "lx": 270,
+        "ly": 128
+       },
+       {
+        "t": "win",
+        "x1": 250,
+        "y1": 20,
+        "x2": 460,
+        "y2": 20,
+        "l": "okno / balkon"
+       },
+       {
+        "t": "room",
+        "x": 60,
+        "y": 140,
+        "w": 420,
+        "h": 160,
+        "l": "chodba",
+        "lx": 440,
+        "ly": 288
+       },
+       {
+        "t": "door",
+        "x1": 300,
+        "y1": 140,
+        "x2": 360,
+        "y2": 140
+       },
+       {
+        "t": "glass",
+        "x1": 60,
+        "y1": 180,
+        "x2": 60,
+        "y2": 260,
+        "l": "vchodové dveře (matné sklo)"
+       },
+       {
+        "t": "furn",
+        "x": 120,
+        "y": 282,
+        "w": 90,
+        "h": 16,
+        "l": "botník"
+       },
+       {
+        "t": "actor",
+        "x": 95,
+        "y": 268,
+        "l": "M"
+       },
+       {
+        "t": "actor",
+        "x": 300,
+        "y": 200,
+        "l": "E"
+       },
+       {
+        "t": "cam",
+        "x": 210,
+        "y": 215,
+        "a": 145
+       },
+       {
+        "t": "light",
+        "n": 1,
+        "x": 330,
+        "y": 55,
+        "a": 110,
+        "temp": "cool",
+        "len": 150,
+        "sp": 40
+       },
+       {
+        "t": "light",
+        "n": 3,
+        "x": 25,
+        "y": 200,
+        "a": 15,
+        "temp": "cool",
+        "len": 60,
+        "sp": 46
+       },
+       {
+        "t": "light",
+        "n": 2,
+        "x": 250,
+        "y": 290,
+        "a": 190,
+        "temp": "cool",
+        "len": 30,
+        "sp": 40
+       },
+       {
+        "t": "bounce",
+        "x": 180,
+        "y": 275,
+        "a": 100,
+        "len": 46
+       },
+       {
+        "t": "flag",
+        "x": 150,
+        "y": 175,
+        "a": 30,
+        "len": 44
+       }
+      ]
+     }
+    ],
+    "lights": [
+     {
+      "n": "1",
+      "role": "hlavní – světlo z kuchyně",
+      "fixture": "Aputure LS 600c Pro",
+      "where": "z balkonu přes kuchyň do chodby",
+      "set": "5600–6000 K, nízko (20–30 %)"
+     },
+     {
+      "n": "2",
+      "role": "měkčení",
+      "fixture": "Nanlite FS300-B",
+      "where": "do polystyrenu, odraz na tvář",
+      "set": "stejná teplota jako 1, minimum – přítmí"
+     },
+     {
+      "n": "3",
+      "role": "kontra / matné sklo",
+      "fixture": "RGB trubice",
+      "where": "venku za vchodovými dveřmi",
+      "set": "studeně, svit přes sklo a do vlasů"
+     },
+     {
+      "n": "F",
+      "role": "tma v rohu",
+      "fixture": "floppy flag",
+      "where": "mezi dveřmi kuchyně a stěnou / rohem",
+      "set": "roh u dveří má zůstat tmavý"
+     }
+    ],
+    "tips": [
+     "Od záběru 96 (pohled zvenku na dveře) civilní polední světlo: 600c i Nanlite neutrálně, flag pryč.",
+     "Kukátko (POV, rybí oko): stačí trubice za dveřmi, tvář Sociální pracovnice z Nanlite přes polystyren.",
+     "Záběry 66 a 79 (jistič, údery na dveře) jsou vložky v chodbě – stejný setup."
+    ]
+   },
+   {
+    "id": "kuchyn-a",
+    "title": "Kuchyň – stav A",
+    "match": {
+     "obrazLight": [
+      [
+       6,
+       "A"
+      ]
+     ]
+    },
+    "state": "A",
+    "mood": "Zatažené závěsy, zamlžená okna, přetopeno a dusno. Praktikábly lampa a TV, hlavní světlo z balkonu prosvítá závěsy.",
+    "diagrams": [
+     {
+      "title": "Záběr u kuchyňské linky",
+      "items": [
+       {
+        "t": "room",
+        "x": 150,
+        "y": 22,
+        "w": 300,
+        "h": 58,
+        "l": "lodžie / balkon",
+        "out": true,
+        "lx": 372,
+        "ly": 40
+       },
+       {
+        "t": "room",
+        "x": 150,
+        "y": 80,
+        "w": 300,
+        "h": 250,
+        "l": "kuchyň / obývák",
+        "lx": 190,
+        "ly": 316
+       },
+       {
+        "t": "room",
+        "x": 40,
+        "y": 330,
+        "w": 220,
+        "h": 78,
+        "l": "chodba",
+        "lx": 80,
+        "ly": 396
+       },
+       {
+        "t": "win",
+        "x1": 175,
+        "y1": 80,
+        "x2": 425,
+        "y2": 80,
+        "l": "okno + balkonové dveře (závěsy)"
+       },
+       {
+        "t": "door",
+        "x1": 175,
+        "y1": 330,
+        "x2": 235,
+        "y2": 330
+       },
+       {
+        "t": "furn",
+        "x": 152,
+        "y": 98,
+        "w": 26,
+        "h": 160,
+        "l": "linka",
+        "v": true
+       },
+       {
+        "t": "furn",
+        "x": 300,
+        "y": 200,
+        "w": 90,
+        "h": 56,
+        "l": "stůl"
+       },
+       {
+        "t": "furn",
+        "x": 372,
+        "y": 90,
+        "w": 66,
+        "h": 34,
+        "l": "postýlka"
+       },
+       {
+        "t": "prac",
+        "x": 445,
+        "y": 230,
+        "l": "TV"
+       },
+       {
+        "t": "prac",
+        "x": 420,
+        "y": 300,
+        "l": "lampa"
+       },
+       {
+        "t": "actor",
+        "x": 205,
+        "y": 175,
+        "l": "M"
+       },
+       {
+        "t": "cam",
+        "x": 325,
+        "y": 265,
+        "a": 215
+       },
+       {
+        "t": "light",
+        "n": 1,
+        "x": 230,
+        "y": 42,
+        "a": 100,
+        "temp": "neutral",
+        "len": 150,
+        "sp": 50
+       },
+       {
+        "t": "light",
+        "n": 2,
+        "x": 362,
+        "y": 172,
+        "a": 200,
+        "temp": "neutral",
+        "len": 55,
+        "sp": 40
+       },
+       {
+        "t": "bounce",
+        "x": 295,
+        "y": 150,
+        "a": 70,
+        "len": 60,
+        "to": [
+         205,
+         175
+        ]
+       },
+       {
+        "t": "light",
+        "n": 3,
+        "x": 205,
+        "y": 372,
+        "a": 270,
+        "temp": "cool",
+        "len": 150,
+        "sp": 26
+       },
+       {
+        "t": "flag",
+        "x": 190,
+        "y": 272,
+        "a": 30,
+        "len": 46
+       }
+      ]
+     },
+     {
+      "title": "Záběr u stolu",
+      "items": [
+       {
+        "t": "room",
+        "x": 150,
+        "y": 22,
+        "w": 300,
+        "h": 58,
+        "l": "lodžie / balkon",
+        "out": true,
+        "lx": 372,
+        "ly": 40
+       },
+       {
+        "t": "room",
+        "x": 150,
+        "y": 80,
+        "w": 300,
+        "h": 250,
+        "l": "kuchyň / obývák",
+        "lx": 190,
+        "ly": 316
+       },
+       {
+        "t": "room",
+        "x": 40,
+        "y": 330,
+        "w": 220,
+        "h": 78,
+        "l": "chodba",
+        "lx": 80,
+        "ly": 396
+       },
+       {
+        "t": "win",
+        "x1": 175,
+        "y1": 80,
+        "x2": 425,
+        "y2": 80,
+        "l": "okno + balkonové dveře (závěsy)"
+       },
+       {
+        "t": "door",
+        "x1": 175,
+        "y1": 330,
+        "x2": 235,
+        "y2": 330
+       },
+       {
+        "t": "furn",
+        "x": 152,
+        "y": 98,
+        "w": 26,
+        "h": 160,
+        "l": "linka",
+        "v": true
+       },
+       {
+        "t": "furn",
+        "x": 300,
+        "y": 200,
+        "w": 90,
+        "h": 56,
+        "l": "stůl"
+       },
+       {
+        "t": "furn",
+        "x": 372,
+        "y": 90,
+        "w": 66,
+        "h": 34,
+        "l": "postýlka"
+       },
+       {
+        "t": "prac",
+        "x": 445,
+        "y": 230,
+        "l": "TV"
+       },
+       {
+        "t": "prac",
+        "x": 420,
+        "y": 300,
+        "l": "lampa"
+       },
+       {
+        "t": "actor",
+        "x": 286,
+        "y": 228,
+        "l": "M"
+       },
+       {
+        "t": "actor",
+        "x": 404,
+        "y": 228,
+        "l": "E"
+       },
+       {
+        "t": "cam",
+        "x": 345,
+        "y": 305,
+        "a": 270
+       },
+       {
+        "t": "light",
+        "n": 1,
+        "x": 330,
+        "y": 42,
+        "a": 95,
+        "temp": "neutral",
+        "len": 160,
+        "sp": 56
+       },
+       {
+        "t": "light",
+        "n": 2,
+        "x": 195,
+        "y": 115,
+        "a": 30,
+        "temp": "neutral",
+        "len": 40,
+        "sp": 40
+       },
+       {
+        "t": "bounce",
+        "x": 240,
+        "y": 165,
+        "a": 135,
+        "len": 60,
+        "to": [
+         286,
+         228
+        ]
+       },
+       {
+        "t": "light",
+        "n": 3,
+        "x": 205,
+        "y": 372,
+        "a": 300,
+        "temp": "cool",
+        "len": 150,
+        "sp": 26
+       },
+       {
+        "t": "flag",
+        "x": 435,
+        "y": 275,
+        "a": 135,
+        "len": 46
+       }
+      ]
+     }
+    ],
+    "lights": [
+     {
+      "n": "1",
+      "role": "hlavní – atmosféra / slunce",
+      "fixture": "Aputure LS 600c Pro",
+      "where": "na balkoně, svítí přes zatažené závěsy",
+      "set": "≈ 4300 K, 30–50 % (podle závěsů)"
+     },
+     {
+      "n": "2",
+      "role": "měkčení na herce",
+      "fixture": "Nanlite FS300-B",
+      "where": "svítí do polystyrenu, odraz na tvář",
+      "set": "VŽDY stejná teplota jako 1, 20–40 %"
+     },
+     {
+      "n": "3",
+      "role": "kontra do vlasů",
+      "fixture": "RGB trubice",
+      "where": "zezadu z chodby (dveřmi)",
+      "set": "jen lehce, 10–15 %"
+     },
+     {
+      "n": "F",
+      "role": "tmavší strana",
+      "fixture": "floppy flag",
+      "where": "na straně od okna",
+      "set": "kontrast na odvrácené tváři"
+     },
+     {
+      "n": "L",
+      "role": "praktikábly",
+      "fixture": "lampa (žárovka) + TV",
+      "where": "v obraze",
+      "set": "teplá žárovka; TV = trubice, modravé blikání"
+     }
+    ],
+    "tips": [
+     "Polystyren přesouvat s kamerou: u linky je mezi oknem a kamerou, u stolu u okna na straně Matky.",
+     "Na balkoně stativ s 600c vždy zatížit sandbagem."
+    ]
+   },
+   {
+    "id": "kuchyn-b1",
+    "title": "Kuchyň – výpadek (B1)",
+    "match": {
+     "obrazLight": [
+      [
+       6,
+       "B1"
+      ]
+     ]
+    },
+    "state": "B1",
+    "mood": "Po výpadku proudu kalné šero. Praktikábly zhasnou, zůstává jen to, co prosvítá závěsy.",
+    "diagrams": [
+     {
+      "title": "Stejné rozestavení jako stav A (u stolu), lampa a TV vypnuté",
+      "items": [
+       {
+        "t": "room",
+        "x": 150,
+        "y": 22,
+        "w": 300,
+        "h": 58,
+        "l": "lodžie / balkon",
+        "out": true,
+        "lx": 372,
+        "ly": 40
+       },
+       {
+        "t": "room",
+        "x": 150,
+        "y": 80,
+        "w": 300,
+        "h": 250,
+        "l": "kuchyň / obývák",
+        "lx": 190,
+        "ly": 316
+       },
+       {
+        "t": "room",
+        "x": 40,
+        "y": 330,
+        "w": 220,
+        "h": 78,
+        "l": "chodba",
+        "lx": 80,
+        "ly": 396
+       },
+       {
+        "t": "win",
+        "x1": 175,
+        "y1": 80,
+        "x2": 425,
+        "y2": 80,
+        "l": "okno + balkonové dveře (závěsy)"
+       },
+       {
+        "t": "door",
+        "x1": 175,
+        "y1": 330,
+        "x2": 235,
+        "y2": 330
+       },
+       {
+        "t": "furn",
+        "x": 152,
+        "y": 98,
+        "w": 26,
+        "h": 160,
+        "l": "linka",
+        "v": true
+       },
+       {
+        "t": "furn",
+        "x": 300,
+        "y": 200,
+        "w": 90,
+        "h": 56,
+        "l": "stůl"
+       },
+       {
+        "t": "furn",
+        "x": 372,
+        "y": 90,
+        "w": 66,
+        "h": 34,
+        "l": "postýlka"
+       },
+       {
+        "t": "prac",
+        "x": 445,
+        "y": 230,
+        "l": "TV",
+        "off": true
+       },
+       {
+        "t": "prac",
+        "x": 420,
+        "y": 300,
+        "l": "lampa",
+        "off": true
+       },
+       {
+        "t": "actor",
+        "x": 286,
+        "y": 228,
+        "l": "M"
+       },
+       {
+        "t": "cam",
+        "x": 345,
+        "y": 305,
+        "a": 270
+       },
+       {
+        "t": "light",
+        "n": 1,
+        "x": 330,
+        "y": 42,
+        "a": 95,
+        "temp": "cool",
+        "len": 140,
+        "sp": 56
+       },
+       {
+        "t": "bounce",
+        "x": 240,
+        "y": 165,
+        "a": 135,
+        "len": 60,
+        "to": [
+         286,
+         228
+        ]
+       },
+       {
+        "t": "light",
+        "n": 2,
+        "x": 195,
+        "y": 115,
+        "a": 30,
+        "temp": "cool",
+        "len": 34,
+        "sp": 40
+       },
+       {
+        "t": "flag",
+        "x": 435,
+        "y": 275,
+        "a": 135,
+        "len": 46
+       }
+      ]
+     }
+    ],
+    "lights": [
+     {
+      "n": "1",
+      "role": "jediný zdroj",
+      "fixture": "Aputure LS 600c Pro",
+      "where": "balkon, přes závěsy",
+      "set": "studeněji ≈ 5600 K, ztlumit na 10–20 %"
+     },
+     {
+      "n": "2",
+      "role": "měkčení",
+      "fixture": "Nanlite FS300-B",
+      "where": "do polystyrenu",
+      "set": "stejná teplota jako 1, jen tolik, aby byla čitelná tvář"
+     },
+     {
+      "n": "3",
+      "role": "kontra",
+      "fixture": "RGB trubice",
+      "where": "—",
+      "set": "vypnout"
+     },
+     {
+      "n": "F",
+      "role": "tma",
+      "fixture": "floppy flag",
+      "where": "strana od okna",
+      "set": "víc než ve stavu A"
+     }
+    ],
+    "tips": [
+     "Přestavba z A: lampa a TV pryč, lodžie ≈ 30 % (podle natáčecího plánu)."
+    ]
+   },
+   {
+    "id": "kuchyn-b2",
+    "title": "Kuchyň – záře (B2)",
+    "match": {
+     "obrazLight": [
+      [
+       6,
+       "B2"
+      ]
+     ]
+    },
+    "state": "B2",
+    "mood": "Závěsy strženy: OSLEPIVĚ BÍLÁ mlžná záře, studená a plochá. Formát 4:3.",
+    "diagrams": [
+     {
+      "title": "Závěsy dole, 600c naplno do okna",
+      "items": [
+       {
+        "t": "room",
+        "x": 150,
+        "y": 22,
+        "w": 300,
+        "h": 58,
+        "l": "lodžie / balkon",
+        "out": true,
+        "lx": 372,
+        "ly": 40
+       },
+       {
+        "t": "room",
+        "x": 150,
+        "y": 80,
+        "w": 300,
+        "h": 250,
+        "l": "kuchyň / obývák",
+        "lx": 190,
+        "ly": 316
+       },
+       {
+        "t": "room",
+        "x": 40,
+        "y": 330,
+        "w": 220,
+        "h": 78,
+        "l": "chodba",
+        "lx": 80,
+        "ly": 396
+       },
+       {
+        "t": "win",
+        "x1": 175,
+        "y1": 80,
+        "x2": 425,
+        "y2": 80,
+        "l": "okno + balkonové dveře (závěsy)"
+       },
+       {
+        "t": "door",
+        "x1": 175,
+        "y1": 330,
+        "x2": 235,
+        "y2": 330
+       },
+       {
+        "t": "furn",
+        "x": 152,
+        "y": 98,
+        "w": 26,
+        "h": 160,
+        "l": "linka",
+        "v": true
+       },
+       {
+        "t": "furn",
+        "x": 300,
+        "y": 200,
+        "w": 90,
+        "h": 56,
+        "l": "stůl"
+       },
+       {
+        "t": "furn",
+        "x": 372,
+        "y": 90,
+        "w": 66,
+        "h": 34,
+        "l": "postýlka"
+       },
+       {
+        "t": "actor",
+        "x": 300,
+        "y": 160,
+        "l": "M"
+       },
+       {
+        "t": "actor",
+        "x": 405,
+        "y": 108,
+        "l": "Fi"
+       },
+       {
+        "t": "cam",
+        "x": 300,
+        "y": 290,
+        "a": 270
+       },
+       {
+        "t": "light",
+        "n": 1,
+        "x": 300,
+        "y": 40,
+        "a": 90,
+        "temp": "cool",
+        "len": 230,
+        "sp": 70
+       },
+       {
+        "t": "bounce",
+        "x": 230,
+        "y": 250,
+        "a": 60,
+        "len": 60,
+        "to": [
+         300,
+         160
+        ]
+       },
+       {
+        "t": "flag",
+        "x": 380,
+        "y": 230,
+        "a": 120,
+        "len": 46
+       }
+      ]
+     }
+    ],
+    "lights": [
+     {
+      "n": "1",
+      "role": "záře za oknem",
+      "fixture": "Aputure LS 600c Pro (bez Dome)",
+      "where": "balkon, přímo do okna",
+      "set": "6000–6500 K, 100 %, kamera + mist filtr"
+     },
+     {
+      "n": "P",
+      "role": "odraz",
+      "fixture": "polystyren",
+      "where": "u kamery, vrací záři do tváře",
+      "set": "bez Nanlite – jen odraz okna"
+     },
+     {
+      "n": "2",
+      "role": "rezerva",
+      "fixture": "Nanlite FS300-B",
+      "where": "do polystyrenu",
+      "set": "jen když tvář zapadne; 6000 K"
+     },
+     {
+      "n": "F",
+      "role": "jemný tvar",
+      "fixture": "floppy flag",
+      "where": "strana od okna",
+      "set": "málo – obraz má být plochý"
+     }
+    ],
+    "tips": [
+     "Natáčecí plán: nejdřív záběry 75 a 78 (Filípek), pak ostatní.",
+     "Druhý pár závěsů na suchý zip – roztržení (68) se dá opakovat."
+    ]
+   }
+  ]
+ }
+}

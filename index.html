@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="cs">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Poledne · produkční přehled</title>
+<meta name="description" content="Produkční přehled studentského filmu Poledne – záběry, natáčecí plán, scénář, storyboard, světlo a rekvizity.">
+<meta name="theme-color" content="#14181c" media="(prefers-color-scheme: dark)">
+<meta name="theme-color" content="#eef0f2" media="(prefers-color-scheme: light)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Poledne">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="css/app.css">
+<script>
+  try { var t = localStorage.getItem('poledne.theme'); if (t === 'light' || t === 'dark') document.documentElement.dataset.theme = t; } catch (e) {}
+</script>
+<script type="module" src="js/main.js"></script>
+</head>
+<body>
+<a class="skip" href="#main">Přeskočit na obsah</a>
+<header class="app-header" id="header">
+  <div class="header-row">
+    <a class="brand" href="#/zabery" aria-label="Poledne – úvod">
+      <span class="brand-mark" aria-hidden="true"></span>
+      <span class="brand-t"><strong>Poledne</strong></span>
+    </a>
+    <nav class="tabs" id="tabs" aria-label="Sekce"></nav>
+    <button type="button" id="theme-btn" class="icon-btn" aria-label="Přepnout téma"></button>
+  </div>
+  <div class="edit-bar" id="edit-bar" hidden></div>
+</header>
+<main id="main" tabindex="-1"><p class="loading">Načítám…</p></main>
+<nav class="bottom-bar" id="bottom-bar" aria-label="Sekce"></nav>
+<button type="button" id="edit-toggle" class="edit-toggle" aria-pressed="false" aria-label="Režim úprav" title="Režim úprav"></button>
+<div id="print-root"></div>
+<input type="file" id="import-file" accept="application/json,.json" hidden>
+</body>
+</html>
