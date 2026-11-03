@@ -45,6 +45,10 @@ export async function load() {
 function rebuild() {
   data = clone(base);
   data.config = Object.assign({ driveUrl: '' }, base.config, ov.config);
+  if (data.script) {
+    data.script.entries = Object.assign({}, base.script?.entries, ov.script?.entries);
+    data.script.crew = Object.assign({}, base.script?.crew, ov.script?.crew);
+  }
   for (const s of data.shots) {
     s.done = !!s.done;
     s.contNotes = s.contNotes || '';
@@ -239,6 +243,27 @@ export function moveShotTo(n, di, bi) {
   });
 }
 
+// ---------- skriptovací deník (funguje i mimo režim úprav) ----------
+// Klíč záznamu: "<den>:<záběr>" – záběr se v deníku může objevit ve dvou dnech.
+export const scriptEntry = key => data.script?.entries?.[key] || {};
+export function setScriptEntry(key, patch) {
+  ov.script ??= { entries: {}, crew: {} };
+  ov.script.entries ??= {};
+  const cur = { ...data.script.entries[key], ...patch };
+  for (const k of Object.keys(cur)) if (cur[k] === '' || cur[k] == null) delete cur[k];
+  ov.script.entries[key] = cur;
+  data.script.entries[key] = cur;
+  save();
+  emit('field');
+}
+export function setScriptCrew(patch) {
+  ov.script ??= { entries: {}, crew: {} };
+  ov.script.crew = { ...ov.script.crew, ...patch };
+  Object.assign(data.script.crew, patch);
+  save();
+  emit('field');
+}
+
 // ---------- export / import / reset ----------
 export function exportData() {
   const out = clone(data);
@@ -276,6 +301,12 @@ export function importData(obj) {
   });
   if (!same(obj.days, base.days)) next.days = obj.days;
   if (obj.config && !same(obj.config.driveUrl, base.config?.driveUrl)) next.config.driveUrl = obj.config.driveUrl;
+  if (obj.script) {
+    const e = {}, c = {};
+    for (const [k, v] of Object.entries(obj.script.entries || {})) if (!same(v, base.script?.entries?.[k])) e[k] = v;
+    for (const [k, v] of Object.entries(obj.script.crew || {})) if (!same(v, base.script?.crew?.[k])) c[k] = v;
+    next.script = { entries: e, crew: c };
+  }
   ov = next;
   save();
   rebuild();
@@ -283,7 +314,8 @@ export function importData(obj) {
 }
 
 export function hasChanges() {
-  return !!(ov.days || ['shots', 'scenes', 'props', 'config'].some(k => ov[k] && Object.keys(ov[k]).length));
+  return !!(ov.days || ['shots', 'scenes', 'props', 'config'].some(k => ov[k] && Object.keys(ov[k]).length)
+    || Object.keys(ov.script?.entries || {}).length || Object.keys(ov.script?.crew || {}).length);
 }
 
 export function resetAll() {

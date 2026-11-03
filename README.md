@@ -13,13 +13,14 @@ css/app.css             veškeré styly – tokeny světlého/tmavého tématu, 
 js/main.js              router (#/…), téma, režim úprav, export/import, klávesnice
 js/store.js             načtení data.json + overlay úprav v localStorage, odvozené údaje
 js/shots.js             záložka „Jednotlivé záběry“ (seznam, přepínač pořadí, filtry, detail)
+js/script.js            záložka Script (skriptovací deník)
 js/views.js             ostatní záložky (plán, scénáře, storyboard, světlo + rekvizity, Disk)
 js/parts.js             sdílené kousky UI (rámeček záběru, štítky, editovatelná pole)
 js/print.js             tisk natáčecího dne
 data.json               data filmu (záběry, obrazy, rekvizity, dny, literární scénář)
 img/                    storyboard: NNN.jpg (detail) a NNN_t.jpg (miniatura)
 js/diagram.js           kreslení schémat svícení (SVG) z dat
-rekvizity.pdf, storyboard_v3.pdf, poledne_tech_sc.docx, poledne_lit_sc.pdf
+rekvizity.pdf, storyboard_v3.pdf, poledne_tech_sc.docx, poledne_lit_sc.pdf, skriptovaci-denik-poledne.xlsx
 icons/                  ikony aplikace
 docs/ZADANI.md          původní zadání
 ```
@@ -104,6 +105,11 @@ Aby je viděli všichni:
   `obrazLight` [[obraz, světelný stav]]), `mood`, `lights[]` (tabulka: `n`, `role`, `fixture`, `where`, `set`),
   `tips` a `diagrams[]` se schématy (místnosti, okna, nábytek, herci `actor`, kamera `cam`, světla `light`
   s úhlem `a` ve stupních, polystyren `bounce`, flag `flag`, praktikábly `prac`). Původní `svetlo.html` je archivované v `docs/`.
+- `script` – skriptovací deník převzatý ze `skriptovaci-denik-poledne.xlsx`: `days[]` (0.–4. den, `title`, `time`,
+  `place`, `cast`, `rows[]` se záběrem, obrazem, typem, kamerou a popisem akce), `crew` (režie, skript, kamera)
+  a `entries` – vyplněné ostré klapky a poznámky skriptu podle klíče `"<den>:<záběr>"`. Sloupec Hotovo je napojený
+  na „natočeno“ u záběru. Klapky a poznámky se na place ukládají v prohlížeči; do sdíleného `data.json` se dostanou
+  přes Export JSON. Tlačítko Export CSV stáhne celý deník pro Excel.
 - `img/banner.jpg` – banner filmu (záložka Google Disk), `img/pudorys.png` – půdorys bytu z technického scénáře.
 
 Nové obrázky: `img/NNN.jpg` (cca 1200 px) a `img/NNN_t.jpg` (cca 320 px). Záběry 4:3 apod. mají kresbu uprostřed

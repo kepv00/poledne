@@ -3,7 +3,7 @@
 // - velké obrázky a PDF se ukládají při prvním zobrazení,
 // - aplikace a data.json jdou nejdřív ze sítě (aby se projevily nové verze), offline z cache.
 
-const VERSION = 'poledne-v5';
+const VERSION = 'poledne-v6';
 const SHELL = [
   './',
   'index.html',
@@ -21,6 +21,7 @@ const SHELL = [
   'icons/icon-512.png',
   'icons/apple-touch-icon.png',
   'js/diagram.js',
+  'js/script.js',
   'rekvizity.pdf',
   'data.json',
 ];
@@ -73,7 +74,7 @@ self.addEventListener('fetch', event => {
   if (req.method !== 'GET') return;
   const url = new URL(req.url);
   if (url.origin === location.origin) {
-    if (/\/img\/|\.(pdf|docx)$/.test(url.pathname)) event.respondWith(cacheFirst(req));
+    if (/\/img\/|\.(pdf|docx|xlsx)$/.test(url.pathname)) event.respondWith(cacheFirst(req));
     else event.respondWith(networkFirst(req));
   } else if (/fonts\.(googleapis|gstatic)\.com$/.test(url.hostname)) {
     event.respondWith(cacheFirst(req));

@@ -6023,5 +6023,807 @@
     ]
    }
   ]
+ },
+ "script": {
+  "title": "Skriptovací deník – Poledne",
+  "subtitle": "Záznam klapek a realizace záběrů podle technického scénáře a natáčecího plánu",
+  "file": "skriptovaci-denik-poledne.xlsx",
+  "crew": {
+   "rezie": "Lukáš Jonáš",
+   "skript": "",
+   "kamera": ""
+  },
+  "days": [
+   {
+    "id": "0",
+    "label": "0. den",
+    "date": "2026-11-04",
+    "title": "Středa 4. 11. 2026 – ROZEHŘÍVACÍ BLOK (Inserty, rekvizity, postýlka)",
+    "time": "08:00–17:00",
+    "place": "Byt: kuchyň a chodba",
+    "cast": "Bez herců (pouze štáb / panenka)",
+    "rows": [
+     {
+      "num": 30,
+      "obraz": 6,
+      "size": "Detail (inserty)",
+      "camera": "Linka / Statický / jemný nájezd",
+      "action": "Makrodetaily bytu: složenky s výstrahou o odpojení, léky, láhev vína, pára z hrnce"
+     },
+     {
+      "num": 43,
+      "obraz": 6,
+      "size": "Detail",
+      "camera": "Hrnec na plotně / Statický",
+      "action": "Pěna syčí a přetéká na plotně, prskání pěny bez reakce"
+     },
+     {
+      "num": 57,
+      "obraz": 6,
+      "size": "Detail (insert)",
+      "camera": "Mobil na lince / Statický",
+      "action": "Mobil vibruje na lince: „NEZNÁMÉ ČÍSLO“, hovor spadne do hlasové schránky"
+     },
+     {
+      "num": 88,
+      "obraz": 7,
+      "size": "Detail",
+      "camera": "Vchodové dveře / Statický",
+      "action": "Dunění za dveřmi se promění v lehké zaklepání („Ťuk, ťuk“)"
+     },
+     {
+      "num": 94,
+      "obraz": 7,
+      "size": "Detail",
+      "camera": "Vchodové dveře / Statický",
+      "action": "Znovu zaklepání zvenčí, hlas: „Paní Nováková...?“"
+     },
+     {
+      "num": 100,
+      "obraz": 7,
+      "size": "Detail (insert)",
+      "camera": "Podlaha chodby / Pomalý nájezd",
+      "action": "Dopis na zemi – reveal: „šetření v rodině... dle § 52 zákona č. 359/1999 Sb.“"
+     },
+     {
+      "num": 33,
+      "obraz": 6,
+      "size": "Detail",
+      "camera": "Postýlka / Mírný nadhled / Stat.",
+      "action": "Panenka v zavinovačce v postýlce (úvodní stav před krizí)"
+     },
+     {
+      "num": 70,
+      "obraz": 6,
+      "size": "Detail",
+      "camera": "Postýlka / Statický",
+      "action": "Postýlka v šeru po výpadku proudu, panenka v peřince"
+     },
+     {
+      "num": 76,
+      "obraz": 6,
+      "size": "Detail",
+      "camera": "Postýlka / Statický",
+      "action": "Prázdná rozestlaná postýlka po zmizení dítěte – šok"
+     },
+     {
+      "num": 82,
+      "obraz": 7,
+      "size": "POV kukátko",
+      "camera": "Rybí oko / Statický s chvěním",
+      "action": "Rozmazaný pohled na chodbu domu; nejasné, zda tam vůbec někdo stojí"
+     }
+    ]
+   },
+   {
+    "id": "1",
+    "label": "1. den",
+    "date": "2026-11-05",
+    "title": "Čtvrtek 5. 11. 2026 – DEN 1 (Sólo Matka v kuchyni & Základní škola)",
+    "time": "08:00–17:00",
+    "place": "Byt kuchyň (Matka 08:00–11:30) / ZŠ třída a šatny (Eliška 14:00–17:00)",
+    "cast": "",
+    "rows": [
+     {
+      "num": 32,
+      "obraz": 6,
+      "size": "Polocelek",
+      "camera": "Zezadu na Matku / Statický",
+      "action": "Matka (40) u plotny míchá v hrnci, propocené tričko, mastné vlasy, syčení páry"
+     },
+     {
+      "num": 41,
+      "obraz": 6,
+      "size": "Polocelek",
+      "camera": "Kuchyň, zepředu / Statický",
+      "action": "Matka ochutná z hrnce, uvidí láhev a schová víno do skříňky pod dřezem"
+     },
+     {
+      "num": 42,
+      "obraz": 6,
+      "size": "Polocelek",
+      "camera": "Zezadu, odstup / Statický (dlouhý)",
+      "action": "Disociace: Matka ztuhne a zírá do prázdna; za zády jí vře a přetéká hrnec"
+     },
+     {
+      "num": 55,
+      "obraz": 6,
+      "size": "Detail",
+      "camera": "Linka / Statický / jemný nájezd",
+      "action": "Matka vyklepne prášek, spolkne a zapije douškem vína, roztřesené ruce"
+     },
+     {
+      "num": 1,
+      "obraz": 1,
+      "size": "Detail",
+      "camera": "Top-down na sešit / Stat./handheld",
+      "action": "Eliščina ruka kreslí rodinu (máma a dvě děti, táta stranou); recitace v pozadí"
+     },
+     {
+      "num": 2,
+      "obraz": 1,
+      "size": "Polocelek (2-shot)",
+      "camera": "Ze strany, eye-level / Statický",
+      "action": "Spolužačka recituje Polednici u tabule, učitelka sedí za katedrou"
+     },
+     {
+      "num": 3,
+      "obraz": 1,
+      "size": "Detail",
+      "camera": "Zepředu, eye-level / Nájezd",
+      "action": "Tvář spolužačky: „...avšak dítě – zalknuté.“ (foreshadowing)"
+     },
+     {
+      "num": 4,
+      "obraz": 1,
+      "size": "Polodetail",
+      "camera": "Zepředu, mírný nadhled / Statický",
+      "action": "Eliška vzadu v lavici, sklopená k sešitu, kreslí a nevnímá okolí"
+     },
+     {
+      "num": 5,
+      "obraz": 1,
+      "size": "Polodetail",
+      "camera": "Zepředu, mírný podhled / Statický",
+      "action": "Učitelka: „Výborně. Posaď se. Tak kdo dál... Eliško.“ (podhled autority)"
+     },
+     {
+      "num": 6,
+      "obraz": 1,
+      "size": "Detail",
+      "camera": "Zepředu, eye-level / Jemný handheld",
+      "action": "Eliška zvedne hlavu, trapné ticho, pomalu zaklapne sešit s kresbou"
+     },
+     {
+      "num": 7,
+      "obraz": 1,
+      "size": "Polodetail",
+      "camera": "Zepředu, mírný nadhled / Nájezd",
+      "action": "Eliška stojí a mlčí, neumí to. Učitelka: „Douč se to doma do zítřka.“ → ZVONEK"
+     },
+     {
+      "num": 8,
+      "obraz": 2,
+      "size": "Detail",
+      "camera": "Z boku, eye-level / Stat./handheld",
+      "action": "Cvaknutí dvířek skříňky, Eliščiny ruce ji zaklapnou"
+     },
+     {
+      "num": 9,
+      "obraz": 2,
+      "size": "Polodetail",
+      "camera": "Přes rameno na chodbu / Přeostření",
+      "action": "Spolužačka skočí rodiči do náruče („Mami!“) a odchází s ním"
+     },
+     {
+      "num": 10,
+      "obraz": 2,
+      "size": "Detail",
+      "camera": "Zepředu, eye-level / Statický",
+      "action": "Eliška se dívá za odcházející dvojicí, pak sklopí zrak do prázdna"
+     },
+     {
+      "num": 11,
+      "obraz": 2,
+      "size": "Polocelek",
+      "camera": "Zepředu, eye-level / Statický",
+      "action": "Eliška si sama natáhne bundu u skříňky, chvíli čeká – nikdo pro ni nepřišel"
+     },
+     {
+      "num": 12,
+      "obraz": 2,
+      "size": "Polocelek",
+      "camera": "Zezadu / Follow / handheld",
+      "action": "Eliška přehodí aktovku a odchází sama dlouhou prázdnou chodbou"
+     }
+    ]
+   },
+   {
+    "id": "2",
+    "label": "2. den",
+    "date": "2026-11-06",
+    "title": "Pátek 6. 11. 2026 – DEN 2 (Ukolébavka, panika, báseň & výpadek proudu)",
+    "time": "08:00–17:00",
+    "place": "Byt: kuchyň a rozvaděč u dveří",
+    "cast": "Matka (celý den), Eliška (12:00–17:00)",
+    "rows": [
+     {
+      "num": 38,
+      "obraz": 6,
+      "size": "Polocelek",
+      "camera": "Zepředu/z boku / Jemný handheld",
+      "action": "Pláč Filípka zesílí, Matka pustí Elišku a přechází k postýlce"
+     },
+     {
+      "num": 39,
+      "obraz": 6,
+      "size": "Polodetail",
+      "camera": "Postýlka / Statický",
+      "action": "Matka se skloní a pobrukuje: „Hali, beli, koně v zelí...“, Filípek ztichne"
+     },
+     {
+      "num": 40,
+      "obraz": 6,
+      "size": "Detail",
+      "camera": "Matka zepředu / Statický",
+      "action": "Matka si otře čelo: „Umyj si ruce. Za chvíli jíme.“"
+     },
+     {
+      "num": 66,
+      "obraz": 6,
+      "size": "Detail",
+      "camera": "Rozvaděč / ruka / Jemný handheld",
+      "action": "Marné cvakání jističů u dveří – dojde jí, že ji odpojili"
+     },
+     {
+      "num": 67,
+      "obraz": 6,
+      "size": "Polocelek",
+      "camera": "Matka u okna, zezadu / Statický",
+      "action": "Vítr za oknem sílí; Matka přistoupí k oknu a uchopí závěsy"
+     },
+     {
+      "num": 68,
+      "obraz": 6,
+      "size": "Celek",
+      "camera": "Okno zepředu / Protisvětlo / Stat.",
+      "action": "Prudké roztržení závěsů do bílé záře mlhy – náraz ticha"
+     },
+     {
+      "num": 69,
+      "obraz": 6,
+      "size": "Detail (portrét)",
+      "camera": "Matka, protisvětlo / Statický",
+      "action": "Studené polední světlo bodá do očí; Matka mžourá, třese se zimou"
+     },
+     {
+      "num": 71,
+      "obraz": 6,
+      "size": "Celek",
+      "camera": "Místnost zepředu / Statický",
+      "action": "Rozezní se polední SIRÉNA (dlouhý tón); Matka se pomalu otáčí do bytu"
+     },
+     {
+      "num": 72,
+      "obraz": 6,
+      "size": "Polodetail",
+      "camera": "Matka / Jemný handheld",
+      "action": "Subjektivní dezorientace: pláč dítěte se přesouvá z kouta do kouta"
+     },
+     {
+      "num": 73,
+      "obraz": 6,
+      "size": "Detail",
+      "camera": "Roh místnosti / Statický",
+      "action": "Na kraji záběru přeběhne nezřetelný stín a zmizí; siréna duní"
+     },
+     {
+      "num": 44,
+      "obraz": 6,
+      "size": "Polodetail",
+      "camera": "Eliška zepředu / Jemný handheld",
+      "action": "Eliška se vrátí z koupelny: „Mami, hrnec!“"
+     },
+     {
+      "num": 45,
+      "obraz": 6,
+      "size": "Detail",
+      "camera": "Matka / Statický",
+      "action": "Matka se probere, stáhne hrnec: „Jo... díky.“"
+     },
+     {
+      "num": 46,
+      "obraz": 6,
+      "size": "Polocelek",
+      "camera": "Stůl zepředu / Statický",
+      "action": "Eliška si sedne ke stolu a otevře čítanku: „Musím se naučit básničku.“"
+     },
+     {
+      "num": 47,
+      "obraz": 6,
+      "size": "Detail",
+      "camera": "Matka / Statický / jemný nájezd",
+      "action": "Eliška: „Přijde zas ta paní?“; Matka střelí pohledem ke dveřím a mlčí"
+     },
+     {
+      "num": 48,
+      "obraz": 6,
+      "size": "Detail (insert)",
+      "camera": "Ruce / obálka / Statický",
+      "action": "Trhnutí papíru – Matka roztrhne úřední obálku"
+     },
+     {
+      "num": 49,
+      "obraz": 6,
+      "size": "Detail (portrét)",
+      "camera": "Matka zepředu / Pomalý nájezd",
+      "action": "Matka čte dopis, tvář tuhne, dech se zrychlí; v pozadí recitace Elišky"
+     },
+     {
+      "num": 50,
+      "obraz": 6,
+      "size": "Polocelek",
+      "camera": "Zepředu / Statický → handheld",
+      "action": "Panický obrat: „Sbal si věci. Honem. Jedeme k babičce!“ a cpe věci do tašky"
+     },
+     {
+      "num": 51,
+      "obraz": 6,
+      "size": "Polodetail",
+      "camera": "Eliška u stolu / Statický",
+      "action": "Eliška sedí a monotónně recituje: „Mlč! Hle husar a kočárek...“"
+     },
+     {
+      "num": 52,
+      "obraz": 6,
+      "size": "Detail",
+      "camera": "Skříň / ruce / Jemný handheld",
+      "action": "Na slovo „bouch, bác!“ Matka panicky hází další prádlo na zem"
+     },
+     {
+      "num": 53,
+      "obraz": 6,
+      "size": "Polodetail",
+      "camera": "Eliška / Statický",
+      "action": "Eliška klidně prolomí blud: „Babička už nežije. Přece to víš.“"
+     },
+     {
+      "num": 54,
+      "obraz": 6,
+      "size": "Detail (portrét)",
+      "camera": "Matka / Statický",
+      "action": "Zlom: Matka ztuhne s tričkem v ruce, ruce klesnou, taška spadne"
+     },
+     {
+      "num": 56,
+      "obraz": 6,
+      "size": "Polocelek",
+      "camera": "Zezadu/z boku / Statický",
+      "action": "Tlak zvuků: Filipkův pláč sílí, TV šumí, vítr hučí; Matka zavře oči"
+     },
+     {
+      "num": 58,
+      "obraz": 6,
+      "size": "Detail (portrét)",
+      "camera": "Matka / Jemný handheld",
+      "action": "Eskalace – vyštěknutí na Elišku: „Přestaň už s tím!“"
+     },
+     {
+      "num": 59,
+      "obraz": 6,
+      "size": "Polodetail",
+      "camera": "Eliška / Statický",
+      "action": "Eliška se zarazí, ale vzápětí monotónně pokračuje dál"
+     },
+     {
+      "num": 60,
+      "obraz": 6,
+      "size": "Detail",
+      "camera": "Matka zblízka / Handheld (těsně)",
+      "action": "Subjektivní tlak – Matka si zacpe uši, zvuky jdou přes sebe"
+     },
+     {
+      "num": 61,
+      "obraz": 6,
+      "size": "Detail (portrét)",
+      "camera": "Matka → postýlka / Handheld",
+      "action": "Matka se otočí k postýlce a křikne na miminko: „Tak už buď zticha!“"
+     },
+     {
+      "num": 62,
+      "obraz": 6,
+      "size": "Polodetail",
+      "camera": "Eliška / Statický",
+      "action": "Eliška odříkává spouštěč: „Pojď si proň, ty Polednice, pojď, vem si ho...“"
+     },
+     {
+      "num": 63,
+      "obraz": 6,
+      "size": "Detail (portrét)",
+      "camera": "Matka / Podhled ke stropu / Nájezd",
+      "action": "Matka stiskne spánky a křičí do prázdna: „Tak si pro něj pojď!“"
+     },
+     {
+      "num": 64,
+      "obraz": 6,
+      "size": "Celek",
+      "camera": "Místnost / Statický",
+      "action": "Duté cvaknutí a VŠECHNO ZHASNE. Přechod formátu do 4:3 v kalném šeru"
+     }
+    ]
+   },
+   {
+    "id": "3",
+    "label": "3. den",
+    "date": "2026-11-07",
+    "title": "Sobota 7. 11. 2026 – DEN 3 (Exteriéry domu, hřiště & Klimax v chodbě)",
+    "time": "08:00–17:00",
+    "place": "Sídliště dům, vestibul, chodba bytu",
+    "cast": "Matka (09:00–14:00), Eliška (14:00–17:00)",
+    "rows": [
+     {
+      "num": 19,
+      "obraz": 4,
+      "size": "Celek",
+      "camera": "Podhled podél fasády / Stat./tilt",
+      "action": "Šedá fasáda paneláku v mlze, horní patra mizí; vítr drnčí o plech"
+     },
+     {
+      "num": 20,
+      "obraz": 4,
+      "size": "Polodetail",
+      "camera": "Podhled na balkon / Stat./handheld",
+      "action": "Zapomenuté prádlo mlátí ve větru; shora z bytu je slyšet tlumený pláč"
+     },
+     {
+      "num": 22,
+      "obraz": 4,
+      "size": "Celek",
+      "camera": "Vestibul / Statický",
+      "action": "Přetékající poštovní schránky plné letáků, novin a obálek"
+     },
+     {
+      "num": 81,
+      "obraz": 7,
+      "size": "Polocelek",
+      "camera": "Chodba za Matkou / Handheld",
+      "action": "Matka nese MODEL dítěte ke dveřím, za dveřmi tlumený temný ženský hlas"
+     },
+     {
+      "num": 82,
+      "obraz": 7,
+      "size": "POV kukátko",
+      "camera": "Rybí oko / Statický s chvěním",
+      "action": "Rozmazaný pohled na chodbu domu; nejasné, zda tam vůbec někdo stojí"
+     },
+     {
+      "num": 83,
+      "obraz": 7,
+      "size": "Detail (portrét)",
+      "camera": "Matka / Handheld",
+      "action": "Panika: Matka uslyší dunivý zkreslený hlas a údery, odskočí ode dveří"
+     },
+     {
+      "num": 84,
+      "obraz": 7,
+      "size": "Polocelek",
+      "camera": "Roh chodby / Statický (sevřený 4:3)",
+      "action": "Matka se sesune v rohu zády ke zdi, křečovitě tiskne dítě k hrudi"
+     },
+     {
+      "num": 86,
+      "obraz": 7,
+      "size": "Detail (portrét)",
+      "camera": "Matka / Statický",
+      "action": "Udušení dítěte mimo obraz (model); pláč pod rukama slábne, až umlkne"
+     },
+     {
+      "num": 87,
+      "obraz": 7,
+      "size": "Detail (portrét)",
+      "camera": "Matka / Statický",
+      "action": "Emocionální dno: Matka po ztichnutí dítěte tiše a zlomeně pláče"
+     },
+     {
+      "num": 88,
+      "obraz": 7,
+      "size": "Detail",
+      "camera": "Vchodové dveře / Statický",
+      "action": "Zaklepání – dunění mizí do civilního zvuku: „Ťuk, ťuk.“"
+     },
+     {
+      "num": 91,
+      "obraz": 7,
+      "size": "Detail (portrét)",
+      "camera": "Matka / Pomalý nájezd",
+      "action": "Matka otevře oči, pohlédne na dítě a odtáhne ho kousek od hrudi (model)"
+     },
+     {
+      "num": 92,
+      "obraz": 7,
+      "size": "Detail (portrét)",
+      "camera": "Matka / Statický",
+      "action": "Tvář jí zkamení; ústa se pootevřou, ale nevyjde z nich hláska (poznání)"
+     },
+     {
+      "num": 93,
+      "obraz": 7,
+      "size": "Polocelek",
+      "camera": "Matka na zemi v rohu / Statický",
+      "action": "Dopis vyklouzne na zem; Matka přes pláč tiše zpívá: „Hali, beli, koně v zelí...“"
+     },
+     {
+      "num": 94,
+      "obraz": 7,
+      "size": "Detail",
+      "camera": "Vchodové dveře / Statický",
+      "action": "Opětovné zaklepání zvenčí: „Paní Nováková...?“"
+     },
+     {
+      "num": 97,
+      "obraz": 7,
+      "size": "Polodetail",
+      "camera": "Sociální pracovnice / Statický",
+      "action": "Obyčejná unavená žena s deskami stojí ve dveřích a nahlíží dovnitř"
+     },
+     {
+      "num": 98,
+      "obraz": 7,
+      "size": "Detail (portrét)",
+      "camera": "Sociální pracovnice / Statický",
+      "action": "Pracovnice uvidí tělo dítěte, beze slov ztuhne a otevře ústa"
+     },
+     {
+      "num": 13,
+      "obraz": 3,
+      "size": "Velký celek",
+      "camera": "Mírný nadhled / Statický (stativ)",
+      "action": "Eliška prochází mlhou mezi paneláky, drobná postava v chladném tichu"
+     },
+     {
+      "num": 14,
+      "obraz": 3,
+      "size": "Polocelek",
+      "camera": "Zezadu / Handheld (pocit sledování)",
+      "action": "Eliška jde prázdnou ulicí, vítr jí cuchá vlasy; dojem přítomnosti pozorovatele"
+     },
+     {
+      "num": 15,
+      "obraz": 3,
+      "size": "Polocelek",
+      "camera": "Zpoza rohu paneláku / Handheld",
+      "action": "Eliška prochází v dálce; kamera ji skrytě sleduje zpoza překážky"
+     },
+     {
+      "num": 16,
+      "obraz": 3,
+      "size": "Detail",
+      "camera": "Podhled u země / Stat./handheld",
+      "action": "Kroky Elišky v mlze, těžká školní aktovka"
+     },
+     {
+      "num": 17,
+      "obraz": 3,
+      "size": "Detail",
+      "camera": "Zepředu, eye-level / Statický",
+      "action": "Opuštěné hřiště: prázdná houpačka se sama houpe a skřípe ve větru"
+     },
+     {
+      "num": 18,
+      "obraz": 3,
+      "size": "Polodetail",
+      "camera": "Zepředu, mírný podhled / Nájezd",
+      "action": "Eliščina tvář v mlze – osamění, vítr slábne a vystupuje dech"
+     },
+     {
+      "num": 21,
+      "obraz": 4,
+      "size": "Polocelek",
+      "camera": "Zezadu / Follow",
+      "action": "Eliška projde vchodovými dveřmi dovnitř, bouchnutí dveří v ozvěně"
+     },
+     {
+      "num": 23,
+      "obraz": 4,
+      "size": "Detail",
+      "camera": "Shora na ruce / Pomalý nájezd",
+      "action": "Eliška vytahuje poštu ze schránky, mezi letáky je bílá úřední obálka"
+     }
+    ]
+   },
+   {
+    "id": "4",
+    "label": "4. den",
+    "date": "2026-11-08",
+    "title": "Neděle 8. 11. 2026 – DEN 4 (Příchod domů, klid před bouří, mizení & finále)",
+    "time": "08:00–17:00",
+    "place": "Byt: předsíň, kuchyň, chodba",
+    "cast": "Matka i Eliška (celý den), Sociální pracovnice",
+    "rows": [
+     {
+      "num": 24,
+      "obraz": 5,
+      "size": "Polocelek",
+      "camera": "Zevnitř na vchodové dveře / Stat.",
+      "action": "Za matným sklem dveří silueta Elišky, tlumený pláč a syčení z bytu"
+     },
+     {
+      "num": 25,
+      "obraz": 5,
+      "size": "Detail",
+      "camera": "Zámek a klika / Stat./nájezd",
+      "action": "Otočení klíče v zámku, cvaknutí, stlačení kliky"
+     },
+     {
+      "num": 26,
+      "obraz": 5,
+      "size": "Polocelek",
+      "camera": "Zevnitř na otevírající se dveře",
+      "action": "Dveře se otevřou, v nich Eliška – zvuk pláče přeskočí do ostrého zvuku"
+     },
+     {
+      "num": 27,
+      "obraz": 5,
+      "size": "Polodetail",
+      "camera": "Předsíň, z boku / Jemný handheld",
+      "action": "Eliška odloží aktovku a úřední obálku na botník, sundá bundu"
+     },
+     {
+      "num": 28,
+      "obraz": 5,
+      "size": "Polodetail",
+      "camera": "Zepředu, eye-level / Statický",
+      "action": "Eliška zavolá: „Mami, jsem doma!“ – přes hluk ji nikdo nevnímá"
+     },
+     {
+      "num": 29,
+      "obraz": 5,
+      "size": "Polocelek",
+      "camera": "Zezadu za Eliškou / Follow",
+      "action": "Eliška přechází z chodby do kuchyně, pláč sílí"
+     },
+     {
+      "num": 31,
+      "obraz": 6,
+      "size": "Celek",
+      "camera": "Kuchyň zepředu / Statický",
+      "action": "Expozice stavu bytu: zatažené závěsy, nepořádek, Eliška vstupuje"
+     },
+     {
+      "num": 34,
+      "obraz": 6,
+      "size": "Polodetail",
+      "camera": "Přes rameno / Jemný handheld",
+      "action": "Eliška se zezadu dotkne Matky; Matka sebou prudce lekutím trhne"
+     },
+     {
+      "num": 35,
+      "obraz": 6,
+      "size": "Detail (portrét)",
+      "camera": "Matka zepředu (50 mm) / Statický",
+      "action": "Tvář povolí, první něha – Matka se otočí a dřepne si k Elišce"
+     },
+     {
+      "num": 36,
+      "obraz": 6,
+      "size": "Polodetail (dvojice)",
+      "camera": "Z boku, eye-level / Stat./handheld",
+      "action": "Komorní rozhovor: „Zase jsem šla sama.“ / „Jak bylo ve škole?“ „Dobrý.“"
+     },
+     {
+      "num": 37,
+      "obraz": 6,
+      "size": "Polocelek",
+      "camera": "Zepředu / Statický",
+      "action": "Matka: „Dobrý je za tři.“ Něžné vzájemné objetí matky s dcerou"
+     },
+     {
+      "num": 65,
+      "obraz": 6,
+      "size": "Polodetail",
+      "camera": "Eliška v šeru / Statický",
+      "action": "Eliška se po výpadku dívá na Matku: „Mami, co se stalo?“"
+     },
+     {
+      "num": 74,
+      "obraz": 6,
+      "size": "Detail (portrét)",
+      "camera": "Matka / Statický",
+      "action": "Subjektivní ticho: okolní zvuky zmizí, slyšet je jen Matčin dech a bušení srdce"
+     },
+     {
+      "num": 75,
+      "obraz": 6,
+      "size": "Polocelek",
+      "camera": "Eliška u postýlky / Statický",
+      "action": "Eliška odloží čítanku, dojde k postýlce a vezme Filípka do náruče"
+     },
+     {
+      "num": 77,
+      "obraz": 6,
+      "size": "Detail (portrét)",
+      "camera": "Matka / Handheld",
+      "action": "Ostrý nádech, panika: Matka ztuhne a přiskočí k prázdné postýlce"
+     },
+     {
+      "num": 78,
+      "obraz": 6,
+      "size": "Polocelek",
+      "camera": "Matka + Eliška / Statický",
+      "action": "Matka se prudce otočí – zjistí, že dítě drží v náručí Eliška"
+     },
+     {
+      "num": 79,
+      "obraz": 6,
+      "size": "Detail",
+      "camera": "Dveře v chodbě / Statický",
+      "action": "Tři pomalé těžké údery na vchodové dveře (ŤUK. ŤUK. ŤUK.); Matka strne"
+     },
+     {
+      "num": 80,
+      "obraz": 7,
+      "size": "Polodetail",
+      "camera": "Kuchyň → chodba / Handheld",
+      "action": "Matka vytrhne Elišce Filípka, tiskne k hrudi a utíká do chodby (MODEL dítěte)"
+     },
+     {
+      "num": 85,
+      "obraz": 7,
+      "size": "Polodetail",
+      "camera": "Eliška u Matky / Statický",
+      "action": "Eliška klečí u Matky a dívá se na ni: „Mami, ty ho zmáčkneš!“"
+     },
+     {
+      "num": 89,
+      "obraz": 7,
+      "size": "Polocelek",
+      "camera": "Dveře / chodba / Statický",
+      "action": "Hlas za dveřmi: „Paní Nováková? To jsem já, ze sociálky. Volala jsem vám...“"
+     },
+     {
+      "num": 90,
+      "obraz": 7,
+      "size": "Polodetail",
+      "camera": "Eliška / Statický",
+      "action": "Zvuk se pročistí do reality; Eliška čistým hlasem: „Mami... Filípek.“"
+     },
+     {
+      "num": 95,
+      "obraz": 7,
+      "size": "Polodetail",
+      "camera": "Eliška / Statický",
+      "action": "Eliška se dlouze podívá na Matku, vstane, dojde ke dveřím a vezme za kliku"
+     },
+     {
+      "num": 96,
+      "obraz": 7,
+      "size": "Polocelek",
+      "camera": "Chodba zvenku na dveře / Statický",
+      "action": "Dveře se otevřou, v nich Eliška; rám se začne pomalu otevírat zpět k 16:9"
+     },
+     {
+      "num": 99,
+      "obraz": 7,
+      "size": "Celek",
+      "camera": "Chodba, otevřený rám (16:9)",
+      "action": "Klíčový celek: Matka sedí na podlaze, kolébá mrtvé dítě a zpívá „Hali, beli...“"
+     },
+     {
+      "num": 101,
+      "obraz": 7,
+      "size": "Polodetail",
+      "camera": "Přeostření z dopisu na Elišku",
+      "action": "Ostrost přejde na Elišku – klečí vedle Matky a upřeně se dívá na ni (ne ke dveřím)"
+     },
+     {
+      "num": 102,
+      "obraz": 7,
+      "size": "Celek (držený)",
+      "camera": "Chodba / Statický",
+      "action": "Statický doznělý celek chodby v tichu. FADE OUT. KONEC FILMU."
+     }
+    ]
+   }
+  ]
  }
 }

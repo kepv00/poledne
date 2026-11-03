@@ -4,10 +4,12 @@ import * as S from './store.js';
 import { h, icon, lsGet, lsSet, toast } from './util.js';
 import * as Shots from './shots.js';
 import { planView, litView, techView, boardView, lightView, driveView } from './views.js';
+import { scriptView } from './script.js';
 
 const TABS = [
   { id: 'zabery', label: 'Jednotlivé záběry', short: 'Záběry', mount: Shots.mount, primary: true },
   { id: 'plan', label: 'Natáčecí plán', short: 'Plán', mount: planView, primary: true },
+  { id: 'script', label: 'Script', short: 'Script', mount: scriptView },
   { id: 'scenar', label: 'Literární scénář', short: 'Scénář', mount: litView, primary: true },
   { id: 'technicky', label: 'Technický scénář', short: 'Technický', mount: techView },
   { id: 'storyboard', label: 'Storyboard', short: 'Storyboard', mount: boardView, primary: true },
