@@ -6839,5 +6839,327 @@
     ]
    }
   ]
+ },
+ "sound": {
+  "title": "Zvukový plán",
+  "file": "zvukovy-plan.pdf",
+  "pdfOrder": [
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   1
+  ],
+  "scenes": [
+   {
+    "n": 1,
+    "place": "Třída",
+    "img": "img/002.jpg",
+    "dialog": [
+     {
+      "char": "SPOLUŽAČKA",
+      "text": "...matku vzkřísil ještě stěží, avšak dítě – zalknuté."
+     },
+     {
+      "char": "UČITELKA",
+      "text": "Výborně. Posaď se."
+     },
+     {
+      "char": "UČITELKA",
+      "text": "Tak kdo dál... Eliško."
+     },
+     {
+      "char": "UČITELKA",
+      "text": "To nevadí. Douč se to doma. Do zítřka."
+     }
+    ],
+    "foley": [
+     "kreslení",
+     "položení tužky",
+     "zaklapnutí sešitu",
+     "posunutí židle",
+     "kroky",
+     "školní zvonek"
+    ],
+    "threats": [
+     "zářivky",
+     "topení a ventilace",
+     "hodiny",
+     "zvonek",
+     "chodba",
+     "ulice za oknem",
+     "skřípání bot",
+     "lavice a židle"
+    ]
+   },
+   {
+    "n": 2,
+    "place": "Šatny",
+    "img": "img/009.jpg",
+    "dialog": [],
+    "foley": [
+     "zavření skřínky",
+     "vzdálené hlasy a smích",
+     "kroky",
+     "vítr",
+     "zvuky batohu a oblečení"
+    ],
+    "threats": [
+     "zářivky",
+     "topení a ventilace",
+     "hodiny",
+     "zvonek",
+     "chodba",
+     "skřínky"
+    ]
+   },
+   {
+    "n": 3,
+    "place": "Sídliště",
+    "img": "img/014.jpg",
+    "dialog": [],
+    "foley": [
+     "vítr",
+     "kroky",
+     "vzdálená auta",
+     "houpačka",
+     "listí ve větru"
+    ],
+    "threats": [
+     "vítr",
+     "auta",
+     "kontejnery a popelnice",
+     "městský ruch",
+     "dětská hřiště"
+    ]
+   },
+   {
+    "n": 4,
+    "place": "Panelák",
+    "img": "img/021.jpg",
+    "dialog": [],
+    "foley": [
+     "vítr",
+     "drnčení plechu",
+     "prádlo",
+     "vchodové dveře",
+     "pláč",
+     "schránka",
+     "šustění papíru"
+    ],
+    "threats": [
+     "vítr",
+     "auta",
+     "kontejnery a popelnice",
+     "městský ruch",
+     "dětská hřiště"
+    ]
+   },
+   {
+    "n": 5,
+    "place": "Vchod",
+    "img": "img/027.jpg",
+    "dialog": [
+     {
+      "char": "ELIŠKA",
+      "text": "Mami, jsem doma!"
+     }
+    ],
+    "foley": [
+     "pláč",
+     "cinkot nádobí",
+     "syčení hrnce",
+     "zámek",
+     "otevření dveří",
+     "televize",
+     "kroky"
+    ],
+    "threats": [
+     "sousedi",
+     "výtah",
+     "stoupačky",
+     "lednice a přístroje",
+     "podlaha"
+    ]
+   },
+   {
+    "n": 6,
+    "place": "Kuchyň",
+    "img": "img/031.jpg",
+    "dialog": [
+     {
+      "char": "ELIŠKA",
+      "text": "Zase jsem šla domů sama."
+     },
+     {
+      "char": "MATKA",
+      "text": "Jak bylo ve škole?"
+     },
+     {
+      "char": "ELIŠKA",
+      "text": "Dobrý."
+     },
+     {
+      "char": "MATKA",
+      "text": "A známky?"
+     },
+     {
+      "char": "ELIŠKA",
+      "text": "Taky dobrý."
+     },
+     {
+      "char": "MATKA",
+      "text": "Dobrý je za tři."
+     },
+     {
+      "char": "MATKA",
+      "text": "Halí, belí, koně v zelí a hříbátka, v petrželi."
+     },
+     {
+      "char": "MATKA",
+      "text": "Umyj si ruce. Za chvíli jíme."
+     },
+     {
+      "char": "ELIŠKA",
+      "text": "Mami, hrnec!"
+     },
+     {
+      "char": "MATKA",
+      "text": "Jo... díky."
+     },
+     {
+      "char": "MATKA",
+      "text": "Máte úkol?"
+     },
+     {
+      "char": "ELIŠKA",
+      "text": "Musím se naučit básničku."
+     },
+     {
+      "char": "ELIŠKA",
+      "text": "Přijde zas ta paní?"
+     },
+     {
+      "char": "ELIŠKA",
+      "text": "U lavice dítě stálo, z plna hrdla křičelo..."
+     },
+     {
+      "char": "MATKA",
+      "text": "Sbal si věci. Honem. Jedeme k babičce."
+     },
+     {
+      "char": "ELIŠKA",
+      "text": "„Mlč! Hle husar a kočárek hrej si – tu máš kohouta!\" Než kohout, vůz i husárek bouch, bác! letí do kouta."
+     },
+     {
+      "char": "ELIŠKA",
+      "text": "Mami."
+     },
+     {
+      "char": "ELIŠKA",
+      "text": "Babička už nežije. Přece to víš."
+     },
+     {
+      "char": "MATKA",
+      "text": "Přestaň už s tím!"
+     },
+     {
+      "char": "MATKA",
+      "text": "Tak už buď zticha!"
+     },
+     {
+      "char": "ELIŠKA",
+      "text": "...Pojď si proň, ty Polednice, pojď, vem si ho zlostníka!"
+     },
+     {
+      "char": "MATKA",
+      "text": "Tak si pro něj pojď!"
+     },
+     {
+      "char": "ELIŠKA",
+      "text": "Mami, co se stalo?"
+     }
+    ],
+    "foley": [
+     "pláč",
+     "cinkot nádobí",
+     "syčení hrnce",
+     "zámek",
+     "otevření dveří",
+     "televize",
+     "výstraha",
+     "nádechy",
+     "otevření skřínky",
+     "sklenička",
+     "přetečení hrnce",
+     "otevření obálky",
+     "papír",
+     "kroky",
+     "odsunutí židle",
+     "balení věcí",
+     "prášky",
+     "vibrace telefonu",
+     "recitace",
+     "vítr",
+     "cvaknutí jističe",
+     "závěsy ve větru",
+     "siréna",
+     "ťukání"
+    ],
+    "threats": [
+     "sousedi",
+     "výtah",
+     "stoupačky",
+     "lednice a přístroje",
+     "podlaha"
+    ]
+   },
+   {
+    "n": 7,
+    "place": "Vchod",
+    "img": "img/080.jpg",
+    "dialog": [
+     {
+      "char": "ELIŠKA",
+      "text": "Mami, ty ho zmáčkneš!"
+     },
+     {
+      "char": "PRACOVNICE",
+      "text": "Paní Nováková? To jsem já, ze sociálky. Volala jsem vám. Otevřete, prosím."
+     },
+     {
+      "char": "ELIŠKA",
+      "text": "Mami... Filípek."
+     },
+     {
+      "char": "MATKA",
+      "text": "Halí, belí, koně v zelí..."
+     },
+     {
+      "char": "PRACOVNICE",
+      "text": "Paní Nováková...?"
+     }
+    ],
+    "foley": [
+     "pláč",
+     "nádechy",
+     "ťukání",
+     "bouchání",
+     "papír",
+     "zpěv",
+     "otevření dveří",
+     "hysterie"
+    ],
+    "threats": [
+     "sousedi",
+     "výtah",
+     "stoupačky",
+     "lednice a přístroje",
+     "podlaha"
+    ]
+   }
+  ]
  }
 }

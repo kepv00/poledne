@@ -5,6 +5,7 @@ import { h, icon, lsGet, lsSet, toast } from './util.js';
 import * as Shots from './shots.js';
 import { planView, litView, techView, boardView, lightView, driveView } from './views.js';
 import { scriptView } from './script.js';
+import { soundView } from './sound.js';
 import { exportPhotos, importPhotos } from './photos.js';
 
 const TABS = [
@@ -13,6 +14,7 @@ const TABS = [
   { id: 'script', label: 'Script', short: 'Script', mount: scriptView },
   { id: 'scenar', label: 'Literární scénář', short: 'Scénář', mount: litView, primary: true },
   { id: 'technicky', label: 'Technický scénář', short: 'Technický', mount: techView },
+  { id: 'zvuk', label: 'Zvukový plán', short: 'Zvuk', mount: soundView },
   { id: 'storyboard', label: 'Storyboard', short: 'Storyboard', mount: boardView, primary: true },
   { id: 'svetlo', label: 'Světlo a rekvizity', short: 'Světlo', mount: lightView },
   { id: 'disk', label: 'Google Disk', short: 'Disk', mount: driveView },

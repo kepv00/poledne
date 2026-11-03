@@ -14,6 +14,7 @@ js/main.js              router (#/…), téma, režim úprav, export/import, kl�
 js/store.js             načtení data.json + overlay úprav v localStorage, odvozené údaje
 js/shots.js             záložka „Jednotlivé záběry“ (seznam, přepínač pořadí, filtry, detail)
 js/script.js            záložka Script (skriptovací deník)
+js/sound.js             záložka Zvukový plán
 js/photos.js            fotky k poznámkám (fotoaparát, IndexedDB, export/import)
 js/views.js             ostatní záložky (plán, scénáře, storyboard, světlo + rekvizity, Disk)
 js/parts.js             sdílené kousky UI (rámeček záběru, štítky, editovatelná pole)
@@ -21,7 +22,7 @@ js/print.js             tisk natáčecího dne
 data.json               data filmu (záběry, obrazy, rekvizity, dny, literární scénář)
 img/                    storyboard: NNN.jpg (detail) a NNN_t.jpg (miniatura)
 js/diagram.js           kreslení schémat svícení (SVG) z dat
-rekvizity.pdf, storyboard_v3.pdf, poledne_tech_sc.docx, poledne_lit_sc.pdf, skriptovaci-denik-poledne.xlsx
+rekvizity.pdf, storyboard_v3.pdf, poledne_tech_sc.docx, poledne_lit_sc.pdf, skriptovaci-denik-poledne.xlsx, zvukovy-plan.pdf
 icons/                  ikony aplikace
 docs/ZADANI.md          původní zadání
 ```
@@ -119,6 +120,8 @@ Na iPhonu si aplikaci přidejte na plochu – Safari jinak může data webu po t
   a `entries` – vyplněné ostré klapky a poznámky skriptu podle klíče `"<den>:<záběr>"`. Sloupec Hotovo je napojený
   na „natočeno“ u záběru. Klapky a poznámky se na place ukládají v prohlížeči; do sdíleného `data.json` se dostanou
   přes Export JSON. Tlačítko Export CSV stáhne celý deník pro Excel.
+- `sound` – zvukový plán ze `zvukovy-plan.pdf`: `scenes[]` s číslem obrazu `n`, prostorem `place`, obrázkem `img`,
+  dialogy `dialog[{char, text}]`, ruchy `foley[]` a hrozbami `threats[]` (rušivé zvuky prostoru).
 - `img/banner.jpg` – banner filmu (záložka Google Disk), `img/pudorys.png` – půdorys bytu z technického scénáře.
 
 Nové obrázky: `img/NNN.jpg` (cca 1200 px) a `img/NNN_t.jpg` (cca 320 px). Záběry 4:3 apod. mají kresbu uprostřed

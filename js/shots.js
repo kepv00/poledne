@@ -443,7 +443,8 @@ function secText(s, sc, ed) {
         ['Úhel', h('span', null, s.angle)],
         ['Pohyb', field(s.move, set('move'), { multiline: false, label: 'Pohyb kamery' })],
         ['Objektiv', h('span', null, S.lensFor(s) || '—')]))),
-    sec('Zvuk', field(s.sound, set('sound'), { label: 'Zvuk' })),
+    sec('Zvuk', field(s.sound, set('sound'), { label: 'Zvuk' }),
+      S.get().sound ? h('a', { class: 'more', href: '#/zvuk/' + s.obraz }, `Zvukový plán – scéna ${s.obraz} →`) : null),
     sec('Poznámky', field(s.notes, set('notes'), { label: 'Poznámky' })),
   ];
 }
