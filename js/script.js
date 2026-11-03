@@ -4,6 +4,7 @@
 import * as S from './store.js';
 import { h, debounce, lsGet, lsSet, dayShort, icon, toast } from './util.js';
 import { doneBox } from './parts.js';
+import { photoField } from './photos.js';
 
 const DAY_KEY = 'poledne.scriptDay';
 const COLS = [
@@ -76,7 +77,7 @@ export function scriptView(root, arg) {
       h('td', { class: 'c-act', 'data-l': 'Akce' }, r.action),
       h('td', { class: 'c-klap', 'data-l': 'Klapka' }, klap),
       h('td', { class: 'c-done', 'data-l': 'Hotovo' }, s ? doneBox(s) : null),
-      h('td', { class: 'c-note', 'data-l': 'Poznámka' }, note));
+      h('td', { class: 'c-note', 'data-l': 'Poznámka' }, note, photoField('s:' + key, { compact: true })));
     return tr;
   }
 

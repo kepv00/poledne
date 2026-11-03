@@ -5,6 +5,7 @@ import { h, icon, lsGet, lsSet, toast } from './util.js';
 import * as Shots from './shots.js';
 import { planView, litView, techView, boardView, lightView, driveView } from './views.js';
 import { scriptView } from './script.js';
+import { exportPhotos, importPhotos } from './photos.js';
 
 const TABS = [
   { id: 'zabery', label: 'Jednotlivé záběry', short: 'Záběry', mount: Shots.mount, primary: true },
@@ -115,6 +116,8 @@ function initEdit() {
     h('div', { class: 'edit-bar-a' },
       h('button', { type: 'button', class: 'btn btn-sm', onclick: doExport }, 'Export JSON'),
       h('button', { type: 'button', class: 'btn btn-sm', onclick: () => fileIn.click() }, 'Import JSON'),
+      h('button', { type: 'button', class: 'btn btn-sm', onclick: () => exportPhotos() }, 'Export fotek'),
+      h('button', { type: 'button', class: 'btn btn-sm', onclick: importPhotosPick }, 'Import fotek'),
       h('button', { type: 'button', class: 'btn btn-sm btn-danger', onclick: doReset }, 'Obnovit původní'),
       h('button', { type: 'button', class: 'btn btn-sm btn-primary', onclick: () => set(false) }, 'Hotovo')));
   fileIn.addEventListener('change', async () => {
@@ -128,6 +131,23 @@ function initEdit() {
       toast('Import selhal: ' + err.message);
     }
   });
+}
+
+function importPhotosPick() {
+  const inp = h('input', { type: 'file', accept: 'application/json,.json', hidden: true });
+  inp.addEventListener('change', async () => {
+    const f = inp.files[0];
+    inp.remove();
+    if (!f) return;
+    try {
+      const n = await importPhotos(JSON.parse(await f.text()));
+      toast(`Importováno ${n} fotek.`);
+      current.tab = null;
+      route();
+    } catch (err) { toast('Import fotek selhal: ' + err.message); }
+  });
+  document.body.append(inp);
+  inp.click();
 }
 
 function doExport() {

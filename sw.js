@@ -3,7 +3,7 @@
 // - velké obrázky a PDF se ukládají při prvním zobrazení,
 // - aplikace a data.json jdou nejdřív ze sítě (aby se projevily nové verze), offline z cache.
 
-const VERSION = 'poledne-v6';
+const VERSION = 'poledne-v7';
 const SHELL = [
   './',
   'index.html',
@@ -22,6 +22,7 @@ const SHELL = [
   'icons/apple-touch-icon.png',
   'js/diagram.js',
   'js/script.js',
+  'js/photos.js',
   'rekvizity.pdf',
   'data.json',
 ];

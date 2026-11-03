@@ -3,6 +3,7 @@
 import * as S from './store.js';
 import { h, debounce, lsGet, lsSet, dayLabel, dayShort, matchesQuery, icon, isWide } from './util.js';
 import { frame, chips, doneBox, field, lightChip, statusPill, litBlock } from './parts.js';
+import { photoField } from './photos.js';
 
 const MODE_KEY = 'poledne.mode';
 const EMPTY_F = { char: '', obraz: '', day: '' };
@@ -509,5 +510,6 @@ function secNotes(s) {
   ta.value = s.contNotes || '';
   ta.addEventListener('input', debounce(() => S.setShot(s.num, { contNotes: ta.value }, { silent: true }), 300));
   return sec('Poznámky k návaznosti', h('label', { class: 'sr-only', for: 'cont-notes' }, 'Poznámky k návaznosti'), ta,
-    h('p', { class: 'muted small' }, 'Ukládá se v tomto prohlížeči; sdílí se přes Export JSON.'));
+    photoField('c:' + s.num),
+    h('p', { class: 'muted small' }, 'Text se sdílí přes Export JSON, fotky přes Export fotek (✎).'));
 }

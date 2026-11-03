@@ -14,6 +14,7 @@ js/main.js              router (#/…), téma, režim úprav, export/import, kl�
 js/store.js             načtení data.json + overlay úprav v localStorage, odvozené údaje
 js/shots.js             záložka „Jednotlivé záběry“ (seznam, přepínač pořadí, filtry, detail)
 js/script.js            záložka Script (skriptovací deník)
+js/photos.js            fotky k poznámkám (fotoaparát, IndexedDB, export/import)
 js/views.js             ostatní záložky (plán, scénáře, storyboard, světlo + rekvizity, Disk)
 js/parts.js             sdílené kousky UI (rámeček záběru, štítky, editovatelná pole)
 js/print.js             tisk natáčecího dne
@@ -85,6 +86,14 @@ Aby je viděli všichni:
    **Obnovit původní** je smaže a načte čistý `data.json`.
 
 **Import JSON** načte exportovaný soubor jako místní úpravy (např. předání mezi notebookem a iPadem bez commitu).
+
+### Fotky k poznámkám
+
+U poznámky skriptu (záložka Script) a u poznámek k návaznosti (detail záběru) je tlačítko 📷 **Vyfotit**. Na telefonu
+rovnou otevře fotoaparát, vedle je **Z galerie**. Fotka se zmenší na max. 1600 px (≈ 200–400 kB) a uloží
+**jen v daném zařízení** (IndexedDB) – do `data.json` ani na GitHub nejde. Sdílení: ✎ → **Export fotek** stáhne
+`poledne-fotky-RRRR-MM-DD.json`, na jiném zařízení ✎ → **Import fotek** (stejné fotky se nezdvojí).
+Na iPhonu si aplikaci přidejte na plochu – Safari jinak může data webu po týdnu nepoužívání smazat.
 
 ### Ruční úpravy `data.json`
 
