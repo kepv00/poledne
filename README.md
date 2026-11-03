@@ -15,6 +15,7 @@ js/store.js             načtení data.json + overlay úprav v localStorage, odv
 js/shots.js             záložka „Jednotlivé záběry“ (seznam, přepínač pořadí, filtry, detail)
 js/script.js            záložka Script (skriptovací deník)
 js/sound.js             záložka Zvukový plán
+js/backup.js            záloha skriptovacího deníku do Google tabulky
 js/photos.js            fotky k poznámkám (fotoaparát, IndexedDB, export/import)
 js/views.js             ostatní záložky (plán, scénáře, storyboard, světlo + rekvizity, Disk)
 js/parts.js             sdílené kousky UI (rámeček záběru, štítky, editovatelná pole)
@@ -95,6 +96,20 @@ rovnou otevře fotoaparát, vedle je **Z galerie**. Fotka se zmenší na max. 16
 **jen v daném zařízení** (IndexedDB) – do `data.json` ani na GitHub nejde. Sdílení: ✎ → **Export fotek** stáhne
 `poledne-fotky-RRRR-MM-DD.json`, na jiném zařízení ✎ → **Import fotek** (stejné fotky se nezdvojí).
 Na iPhonu si aplikaci přidejte na plochu – Safari jinak může data webu po týdnu nepoužívání smazat.
+
+### Záloha deníku na Google Disk
+
+Záložka Script posílá celý deník (klapky, hotovo, poznámky, počet fotek) do Google tabulky
+**Skriptovací deník – záloha** ve složce *Záloha* na Disku: zhruba 20 s po změně, nejpozději jednou denně
+a po návratu signálu. List *Deník* má vždy aktuální stav, *Info* čas a zařízení poslední zálohy,
+*Historie* řádek za každou zálohu i s kompletními daty (JSON).
+
+- Přijímá to Apps Script připojený k tabulce (kód v `docs/zaloha-apps-script.gs`, v repozitáři bez klíče),
+  nasazený jako webová aplikace. Zapisovat smí jen ten, kdo zná klíč.
+- Adresa a klíč se zadávají v aplikaci (Script → Záloha na Google Disk → Nastavení) a ukládají se jen
+  v daném zařízení – do repozitáře nepatří.
+- Při úpravě skriptu: Apps Script → Implementovat → Spravovat implementace → upravit → Nová verze
+  (adresa zůstane stejná).
 
 ### Ruční úpravy `data.json`
 

@@ -6,6 +6,7 @@ import * as Shots from './shots.js';
 import { planView, litView, techView, boardView, lightView, driveView } from './views.js';
 import { scriptView } from './script.js';
 import { soundView } from './sound.js';
+import { initBackup } from './backup.js';
 import { exportPhotos, importPhotos } from './photos.js';
 
 const TABS = [
@@ -188,6 +189,7 @@ async function start() {
     return;
   }
   initEdit();
+  initBackup();
   S.on(kind => current.view?.onStore?.(kind));
   addEventListener('hashchange', route);
   addEventListener('keydown', e => {

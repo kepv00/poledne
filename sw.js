@@ -3,7 +3,7 @@
 // - velké obrázky a PDF se ukládají při prvním zobrazení,
 // - aplikace a data.json jdou nejdřív ze sítě (aby se projevily nové verze), offline z cache.
 
-const VERSION = 'poledne-v8';
+const VERSION = 'poledne-v9';
 const SHELL = [
   './',
   'index.html',
@@ -24,6 +24,7 @@ const SHELL = [
   'js/script.js',
   'js/photos.js',
   'js/sound.js',
+  'js/backup.js',
   'rekvizity.pdf',
   'data.json',
 ];

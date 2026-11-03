@@ -116,6 +116,14 @@ export function photoField(key, { compact = false } = {}) {
   return box;
 }
 
+// Počet fotek podle klíče (pro zálohu)
+export async function countsByKey() {
+  const all = await tx('readonly', st => st.getAll());
+  const out = {};
+  for (const r of all) out[r.key] = (out[r.key] || 0) + 1;
+  return out;
+}
+
 // ---------- export / import ----------
 const toB64 = blob => new Promise(res => { const r = new FileReader(); r.onload = () => res(r.result); r.readAsDataURL(blob); });
 

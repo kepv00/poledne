@@ -5,6 +5,7 @@ import * as S from './store.js';
 import { h, debounce, lsGet, lsSet, dayShort, icon, toast } from './util.js';
 import { doneBox } from './parts.js';
 import { photoField } from './photos.js';
+import { backupBox } from './backup.js';
 
 const DAY_KEY = 'poledne.scriptDay';
 const COLS = [
@@ -135,6 +136,7 @@ export function scriptView(root, arg) {
     h('div', { class: 'sd-crew' },
       h('label', { class: 'sd-crew-f' }, h('span', null, 'Režie'), h('strong', null, SC.crew?.rezie || '—')),
       crewField('skript', 'Skript'), crewField('kamera', 'Kamera'),
+      backupBox(),
       h('p', { class: 'muted small' }, 'Klapky a poznámky se ukládají v tomto prohlížeči, sdílí se přes Export JSON (✎). Hotovo = natočeno u záběru.')),
     tabs, body));
   renderTabs();
