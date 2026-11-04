@@ -43,6 +43,10 @@ export function doneBox(s, { big = false } = {}) {
 
 export function setDone(num, val) {
   S.setShot(num, { done: val }, { silent: true });
+  paintDone(num, val);
+}
+
+export function paintDone(num, val) {
   document.querySelectorAll(`[data-done-cb="${num}"]`).forEach(cb => { cb.checked = val; });
   document.querySelectorAll(`[data-done-row="${num}"]`).forEach(r => r.classList.toggle('is-done', val));
 }

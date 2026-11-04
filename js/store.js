@@ -99,6 +99,42 @@ function derive() {
 
 function save() { lsSet(KEY, JSON.stringify(ov)); }
 function emit(kind) { subs.forEach(f => f(kind)); }
+
+// ---------- synchronizace mezi zařízeními ----------
+// Klíče: done:<záběr>, cont:<záběr>, s:<den>:<záběr>:k (klapka), s:<den>:<záběr>:n (poznámka), crew:<pole>, prop:<index>
+let tracker = null;
+export const setTracker = fn => { tracker = fn; };
+const track = (k, v) => tracker?.(k, v);
+
+// Aktuální hodnoty všech synchronizovaných polí (pro první synchronizaci zařízení)
+export function syncSnapshot() {
+  const out = {};
+  for (const s of data.shots) {
+    if (s.done) out['done:' + s.num] = true;
+    if (s.contNotes) out['cont:' + s.num] = s.contNotes;
+  }
+  for (const [key, e] of Object.entries(data.script?.entries || {})) {
+    if (e.klapka) out[`s:${key}:k`] = e.klapka;
+    if (e.note) out[`s:${key}:n`] = e.note;
+  }
+  for (const [k, v] of Object.entries(ov.script?.crew || {})) if (v) out['crew:' + k] = v;
+  for (const [i, p] of Object.entries(ov.props || {})) if (p.status) out['prop:' + i] = p.status;
+  return out;
+}
+
+// Hodnota přišla z jiného zařízení – uložit bez zpětného hlášení do synchronizace
+export function applyRemote(k, v) {
+  const [type, a, b, c] = k.split(':');
+  const prev = tracker; tracker = null;
+  try {
+    if (type === 'done' && byNum.has(+a)) setShot(+a, { done: !!v }, { silent: true });
+    else if (type === 'cont' && byNum.has(+a)) setShot(+a, { contNotes: v || '' }, { silent: true });
+    else if (type === 's' && data.script) setScriptEntry(`${a}:${b}`, { [c === 'k' ? 'klapka' : 'note']: v || '' });
+    else if (type === 'crew' && data.script) setScriptCrew({ [a]: v || '' });
+    else if (type === 'prop' && data.props[+a]) setProp(+a, { status: v });
+  } finally { tracker = prev; }
+}
+
 export function on(fn) { subs.add(fn); return () => subs.delete(fn); }
 
 // ---------- čtení ----------
@@ -187,7 +223,10 @@ export function setEditing(b) {
 export function setShot(n, patch, { silent = false } = {}) {
   ov.shots ??= {};
   ov.shots[n] = { ...ov.shots[n], ...patch };
-  Object.assign(byNum.get(+n), patch);
+  const before = byNum.get(+n);
+  if ('done' in patch && !!before.done !== !!patch.done) track('done:' + n, !!patch.done);
+  if ('contNotes' in patch && (before.contNotes || '') !== (patch.contNotes || '')) track('cont:' + n, patch.contNotes || '');
+  Object.assign(before, patch);
   if ('lit' in patch) derive();
   save();
   emit(silent ? ('done' in patch ? 'done' : 'field') : 'structure');
@@ -204,6 +243,7 @@ export function setScene(n, patch) {
 export function setProp(i, patch) {
   ov.props ??= {};
   ov.props[i] = { ...ov.props[i], ...patch };
+  if ('status' in patch && data.props[i].status !== patch.status) track('prop:' + i, patch.status);
   Object.assign(data.props[i], patch);
   save();
   emit('props');
@@ -249,7 +289,10 @@ export const scriptEntry = key => data.script?.entries?.[key] || {};
 export function setScriptEntry(key, patch) {
   ov.script ??= { entries: {}, crew: {} };
   ov.script.entries ??= {};
-  const cur = { ...data.script.entries[key], ...patch };
+  const old = data.script.entries[key] || {};
+  if ('klapka' in patch && (old.klapka || '') !== (patch.klapka || '')) track(`s:${key}:k`, patch.klapka || '');
+  if ('note' in patch && (old.note || '') !== (patch.note || '')) track(`s:${key}:n`, patch.note || '');
+  const cur = { ...old, ...patch };
   for (const k of Object.keys(cur)) if (cur[k] === '' || cur[k] == null) delete cur[k];
   ov.script.entries[key] = cur;
   data.script.entries[key] = cur;
@@ -258,6 +301,7 @@ export function setScriptEntry(key, patch) {
 }
 export function setScriptCrew(patch) {
   ov.script ??= { entries: {}, crew: {} };
+  for (const [k, v] of Object.entries(patch)) if ((data.script.crew[k] || '') !== (v || '')) track('crew:' + k, v || '');
   ov.script.crew = { ...ov.script.crew, ...patch };
   Object.assign(data.script.crew, patch);
   save();

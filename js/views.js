@@ -404,7 +404,7 @@ export function lightView(root, arg) {
           h('td', { 'data-l': 'Záběry' }, p.shots),
           h('td', { 'data-l': 'Poznámka', class: 'muted' }, p.note || '—'),
           h('td', { 'data-l': 'Stav' }, ed
-            ? h('select', { 'aria-label': `Stav: ${p.name}`, onchange: e => S.setProp(i, { status: e.target.value }) },
+            ? h('select', { 'aria-label': `Stav: ${p.name}`, 'data-sync': 'prop:' + i, onchange: e => S.setProp(i, { status: e.target.value }) },
               S.PROP_STATUS.map(st => h('option', { value: st, selected: (p.status || 'Nemáme') === st }, st)))
             : statusPill(p.status || 'Nemáme'))))))));
   }

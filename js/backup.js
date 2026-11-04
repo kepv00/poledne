@@ -57,8 +57,14 @@ export async function backupNow(reason = 'ručně') {
 
 const auto = debounce(() => backupNow('automaticky po změně'), 20000);
 
+// volá synchronizace při každé změně na tomto zařízení
+export function noteLocalChange() {
+  if (!config()) return;
+  setState({ pending: true });
+  auto();
+}
+
 export function initBackup() {
-  S.on(kind => { if ((kind === 'field' || kind === 'done') && config()) { setState({ pending: true }); auto(); } });
   addEventListener('online', () => { if (config() && state().pending) backupNow('po připojení'); });
   setTimeout(() => {
     const st = state();
@@ -72,10 +78,11 @@ const fmt = t => new Date(t).toLocaleString('cs-CZ', { day: 'numeric', month: 'n
 export function backupBox() {
   const status = h('span', { class: 'bk-status' });
   const box = h('div', { class: 'bk' },
-    h('strong', null, 'Záloha na Google Disk'), status,
+    h('strong', null, 'Záloha a synchronizace'), status,
     h('button', { type: 'button', class: 'btn btn-sm', onclick: async () => {
       const r = await backupNow('ručně');
-      toast(r.ok ? 'Zálohováno na Google Disk.' : 'Záloha selhala: ' + r.error);
+      import('./sync.js').then(m => m.syncNow());
+      toast(r.ok ? 'Zálohováno a synchronizováno.' : 'Záloha selhala: ' + r.error);
     } }, 'Zálohovat teď'),
     h('button', { type: 'button', class: 'btn btn-sm btn-ghost', onclick: settings }, 'Nastavení'));
   const paint = () => {
@@ -105,7 +112,7 @@ function settings() {
   const device = h('input', { type: 'text', value: cfg.device || '', placeholder: 'např. iPhone skriptky', 'aria-label': 'Název zařízení' });
   const dlg = h('dialog', { class: 'bk-dlg', 'aria-label': 'Nastavení zálohy' },
     h('h2', null, 'Záloha na Google Disk'),
-    h('p', { class: 'muted small' }, 'Deník se posílá do Google tabulky ve složce Záloha. Adresa a klíč se uloží jen v tomto zařízení.'),
+    h('p', { class: 'muted small' }, 'Deník se zálohuje do Google tabulky ve složce Záloha a přes ni se synchronizuje se všemi zařízeními se stejnou adresou a klíčem. Adresa a klíč se uloží jen v tomto zařízení.'),
     h('label', null, h('span', null, 'Adresa webové aplikace'), url),
     h('label', null, h('span', null, 'Klíč'), klic),
     h('label', null, h('span', null, 'Název zařízení'), device),
@@ -113,11 +120,14 @@ function settings() {
       cfg.url ? h('button', { type: 'button', class: 'btn btn-sm btn-danger', onclick: () => { lsSet(CFG_KEY, 'null'); setState({ pending: false, error: '' }); dlg.close(); } }, 'Vypnout zálohu') : null,
       h('button', { type: 'button', class: 'btn btn-sm', onclick: () => dlg.close() }, 'Zrušit'),
       h('button', { type: 'button', class: 'btn btn-sm btn-primary', onclick: async () => {
+        if (!device.value.trim()) { toast('Pojmenujte zařízení, ať je v synchronizaci poznat.'); return; }
         if (!/^https:\/\/script\.google(usercontent)?\.com\//.test(url.value.trim())) { toast('Adresa musí začínat https://script.google.com/'); return; }
         lsSet(CFG_KEY, JSON.stringify({ url: url.value.trim(), klic: klic.value.trim(), device: device.value.trim() }));
         dlg.close();
+        localStorage.removeItem('poledne.syncSince');
         const r = await backupNow('první záloha');
-        toast(r.ok ? 'Záloha funguje.' : 'Záloha selhala: ' + r.error);
+        import('./sync.js').then(m => m.syncNow());
+        toast(r.ok ? 'Záloha a synchronizace fungují.' : 'Záloha selhala: ' + r.error);
       } }, 'Uložit a zálohovat')));
   dlg.addEventListener('close', () => dlg.remove());
   document.body.append(dlg);

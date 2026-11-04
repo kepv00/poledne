@@ -507,7 +507,7 @@ function secSchedule(s, loc, ed) {
 }
 
 function secNotes(s) {
-  const ta = h('textarea', { class: 'edit-field notes', id: 'cont-notes', rows: 3, placeholder: 'Pozice rekvizit, kostým, směr pohledu, co se změnilo mezi takty…' });
+  const ta = h('textarea', { class: 'edit-field notes', id: 'cont-notes', 'data-sync': 'cont:' + s.num, rows: 3, placeholder: 'Pozice rekvizit, kostým, směr pohledu, co se změnilo mezi takty…' });
   ta.value = s.contNotes || '';
   ta.addEventListener('input', debounce(() => S.setShot(s.num, { contNotes: ta.value }, { silent: true }), 300));
   return sec('Poznámky k návaznosti', h('label', { class: 'sr-only', for: 'cont-notes' }, 'Poznámky k návaznosti'), ta,

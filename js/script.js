@@ -6,6 +6,7 @@ import { h, debounce, lsGet, lsSet, dayShort, icon, toast } from './util.js';
 import { doneBox } from './parts.js';
 import { photoField } from './photos.js';
 import { backupBox } from './backup.js';
+import { syncLine } from './sync.js';
 
 const DAY_KEY = 'poledne.scriptDay';
 const COLS = [
@@ -54,7 +55,7 @@ export function scriptView(root, arg) {
     const s = S.shot(r.num);
     const klap = h('input', {
       type: 'text', class: 'sd-klap', value: e.klapka || '', inputmode: 'text', 'aria-label': `Ostrá klapka, záběr ${r.num}`,
-      'data-klap': '1',
+      'data-klap': '1', 'data-sync': `s:${key}:k`,
       onkeydown: ev => {
         if (ev.key !== 'Enter') return;
         ev.preventDefault();
@@ -62,7 +63,7 @@ export function scriptView(root, arg) {
         all[all.indexOf(ev.target) + 1]?.focus();
       },
     });
-    const note = h('textarea', { class: 'sd-note', rows: 1, 'aria-label': `Poznámka skriptu, záběr ${r.num}` });
+    const note = h('textarea', { class: 'sd-note', rows: 1, 'aria-label': `Poznámka skriptu, záběr ${r.num}`, 'data-sync': `s:${key}:n` });
     note.value = e.note || '';
     const saveRow = debounce(() => {
       S.setScriptEntry(key, { klapka: klap.value.trim(), note: note.value });
@@ -99,7 +100,7 @@ export function scriptView(root, arg) {
   }
 
   function crewField(key, label) {
-    const inp = h('input', { type: 'text', value: SC.crew?.[key] || '', 'aria-label': label, placeholder: '…' });
+    const inp = h('input', { type: 'text', value: SC.crew?.[key] || '', 'aria-label': label, placeholder: '…', 'data-sync': 'crew:' + key });
     inp.addEventListener('input', debounce(() => S.setScriptCrew({ [key]: inp.value.trim() }), 300));
     return h('label', { class: 'sd-crew-f' }, h('span', null, label), inp);
   }
@@ -136,7 +137,7 @@ export function scriptView(root, arg) {
     h('div', { class: 'sd-crew' },
       h('label', { class: 'sd-crew-f' }, h('span', null, 'Režie'), h('strong', null, SC.crew?.rezie || '—')),
       crewField('skript', 'Skript'), crewField('kamera', 'Kamera'),
-      backupBox(),
+      backupBox(), syncLine(),
       h('p', { class: 'muted small' }, 'Klapky a poznámky se ukládají v tomto prohlížeči, sdílí se přes Export JSON (✎). Hotovo = natočeno u záběru.')),
     tabs, body));
   renderTabs();

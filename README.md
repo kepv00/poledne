@@ -16,6 +16,7 @@ js/shots.js             záložka „Jednotlivé záběry“ (seznam, přepína�
 js/script.js            záložka Script (skriptovací deník)
 js/sound.js             záložka Zvukový plán
 js/backup.js            záloha skriptovacího deníku do Google tabulky
+js/sync.js              synchronizace mezi zařízeními přes tutéž tabulku
 js/photos.js            fotky k poznámkám (fotoaparát, IndexedDB, export/import)
 js/views.js             ostatní záložky (plán, scénáře, storyboard, světlo + rekvizity, Disk)
 js/parts.js             sdílené kousky UI (rámeček záběru, štítky, editovatelná pole)
@@ -97,19 +98,24 @@ rovnou otevře fotoaparát, vedle je **Z galerie**. Fotka se zmenší na max. 16
 `poledne-fotky-RRRR-MM-DD.json`, na jiném zařízení ✎ → **Import fotek** (stejné fotky se nezdvojí).
 Na iPhonu si aplikaci přidejte na plochu – Safari jinak může data webu po týdnu nepoužívání smazat.
 
-### Záloha deníku na Google Disk
+### Synchronizace a záloha přes Google Disk
 
-Záložka Script posílá celý deník (klapky, hotovo, poznámky, počet fotek) do Google tabulky
-**Skriptovací deník – záloha** ve složce *Záloha* na Disku: zhruba 20 s po změně, nejpozději jednou denně
-a po návratu signálu. List *Deník* má vždy aktuální stav, *Info* čas a zařízení poslední zálohy,
-*Historie* řádek za každou zálohu i s kompletními daty (JSON).
+Všechna zařízení se stejnou adresou a klíčem (Script → Záloha a synchronizace → Nastavení) se průběžně
+synchronizují přes Google tabulku **Skriptovací deník – záloha** ve složce *Záloha*, bez ohledu na síť
+nebo IP adresu. Synchronizuje se: ostrá klapka, poznámka skriptu, hotovo / natočeno, jména štábu,
+poznámky k návaznosti a stav rekvizit.
 
-- Přijímá to Apps Script připojený k tabulce (kód v `docs/zaloha-apps-script.gs`, v repozitáři bez klíče),
-  nasazený jako webová aplikace. Zapisovat smí jen ten, kdo zná klíč.
-- Adresa a klíč se zadávají v aplikaci (Script → Záloha na Google Disk → Nastavení) a ukládají se jen
-  v daném zařízení – do repozitáře nepatří.
-- Při úpravě skriptu: Apps Script → Implementovat → Spravovat implementace → upravit → Nová verze
-  (adresa zůstane stejná).
+- Změna se odešle asi 2 s po úpravě, zařízení se ptá na novinky každých 20 s (když je aplikace otevřená),
+  při návratu do aplikace a po návratu signálu. Offline změny čekají a odešlou se po připojení.
+- Platí novější změna (čas úpravy na zařízení). Pole, do kterého se zrovna píše, se nepřepisuje.
+- Tečka v hlavičce: zelená = synchronizováno, oranžová = čeká / offline / chyba, prázdná = vypnuto.
+- Hodnoty jsou ve skrytém listu *Sync*; list *Deník* je záloha celého deníku, *Historie* řádek za zálohu.
+- Server: Apps Script připojený k tabulce (`docs/zaloha-apps-script.gs`, v repozitáři bez klíče), nasazený
+  jako webová aplikace (Spustit jako: já, Přístup: kdokoli – zapisovat smí jen ten, kdo zná klíč).
+  Po úpravě skriptu: Implementovat → Spravovat implementace → upravit → Nová verze (adresa zůstane).
+  Pozor na víc přihlášených Google účtů – spravovat nasazení jde jen pod vlastníkem skriptu.
+- Fotky se zatím nesynchronizují (zůstávají v zařízení, sdílí se přes Export / Import fotek).
+- Úpravy v režimu ✎ (texty záběrů, plán, mapování) se nesynchronizují – ty jdou přes Export JSON a commit.
 
 ### Ruční úpravy `data.json`
 
